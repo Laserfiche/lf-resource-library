@@ -1,0 +1,68 @@
+# This is a basic workflow to help you get started with Actions
+
+name: lf-resource-library-ci
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+    inputs:
+      publishProduction:
+        description: 'Publish to npm production'
+        type: boolean
+        required: true
+        default: 'false'
+      publishPreview:
+        description: 'Publish to npm preview'
+        type: boolean
+        required: true
+        default: 'false'
+env:
+  MAJOR_VERSION: 1
+  MINOR_VERSION: 0
+  PATCH_VERSION: 0
+  publishProduction: 'false'
+  publishPreview: 'false'
+  
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  # This workflow contains a single job called "build"
+  publishNPM:
+    environment: publish
+    # The type of runner that the job will run on
+    runs-on: ubuntu-latest
+    if: ${{  github.event.inputs.publishPreview == 'true' || github.event.inputs.publishProduction == 'true' }}
+
+    steps:
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      - uses: actions/checkout@v2
+
+      - name: set up variable -- NpmPackageVersion and NpmTag for prod
+        if: ${{ github.event.inputs.publishProduction }}
+        run: |
+          echo "NpmPackageVersion=${{ env.MAJOR_VERSION }}.${{ env.MINOR_VERSION }}.${{ env.PATCH_VERSION }}" >> $GITHUB_ENV
+          echo "NpmTag='latest'" >> $GITHUB_ENV
+        
+      - name: Set up variable -- NpmPackageVersion and NpmTag for preview
+        if: ${{ github.event.inputs.publishPreview }}
+        run: |
+          echo "NpmPackageVersion=${{ env.MAJOR_VERSION }}.${{ env.MINOR_VERSION }}.${{ env.PATCH_VERSION }}--preview-${{ github.run_id }}" >> $GITHUB_ENV
+          echo "NpmTag='next'" >> $GITHUB_ENV
+        
+      - name: Echo NPM package version
+        run: echo ${{ env.NpmPackageVersion }}
+        
+      - name: Npm version
+        if: ${{ env.NpmPackageVersion }}
+        run: npm version ${{ env.NpmPackageVersion }} --no-git-tag-version
+
+      - name: Npm publish
+        run: npm publish  --access public  --tag ${{env.NpmTag }}
+        env:
+          NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
+          NPM_USERNAME: ${{ secrets.NPM_USERNAME }}
+          NPM_EMAIL: ${{ secrets.NPM_EMAIL }}
+          NPM_REGISTRY: ${{ secrets.NPM_REGISTRY }}
