@@ -5,7 +5,7 @@ We encourage and appreciate feedback and contribution from the community!
  - [Question or Problem](#question)
  - [Issue and Feature Requests](#issue)
  - [PR Submission Guidelines](#submit-pr)
- - [Coding Rules](#rules)
+ - [Rules](#rules)
 
 ## <a name="coc"></a> Code of Conduct
  Please read and follow our [Code of Conduct](https://github.com/Laserfiche/lf-resource-library/blob/main/code_of_conduct.md).
