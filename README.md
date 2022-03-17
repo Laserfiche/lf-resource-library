@@ -11,3 +11,6 @@ Contains resource files that can be used in conjunction with LfLocalizationServi
 4. Required/Default Language: en.json
    - If a resource key is not found in the selected language, the en string will be used.
 5. Optional Language: For Laserfiche, we recommend providing resources for at least: ar, en-US, en-GB, es, fr-CA, fr, pt-BR, zh-Hans, zh-Hant
+
+# Contribution
+We welcome contributions and feedback. Please follow our [contributing guidelines](https://github.com/Laserfiche/lf-resource-library/blob/main/CONTRIBUTING.md).
