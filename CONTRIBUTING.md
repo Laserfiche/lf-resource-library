@@ -12,17 +12,17 @@ We encourage and appreciate feedback and contribution from the community!
 
 ## <a name="question"></a> Question or Problem?
 
-Please post general questions on [StackOverflow](https://stackoverflow.com/questions/tagged/laserfiche-ui-components) where the questions should be tagged with tag `laserfiche-ui-components`.
+Please post general questions on [Laserfiche Answers](https://answers.laserfiche.com/). Please include *lf-resource-library* for reference.
 
 ## <a name="issue"></a> Issue and Feature Requests
 
-Please use [Github Issues](https://github.com/Laserfiche/lf-resource-library/issues) for bugs report or features request. 
+Search [Github Issues](https://github.com/Laserfiche/lf-resource-library/issues) for existing bugs report or features request related to your question. Please submit an Issue or Feature Request if your issues or requests have not been addressed.
 
 ## <a name="submit-pr"></a> PR Submission Guidelines
 
 - Search Github [Pull Requests](https://github.com/Laserfiche/lf-resource-library/pulls) for PRs related to your sumbission. Make sure that this is not a duplication.
 - Link the issue addressed by the PR.
-- Follow the contributing guideline on how to create resources
+- Follow the contributing guideline on how to create resources.
 
 After the submission, core members of the project will review the code. 
 
