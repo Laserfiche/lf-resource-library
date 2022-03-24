@@ -1,5 +1,5 @@
 {
-  "name": "lf-resource-library",
+  "name": "@laserfiche/lf-resource-library",
   "version": "1.0.0",
   "description": "a library containing resource files that can be used in conjunction with LfLocalizationService from `@laserfiche/lf-js-utils`",
   "repository": {
