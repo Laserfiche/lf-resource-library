@@ -16,7 +16,7 @@ By exercising the Licensed Rights (defined below), You accept and agree to be bo
 10.  **Sui Generis Database Rights** means rights other than copyright resulting from Directive 96/9/EC of the European Parliament and of the Council of 11 March 1996 on the legal protection of databases, as amended and/or succeeded, as well as other essentially equivalent rights anywhere in the world.
 11.  **You** means the individual or entity exercising the Licensed Rights under this Public License. **Your** has a corresponding meaning.
 
-<!-- ## <a name="s2"></a> Section 2 – Scope.
+## <a name="s2"></a> Section 2 – Scope.
 
 1.  **License grant**.
     1.  <a name="s2a1"></a> Subject to the terms and conditions of this Public License, the Licensor hereby grants You a worldwide, royalty-free, non-sublicensable, non-exclusive, irrevocable license to exercise the Licensed Rights in the Licensed Material to:
@@ -96,4 +96,4 @@ For the avoidance of doubt, this Section [4](#s4) supplements and does not repla
 1.  For the avoidance of doubt, this Public License does not, and shall not be interpreted to, reduce, limit, restrict, or impose conditions on any use of the Licensed Material that could lawfully be made without permission under this Public License.
 2.  To the extent possible, if any provision of this Public License is deemed unenforceable, it shall be automatically reformed to the minimum extent necessary to make it enforceable. If the provision cannot be reformed, it shall be severed from this Public License without affecting the enforceability of the remaining terms and conditions.
 3.  No term or condition of this Public License will be waived and no failure to comply consented to unless expressly agreed to by the Licensor.
-4.  Nothing in this Public License constitutes or may be interpreted as a limitation upon, or waiver of, any privileges and immunities that apply to the Licensor or You, including from the legal processes of any jurisdiction or authority. -->
+4.  Nothing in this Public License constitutes or may be interpreted as a limitation upon, or waiver of, any privileges and immunities that apply to the Licensor or You, including from the legal processes of any jurisdiction or authority.
