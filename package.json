@@ -1,0 +1,15 @@
+{
+  "name": "lf-resource-library",
+  "version": "1.0.0",
+  "description": "a library containing resource files that can be used in conjunction with LfLocalizationService from `@laserfiche/lf-js-utils`",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Laserfiche/lf-resource-library.git"
+  },
+  "author": "",
+  "license": "CC-BY-4.0",
+  "bugs": {
+    "url": "https://github.com/Laserfiche/lf-resource-library/issues"
+  },
+  "homepage": "https://github.com/Laserfiche/lf-resource-library#readme"
+}

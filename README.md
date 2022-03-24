@@ -1,5 +1,5 @@
 # Introduction 
-Contains resource files that can be used in conjunction with LfLocalizationService from `@laserfiche/laserfiche-ui-components-core`.
+Contains resource files that can be used in conjunction with LfLocalizationService from [`@laserfiche/lf-js-utils`](https://github.com/Laserfiche/lf-js-utils).
 
 # Creating a new resource
 1. Create a folder under resources (e.g. my-new-resources)
