@@ -42,7 +42,12 @@ let loading =  localizationService.getString('LOADING'); // loading -> 'Cargando
 
 # [Icons](https://github.com/Laserfiche/lf-resource-library/blob/main/resources/icons/document-icons-documentation.md)
 
-[**Example Usages**](https://github.com/Laserfiche/lf-js-utils/blob/7ce0108/src/utils/icon-utils.ts#L10)
+[**Example Usages**]
+```ts
+ export function getDocumentIconUrlFromIconId(iconId: string): string {
+    return `https://cdn.jsdelivr.net/npm/@laserfiche/lf-resource-library@1.0.0/resources/icons/document-icons.svg#${iconId}`; //
+}
+```
 
 # Contribution
 We welcome contributions and feedback. Please follow our [contributing guidelines](https://github.com/Laserfiche/lf-resource-library/blob/main/CONTRIBUTING.md).
