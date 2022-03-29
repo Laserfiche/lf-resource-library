@@ -45,7 +45,7 @@ let loading =  localizationService.getString('LOADING'); // loading -> 'Cargando
 [**Example Usages**]
 ```ts
  export function getDocumentIconUrlFromIconId(iconId: string): string {
-    return `https://cdn.jsdelivr.net/npm/@laserfiche/lf-resource-library@1.0.0/resources/icons/document-icons.svg#${iconId}`; //
+    return `https://cdn.jsdelivr.net/npm/@laserfiche/lf-resource-library@1.0.0/resources/icons/document-icons.svg#${iconId}`;
 }
 ```
 
