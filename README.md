@@ -15,7 +15,7 @@ Contains resource files that can be used in conjunction with LfLocalizationServi
 # Documentation
 
 ## With LfLocalizationService from [`@laserfiche/lf-js-utils`](https://github.com/Laserfiche/lf-js-utils)
-`LfLocalizationService` is a service that handles internationalization and localization, mapping text to its corresponding translated texts in the selected language. `@laserfiche/resource-manager` provides language resources files in JSON that can be utlized by LfLocalizationService.
+`LfLocalizationService` is a service that handles internationalization and localization, mapping text to its corresponding translated texts in the selected language. `@laserfiche/lf-resource-library` provides language resources files in JSON that can be utlized by LfLocalizationService.
 
 **Install @laserfiche/lf-js-utils:**
 ```
