@@ -12,5 +12,42 @@ Contains resource files that can be used in conjunction with LfLocalizationServi
    - If a resource key is not found in the selected language, the en string will be used.
 5. Optional Language: For Laserfiche, we recommend providing resources for at least: ar, en-US, en-GB, es, fr-CA, fr, pt-BR, zh-Hans, zh-Hant
 
+# Documentation
+
+## With LfLocalizationService from [`@laserfiche/lf-js-utils`](https://github.com/Laserfiche/lf-js-utils)
+`LfLocalizationService` is a service that handles internationalization and localization, mapping text to its corresponding translated texts in the selected language. `@laserfiche/lf-resource-library` provides language resources files in JSON that can be utlized by LfLocalizationService.
+
+**Install @laserfiche/lf-js-utils:**
+```
+npm install  @laserfiche/lf-js-utils
+```
+**Import LfLocalizationService:**
+```
+import { LfLocalizationService } from "@laserfiche/lf-js-utils";
+```
+**In node, import any fetch polyfill which suits your requirements:**
+examples:
+- [isomorphic-fetch](https://www.npmjs.com/package/isomorphic-fetch)
+- [cross-fetch](https://www.npmjs.com/package/cross-fetch)
+- [whatwg-fetch](https://www.npmjs.com/package/whatwg-fetch)
+
+**Example Usages**:
+
+```ts
+let localizationService = new LfLocalizationService();
+localizationService.setLanguage('es');
+await localizationService.initResourcesFromUrlAsync('https://cdn.jsdelivr.net/npm/@laserfiche/lf-resource-library@1.0.0/resources/laserfiche-base');
+let loading =  localizationService.getString('LOADING'); // loading -> 'Cargando...'
+```
+
+# [Icons](https://github.com/Laserfiche/lf-resource-library/blob/main/resources/icons/document-icons-documentation.md)
+
+[**Example Usages**]
+```ts
+ export function getDocumentIconUrlFromIconId(iconId: string): string {
+    return `https://cdn.jsdelivr.net/npm/@laserfiche/lf-resource-library@1.0.0/resources/icons/document-icons.svg#${iconId}`;
+}
+```
+
 # Contribution
 We welcome contributions and feedback. Please follow our [contributing guidelines](https://github.com/Laserfiche/lf-resource-library/blob/main/CONTRIBUTING.md).
