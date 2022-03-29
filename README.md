@@ -12,7 +12,7 @@ Contains resource files that can be used in conjunction with LfLocalizationServi
    - If a resource key is not found in the selected language, the en string will be used.
 5. Optional Language: For Laserfiche, we recommend providing resources for at least: ar, en-US, en-GB, es, fr-CA, fr, pt-BR, zh-Hans, zh-Hant
 
-# How to use
+# Documentation
 
 ## With LfLocalizationService from [`@laserfiche/lf-js-utils`](https://github.com/Laserfiche/lf-js-utils)
 `LfLocalizationService` is a service that handles internationalization and localization, mapping text to its corresponding translated texts in the selected language. `@laserfiche/resource-manager` provides language resources files in JSON that can be utlized by LfLocalizationService.
