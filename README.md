@@ -40,5 +40,9 @@ await localizationService.initResourcesFromUrlAsync('https://cdn.jsdelivr.net/np
 let loading =  localizationService.getString('LOADING'); // loading -> 'Cargando...'
 ```
 
+# [Icons](https://github.com/Laserfiche/lf-resource-library/blob/main/resources/icons/document-icons-documentation.md)
+
+[**Example Usages**](https://github.com/Laserfiche/lf-js-utils/blob/7ce0108/src/utils/icon-utils.ts#L10):
+
 # Contribution
 We welcome contributions and feedback. Please follow our [contributing guidelines](https://github.com/Laserfiche/lf-resource-library/blob/main/CONTRIBUTING.md).
