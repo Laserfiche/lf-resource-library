@@ -34,13 +34,13 @@ jobs:
       - uses: actions/checkout@v2
 
       - name: set up variable -- NpmPackageVersion and NpmTag for prod
-        if: ${{ github.event.inputs.publishProduction }}
+        if: ${{ github.event.inputs.publishProduction == 'true' }}
         run: |
           echo "NpmPackageVersion=${{ env.MAJOR_VERSION }}.${{ env.MINOR_VERSION }}.${{ env.PATCH_VERSION }}" >> $GITHUB_ENV
           echo "NpmTag='latest'" >> $GITHUB_ENV
         
       - name: Set up variable -- NpmPackageVersion and NpmTag for preview
-        if: ${{ github.event.inputs.publishPreview }}
+        if: ${{ github.event.inputs.publishPreview == 'true' }}
         run: |
           echo "NpmPackageVersion=${{ env.MAJOR_VERSION }}.${{ env.MINOR_VERSION }}.${{ env.PATCH_VERSION }}--preview-${{ github.run_id }}" >> $GITHUB_ENV
           echo "NpmTag='next'" >> $GITHUB_ENV
