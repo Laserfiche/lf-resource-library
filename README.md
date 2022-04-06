@@ -36,7 +36,7 @@ examples:
 ```ts
 let localizationService = new LfLocalizationService();
 localizationService.setLanguage('es');
-await localizationService.initResourcesFromUrlAsync('https://cdn.jsdelivr.net/npm/@laserfiche/lf-resource-library@1.0.0/resources/laserfiche-base');
+await localizationService.initResourcesFromUrlAsync('https://cdn.jsdelivr.net/npm/@laserfiche/lf-resource-library@2.0.0/resources/laserfiche-base');
 let loading =  localizationService.getString('LOADING'); // loading -> 'Cargando...'
 ```
 
@@ -45,9 +45,12 @@ let loading =  localizationService.getString('LOADING'); // loading -> 'Cargando
 [**Example Usages**]
 ```ts
  export function getDocumentIconUrlFromIconId(iconId: string): string {
-    return `https://cdn.jsdelivr.net/npm/@laserfiche/lf-resource-library@1.0.0/resources/icons/document-icons.svg#${iconId}`;
+    return `https://cdn.jsdelivr.net/npm/@laserfiche/lf-resource-library@2.0.0/resources/icons/document-icons.svg#${iconId}`;
 }
 ```
 
 # Contribution
 We welcome contributions and feedback. Please follow our [contributing guidelines](https://github.com/Laserfiche/lf-resource-library/blob/main/CONTRIBUTING.md).
+
+# Attributions
+The `fonts/google_material_icons_regular.woff2` file comes from Google Material
