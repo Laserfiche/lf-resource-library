@@ -51,6 +51,3 @@ let loading =  localizationService.getString('LOADING'); // loading -> 'Cargando
 
 # Contribution
 We welcome contributions and feedback. Please follow our [contributing guidelines](https://github.com/Laserfiche/lf-resource-library/blob/main/CONTRIBUTING.md).
-
-# Attributions
-The `fonts/google_material_icons_regular.woff2` file comes from Google Material
