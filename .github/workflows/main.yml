@@ -3,54 +3,37 @@ on:
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
-    inputs:
-      publishProduction:
-        description: 'Publish to npm production'
-        type: boolean
-        required: true
-        default: 'false'
-      publishPreview:
-        description: 'Publish to npm preview'
-        type: boolean
-        required: true
-        default: 'false'
+
 env:
-  MAJOR_VERSION: 2
-  MINOR_VERSION: 0
-  PATCH_VERSION: 0
-  publishProduction: 'false'
-  publishPreview: 'false'
+  NPM_VERSION: "2.0.1"
   
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
   # This workflow contains a single job called "build"
-  publishNPM:
-    environment: publish
+  publish_to_npm_preview:
+    environment: npm_preview
+    if: ${{ github.run_attempt != 1 }}
     runs-on: ubuntu-latest
-    if: ${{  github.event.inputs.publishPreview == 'true' || github.event.inputs.publishProduction == 'true' }}
 
     steps:
-      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v2
+        with:
+          ref: ${{ github.sha }}
 
-      - name: set up variable -- NpmPackageVersion and NpmTag for prod
-        if: ${{ github.event.inputs.publishProduction == 'true' }}
+      - name: set up variable -- NpmPackageVersion and NpmTag for preview
         run: |
-          echo "NpmPackageVersion=${{ env.MAJOR_VERSION }}.${{ env.MINOR_VERSION }}.${{ env.PATCH_VERSION }}" >> $GITHUB_ENV
-          echo "NpmTag='latest'" >> $GITHUB_ENV
-        
-      - name: Set up variable -- NpmPackageVersion and NpmTag for preview
-        if: ${{ github.event.inputs.publishPreview == 'true' }}
-        run: |
-          echo "NpmPackageVersion=${{ env.MAJOR_VERSION }}.${{ env.MINOR_VERSION }}.${{ env.PATCH_VERSION }}--preview-${{ github.run_id }}" >> $GITHUB_ENV
-          echo "NpmTag='next'" >> $GITHUB_ENV
+          echo "NpmPackageVersion=${{ env.NPM_VERSION }}--preview-${{ github.run_id }}" >> $GITHUB_ENV
         
       - name: Echo NPM package version
         run: echo ${{ env.NpmPackageVersion }}
         
       - name: Npm version
-        if: ${{ env.NpmPackageVersion }}
         run: npm version ${{ env.NpmPackageVersion }} --no-git-tag-version
+        env:
+          NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
+          NPM_USERNAME: ${{ secrets.NPM_USERNAME }}
+          NPM_EMAIL: ${{ secrets.NPM_EMAIL }}
+          NPM_REGISTRY: ${{ secrets.NPM_REGISTRY }}
 
       - name: Npm publish
         run: npm publish  --access public  --tag ${{env.NpmTag }}
@@ -59,3 +42,46 @@ jobs:
           NPM_USERNAME: ${{ secrets.NPM_USERNAME }}
           NPM_EMAIL: ${{ secrets.NPM_EMAIL }}
           NPM_REGISTRY: ${{ secrets.NPM_REGISTRY }}
+          
+      - name: Tag commit
+        uses: rickstaa/action-create-tag@v1
+        with:
+          tag: ${{ env.NpmPackageVersion }}
+          commit_sha: ${{ github.sha }}
+          message: Workflow run ${{github.server_url}}/${{github.repository}}/actions/runs/${{ github.run_id}} 
+          
+  publish_to_npm_release:
+    environment: npm_production
+    if: ${{ github.run_attempt != 1 }}
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          ref: ${{ github.sha }}
+        
+      - name: Echo NPM package version
+        run: echo ${{ env.NpmPackageVersion }}
+        
+      - name: Npm version
+        run: npm version ${{ env.NpmPackageVersion }} --no-git-tag-version
+        env:
+          NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
+          NPM_USERNAME: ${{ secrets.NPM_USERNAME }}
+          NPM_EMAIL: ${{ secrets.NPM_EMAIL }}
+          NPM_REGISTRY: ${{ secrets.NPM_REGISTRY }}
+
+      - name: Npm publish
+        run: npm publish  --access public  --tag ${{env.NpmTag }}
+        env:
+          NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
+          NPM_USERNAME: ${{ secrets.NPM_USERNAME }}
+          NPM_EMAIL: ${{ secrets.NPM_EMAIL }}
+          NPM_REGISTRY: ${{ secrets.NPM_REGISTRY }}
+          
+      - name: Tag commit
+        uses: rickstaa/action-create-tag@v1
+        with:
+          tag: ${{ env.NPM_VERSION }}
+          commit_sha: ${{ github.sha }}
+          message: Workflow run ${{github.server_url}}/${{github.repository}}/actions/runs/${{ github.run_id}} 
