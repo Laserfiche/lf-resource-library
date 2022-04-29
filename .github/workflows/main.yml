@@ -36,7 +36,7 @@ jobs:
           NPM_REGISTRY: ${{ secrets.NPM_REGISTRY }}
 
       - name: Npm publish
-        run: npm publish  --access public  --tag ${{env.NpmTag }}
+        run: npm publish  --access public  --tag next
         env:
           NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
           NPM_USERNAME: ${{ secrets.NPM_USERNAME }}
@@ -72,7 +72,7 @@ jobs:
           NPM_REGISTRY: ${{ secrets.NPM_REGISTRY }}
 
       - name: Npm publish
-        run: npm publish  --access public  --tag ${{env.NpmTag }}
+        run: npm publish  --access public  --tag latest
         env:
           NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
           NPM_USERNAME: ${{ secrets.NPM_USERNAME }}
