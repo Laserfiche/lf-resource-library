@@ -23,6 +23,15 @@ jobs:
       - name: set up variable -- NpmPackageVersion and NpmTag for preview
         run: |
           echo "NpmPackageVersion=${{ env.NPM_VERSION }}--preview-${{ github.run_id }}" >> $GITHUB_ENV
+          
+      - name: Setup Node.js environment
+        uses: actions/setup-node@v2.5.1
+        with:
+          node-version: '14'
+          registry-url: 'https://registry.npmjs.org'
+          
+      - name: Npm tool install
+        run: npm install -g npm@8
         
       - name: Echo NPM package version
         run: echo ${{ env.NpmPackageVersion }}
@@ -55,8 +64,14 @@ jobs:
       - name: Echo NPM package version
         run: echo ${{ env.NpmPackageVersion }}
         
-      - name: Npm version
-        run: npm version ${{ env.NpmPackageVersion }} --no-git-tag-version
+      - name: Setup Node.js environment
+        uses: actions/setup-node@v2.5.1
+        with:
+          node-version: '14'
+          registry-url: 'https://registry.npmjs.org'
+          
+      - name: Npm tool install
+        run: npm install -g npm@8
 
       - name: Npm publish
         run: npm publish  --access public  --tag latest
