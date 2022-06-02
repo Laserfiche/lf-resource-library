@@ -54,7 +54,6 @@
     "ONE_OR_MORE_FIELDS_INVALID": "Uno o più campi non sono validi.",
     "INVALID_DATE": "La data fornita non è valida.",
     "INVALID_FIELD_REQUIRED_FIELD_EMPTY": "Il campo richiesto è vuoto",
-    "LASERFICHE": "Laserfiche",
     "LOADING": "Sta caricando...",
     "LONG_FIELD_VALIDATOR_INVALID_MESSAGE": "I campi tipo lungo devono essere interi compresi tra 0 e 3,999,999,999",
     "MAX_FILE_SIZE_EXCEEDED": "Il file supera la dimensione massima di 25 MB.",

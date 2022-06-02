@@ -54,7 +54,6 @@
     "ONE_OR_MORE_FIELDS_INVALID": "一个或多个字段无效。",
     "INVALID_DATE": "提供的日期无效。",
     "INVALID_FIELD_REQUIRED_FIELD_EMPTY": "要求的字段是空的",
-    "LASERFICHE": "Laserfiche",
     "LOADING": "载入...",
     "LONG_FIELD_VALIDATOR_INVALID_MESSAGE": "长字段必须为0到3,999,999,999间的整数。",
     "MAX_FILE_SIZE_EXCEEDED": "该文件超过了25MB的最大文件大小。",

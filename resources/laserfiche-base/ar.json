@@ -54,7 +54,6 @@
     "ONE_OR_MORE_FIELDS_INVALID": "حقل واحد أو أكثر غير صالح.",
     "INVALID_DATE": "البيانات المتوفرة غير صالحة.",
     "INVALID_FIELD_REQUIRED_FIELD_EMPTY": "الحقل المطلوب فارغ",
-    "LASERFICHE": "Laserfiche",
     "LOADING": "جارٍ التحميل...",
     "LONG_FIELD_VALIDATOR_INVALID_MESSAGE": "الحقول الطويلة يجب أن تكون أعداد صحيحة بين 0 و 3,999,999,999",
     "MAX_FILE_SIZE_EXCEEDED": "يتجاوز هذا الملف الحد الأقصى لحجم الملف وهو 25 ميغا بايت.",

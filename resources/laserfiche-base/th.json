@@ -54,7 +54,6 @@
     "ONE_OR_MORE_FIELDS_INVALID": "เขตข้อมูลไม่ถูกต้องอย่างน้อยหนึ่งรายการขึ้นไป",
     "INVALID_DATE": "วันที่ที่ใส่ไม่ถูกต้อง",
     "INVALID_FIELD_REQUIRED_FIELD_EMPTY": "ช่องที่ต้องใช้ว่างเปล่า",
-    "LASERFICHE": "Laserfiche",
     "LOADING": "กำลังโหลด...",
     "LONG_FIELD_VALIDATOR_INVALID_MESSAGE": "ช่องยาวต้องเป็นจำนวนเต็มทีอยู่ระหว่าง 0 และ 3,999,999,999",
     "MAX_FILE_SIZE_EXCEEDED": "ไฟล์นี้เกินขนาดสูงสุดของไฟล์ที่ 25MB",

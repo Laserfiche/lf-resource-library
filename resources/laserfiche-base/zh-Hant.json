@@ -54,7 +54,6 @@
     "ONE_OR_MORE_FIELDS_INVALID": "一個或多個欄位無效。",
     "INVALID_DATE": "提供的日期無效。",
     "INVALID_FIELD_REQUIRED_FIELD_EMPTY": "要求的欄位是空的",
-    "LASERFICHE": "Laserfiche",
     "LOADING": "載入...",
     "LONG_FIELD_VALIDATOR_INVALID_MESSAGE": "長欄位必須為0到3,999,999,999間的整數。",
     "MAX_FILE_SIZE_EXCEEDED": "該檔案超過了25MB的最大檔案大小。",

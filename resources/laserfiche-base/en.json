@@ -54,7 +54,6 @@
     "ONE_OR_MORE_FIELDS_INVALID": "One or more fields are invalid.",
     "INVALID_DATE": "The date provided is invalid.",
     "INVALID_FIELD_REQUIRED_FIELD_EMPTY": "Required field is empty",
-    "LASERFICHE": "Laserfiche",
     "LOADING": "Loading...",
     "LONG_FIELD_VALIDATOR_INVALID_MESSAGE": "Long fields must be integers between 0 and 3,999,999,999",
     "MAX_FILE_SIZE_EXCEEDED": "This file exceeds the maximum file size of 25MB.",
