@@ -62,7 +62,7 @@ jobs:
           ref: ${{ github.sha }}
         
       - name: Echo NPM package version
-        run: echo ${{ env.NpmPackageVersion }}
+        run: echo ${{ env.NPM_VERSION }}
         
       - name: Setup Node.js environment
         uses: actions/setup-node@v2.5.1
@@ -73,6 +73,9 @@ jobs:
       - name: Npm tool install
         run: npm install -g npm@8
 
+      - name: Npm version
+        run: npm version ${{ env.NPM_VERSION }} --no-git-tag-version
+        
       - name: Npm publish
         run: npm publish  --access public  --tag latest
         env:
