@@ -58,6 +58,10 @@ let loading =  localizationService.getString('LOADING'); // loading -> 'Cargando
 }
 ```
 
+## Change Log
+
+See CHANGELOG [here](https://github.com/Laserfiche/lf-resource-library/blob/4.x/CHANGELOG.md).
+
 ## Contribution
 
 We welcome contributions and feedback. Please follow our [contributing guidelines](https://github.com/Laserfiche/lf-resource-library/blob/main/CONTRIBUTING.md).
