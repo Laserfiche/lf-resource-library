@@ -1,3 +1,12 @@
+## 4.0.1
+
+### Features
+
+### Fixes
+
+### Chore & Maintenance
+- `[README]`: update README to point to the right resource.
+    
 ## 4.0.0
 
 ### Features
