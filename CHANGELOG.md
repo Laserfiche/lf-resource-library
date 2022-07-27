@@ -5,7 +5,7 @@
 ### Fixes
 
 ### Chore & Maintenance
-- `[README]`: update README to point to the right resource.
+- `[README]`: update README documentation.
     
 ## 4.0.0
 
