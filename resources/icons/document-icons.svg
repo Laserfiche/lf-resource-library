@@ -215,4 +215,11 @@
       <polygon fill="#666" points="7.51 13.52 11.24 9.8 14.19 12.75 14.19 5.67 7.11 5.67 10.06 8.62 6.33 12.34 7.51 13.52"/>
     </g>
   </svg>
+  <svg viewBox="0 0 20 20">
+    <g id="recordseries-20" viewBox="0 0 20 20">
+        <path fill="#808080" d="M18,19H2V4h16V19z M3,18h14V5H3V18z"/>
+        <path fill="#808080" d="M14,13H6V9h8V13z M7,12h6v-2H7V12z"/>
+        <path fill="#808080" d="M20,5H0V1h20V5z M1,4h18V2H1V4z"/>
+    </g>
+  </svg>
 </svg>
