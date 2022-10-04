@@ -27,3 +27,5 @@ Svg file: [document-icons.svg](./document-icons.svg)
 |link-20 |![link-20](./document-icons.svg#link-20)    |
 |image-20 |![image-20](./document-icons.svg#image-20)    |
 |shortcut-overlay |![shortcut-overlay](./document-icons.svg#shortcut-overlay)    |
+|recordseries-20 |![recordseries-20](./document-icons.svg#recordseries-20)    |
+|recordfolder-20 |![recordfolder-20](./document-icons.svg#recordfolder-20)    |

@@ -1,6 +1,7 @@
 ## 4.0.1
 
 ### Features
+- `[icons]` add recordseries and recordfolder icons.
 
 ### Fixes
 
