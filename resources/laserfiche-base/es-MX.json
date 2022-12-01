@@ -103,6 +103,7 @@
     "SIGN_IN_TO_LASERFICHE": "Iniciar sesión en Laserfiche",
     "SIGN_OUT": "Cerrar sesión",
     "SIGNING_IN": "Iniciando sesión...",
+    "SIGNING_OUT": "Cerrando sesión...",
     "SKIP_THIS_FILE": "Omitir este archivo",
     "TEMPLATE": "Plantilla",
     "TEMPLATE_HAS_FAILED_TO_LOAD": "Error al cargar la plantilla.",

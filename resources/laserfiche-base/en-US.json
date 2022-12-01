@@ -103,6 +103,7 @@
     "SIGN_IN_TO_LASERFICHE": "Sign in to Laserfiche",
     "SIGN_OUT": "Sign out",
     "SIGNING_IN": "Signing in...",
+    "SIGNING_OUT": "Signing out...",
     "SKIP_THIS_FILE": "Skip this file",
     "TEMPLATE": "Template",
     "TEMPLATE_HAS_FAILED_TO_LOAD": "The template has failed to load.",

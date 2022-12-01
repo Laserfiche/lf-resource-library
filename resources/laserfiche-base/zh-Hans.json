@@ -103,6 +103,7 @@
     "SIGN_IN_TO_LASERFICHE": "登录Laserfiche",
     "SIGN_OUT": "注销",
     "SIGNING_IN": "Signing in...",
+    "SIGNING_OUT": "正在签出……",
     "SKIP_THIS_FILE": "跳过此文件",
     "TEMPLATE": "模板",
     "TEMPLATE_HAS_FAILED_TO_LOAD": "模板加载失败。",
