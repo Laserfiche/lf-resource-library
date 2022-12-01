@@ -20,7 +20,7 @@ Search [Github Issues](https://github.com/Laserfiche/lf-resource-library/issues)
 
 ## <a name="submit-pr"></a> PR Submission Guidelines
 
-- Search Github [Pull Requests](https://github.com/Laserfiche/lf-resource-library/pulls) for PRs related to your sumbission. Make sure that this is not a duplication.
+- Search Github [Pull Requests](https://github.com/Laserfiche/lf-resource-library/pulls) for PRs related to your submission. Make sure that this is not a duplication.
 - Link the issue addressed by the PR.
 - Follow the contributing guideline on how to create resources.
 
@@ -32,9 +32,8 @@ Please follow the rules as you add new resources:
 1. Create a folder under resources (e.g. my-new-resources)
 2. In that folder create a resource file for each supported language.
 3. The file name should be in the format languagecode2-country/regioncode2. languagecode2 is a lowercase two-letter code derived from ISO 639-1. country/regioncode2 is derived from ISO 3166 and usually consists of two uppercase letters, or a BCP-47 language tag. codes. The file should have an extension of .json
-   - en.json
    - en-US.json
    - zh-Hans.json
-4. Required/Default Language: en.json
-   - If a resource key is not found in the selected language, the en string will be used.
-5. Optional Language: For Laserfiche, we recommend providing resources for at least: ar, en-US, en-GB, es, fr-CA, fr, pt-BR, zh-Hans, zh-Hant
+4. Required/Default Language: en-US.json
+   - If a resource key is not found in the selected language, the en-US string will be used.
+5. Optional Language: For Laserfiche, we recommend providing resources for at least: ar-EG, en-US, en-GB, es-MX, fr-CA, fr-FR, pt-BR, zh-Hans, zh-Hant
