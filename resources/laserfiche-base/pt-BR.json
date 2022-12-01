@@ -102,6 +102,7 @@
     "SIGN_IN": "Conectar",
     "SIGN_IN_TO_LASERFICHE": "Faça login no Laserfiche",
     "SIGN_OUT": "Fazer sign out",
+    "SIGNING_IN": "Signing in...",
     "SKIP_THIS_FILE": "Pular este arquivo",
     "TEMPLATE": "Modelo",
     "TEMPLATE_HAS_FAILED_TO_LOAD": "O carregamento do modelo falhou.",
