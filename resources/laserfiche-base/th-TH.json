@@ -41,6 +41,7 @@
     "FAILED_TO_OPEN_FOLDER": "ล้มเหลวในการเปิดโฟลเดอร์",
     "FAILED_TO_SAVE_COLON": "ล้มเหลวในการบันทึก:",
     "FAILED_TO_SAVE_PERIOD": "ล้มเหลวในการบันทึก",
+    "FEEDBACK": "Feedback",
     "FIELDS": "ช่อง",
     "FILE_EXCEEDS_MAXIMUM_FILE_SIZE_25MB": "ไฟล์นี้เกินขนาดสูงสุดของไฟล์ที่ 25MB",
     "FILE_EXTENSION": "นามสกุลไฟล์",

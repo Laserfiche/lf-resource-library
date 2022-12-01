@@ -41,6 +41,7 @@
     "FAILED_TO_OPEN_FOLDER": "无法打开文件夹",
     "FAILED_TO_SAVE_COLON": "保存失败：",
     "FAILED_TO_SAVE_PERIOD": "保存失败。",
+    "FEEDBACK": "反馈",
     "FIELDS": "字段",
     "FILE_EXCEEDS_MAXIMUM_FILE_SIZE_25MB": "该文件超过了25MB的最大文件大小。",
     "FILE_EXTENSION": "文件扩展名",

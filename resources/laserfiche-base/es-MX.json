@@ -41,6 +41,7 @@
     "FAILED_TO_OPEN_FOLDER": "Error al abrir la carpeta",
     "FAILED_TO_SAVE_COLON": "Error al guardar:",
     "FAILED_TO_SAVE_PERIOD": "Error al guardar.",
+    "FEEDBACK": "Comentario",
     "FIELDS": "Campos",
     "FILE_EXCEEDS_MAXIMUM_FILE_SIZE_25MB": "Este archivo supera el tamaño máximo de 25MB.",
     "FILE_EXTENSION": "Extension del archivo",
