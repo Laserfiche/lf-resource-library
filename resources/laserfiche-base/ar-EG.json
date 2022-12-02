@@ -101,6 +101,8 @@
     "SIGN_IN": "تسجيل الدخول",
     "SIGN_IN_TO_LASERFICHE": "تسجيل الدخول إلى Laserfiche",
     "SIGN_OUT": "تسجيل الخروج",
+    "SIGNING_IN": "تسجيل الدخول",
+    "SIGNING_OUT": "جار تسجيل الخروج...",
     "SKIP_THIS_FILE": "تخطى هذا الملف",
     "TEMPLATE": "تنسيق",
     "TEMPLATE_HAS_FAILED_TO_LOAD": "فشل تحميل القالب.",
