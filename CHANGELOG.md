@@ -1,6 +1,15 @@
 ## 4.0.2
 
 ### Features
+- `[resources/laserfiche-base]` Add SUBMIT string.
+
+### Fixes
+
+### Chore & Maintenance
+    
+## 4.0.2
+
+### Features
 - `[resources/laserfiche-base]` Add new strings.
 
 ### Fixes
