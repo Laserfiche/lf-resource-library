@@ -1,3 +1,13 @@
+## 4.0.4
+
+### Features
+
+### Fixes
+
+### Chore & Maintenance
+- Update build actions to use Node 16
+- Update node version to 16
+    
 ## 4.0.3
 
 ### Features
