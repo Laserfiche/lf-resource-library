@@ -5,7 +5,7 @@ on:
   workflow_dispatch:
 
 env:
-  NPM_VERSION: "4.0.3"
+  NPM_VERSION: "4.0.4"
   
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
@@ -16,7 +16,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
         with:
           ref: ${{ github.sha }}
 
@@ -25,13 +25,10 @@ jobs:
           echo "NpmPackageVersion=${{ env.NPM_VERSION }}--preview-${{ github.run_id }}" >> $GITHUB_ENV
           
       - name: Setup Node.js environment
-        uses: actions/setup-node@v2.5.1
+        uses: actions/setup-node@v3
         with:
-          node-version: '14'
+          node-version: '16'
           registry-url: 'https://registry.npmjs.org'
-          
-      - name: Npm tool install
-        run: npm install -g npm@8
         
       - name: Echo NPM package version
         run: echo ${{ env.NpmPackageVersion }}
@@ -57,7 +54,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
         with:
           ref: ${{ github.sha }}
         
@@ -65,14 +62,11 @@ jobs:
         run: echo ${{ env.NPM_VERSION }}
         
       - name: Setup Node.js environment
-        uses: actions/setup-node@v2.5.1
+        uses: actions/setup-node@v3
         with:
-          node-version: '14'
+          node-version: '16'
           registry-url: 'https://registry.npmjs.org'
-          
-      - name: Npm tool install
-        run: npm install -g npm@8
-
+    
       - name: Npm version
         run: npm version ${{ env.NPM_VERSION }} --no-git-tag-version --allow-same-version
         
