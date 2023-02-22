@@ -12,5 +12,6 @@
     "url": "https://github.com/Laserfiche/lf-resource-library/issues"
   },
   "files": ["resources/*"],
-  "homepage": "https://github.com/Laserfiche/lf-resource-library#readme"
+  "homepage": "https://github.com/Laserfiche/lf-resource-library#readme",
+  "main": "resources/index.js"
 }
