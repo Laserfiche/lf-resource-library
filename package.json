@@ -13,5 +13,6 @@
   },
   "files": ["resources/*"],
   "homepage": "https://github.com/Laserfiche/lf-resource-library#readme",
-  "main": "resources/index.js"
+  "main": "resources/index.js",
+  "types": "resources/index.d.ts"
 }

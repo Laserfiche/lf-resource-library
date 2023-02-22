@@ -1,0 +1,9 @@
+export * as strings_ar_common from './laserfiche-base/ar-EG.json';
+export * as strings_en_common from './laserfiche-base/en-US.json';
+export * as strings_es_common from './laserfiche-base/es-MX.json';
+export * as strings_fr_common from './laserfiche-base/fr-FR.json';
+export * as strings_it_common from './laserfiche-base/it-IT.json';
+export * as strings_ptBR_common from './laserfiche-base/pt-BR.json';
+export * as strings_th_common from './laserfiche-base/th-TH.json';
+export * as strings_zhHans_common from './laserfiche-base/zh-Hans.json';
+export * as strings_zhHant_common from './laserfiche-base/zh-Hant.json';
