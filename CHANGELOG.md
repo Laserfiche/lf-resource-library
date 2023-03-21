@@ -1,3 +1,11 @@
+## 4.0.5
+
+### Features
+- `[resources/laserfiche-base]` Add new strings.
+### Fixes
+
+### Chore & Maintenance
+
 ## 4.0.4
 
 ### Features
