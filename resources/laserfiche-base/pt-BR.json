@@ -112,8 +112,8 @@
     "THIS_FOLDER_IS_EMPTY": "Esta pasta está vazia.",
     "TIME": "Hora",
     "TIME_FIELDS_MUST_BE_IN_FORMAT_0": "Os campos de hora devem estar no formato {0}.",
-    "UNABLE_TO_LOAD_ALL_FIELDS": "Incapaz de carregar todos os campos: ",
-    "UNABLE_TO_RETRIEVE_REPOSITORY_INFORMATION": "Não é possível recuperar as informações do repositório: ",
+    "UNABLE_TO_LOAD_ALL_FIELDS": "Incapaz de carregar todos os campos:",
+    "UNABLE_TO_RETRIEVE_REPOSITORY_INFORMATION": "Não é possível recuperar as informações do repositório:",
     "UNKNOWN_ERROR": "Erro Desconhecido.",
     "USER_NAME": "Nome do usuário",
     "YES": "Sim"
