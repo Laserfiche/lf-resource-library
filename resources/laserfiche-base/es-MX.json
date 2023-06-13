@@ -29,7 +29,7 @@
   "DATE_TIME_FIELDS_MUST_BE_IN_FORMAT_0": "Los campos fecha/hora deben estar en el formato {0}.",
   "DEFAULT_FOLDER": "<Carpeta predeterminada>",
   "DETAILS": "Detalles",
-  "DO_YOU_WANT_TO_YOUR_APPLY_FIELD_CHANGES": "¿Desea aplicar sus cambios de campo?",
+  "DO_YOU_WANT_TO_APPLY_YOUR_FIELD_CHANGES": "¿Desea aplicar sus cambios de campo?",
   "DOCUMENT_NAME_IS_EMPTY": "El nombre del documento está vacío",
   "DRAG_DROP_FILE": "Arrastre y suelte el archivo",
   "ENTRY_0_ALREADY_EXISTS_SELECT_DIFFERENT_NAME": "Ya existe una entrada denominada “{0}” en esta carpeta. Seleccione otro nombre.",
