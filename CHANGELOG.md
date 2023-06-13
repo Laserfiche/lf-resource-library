@@ -4,7 +4,7 @@
 
 ### Fixes
 - `[resources/laserfiche-base]` Trim existing strings of whitespace
-- `[resources/laserfiche-base]` rearranged words in a key to proper order
+- `[resources/laserfiche-base]` changed key DO_YOU_WANT_TO_YOUR_APPLY_FIELD_CHANGES to DO_YOU_WANT_TO_APPLY_YOUR_FIELD_CHANGES
 
 ## 4.0.6
 
