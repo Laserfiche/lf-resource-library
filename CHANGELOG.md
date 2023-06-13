@@ -1,3 +1,11 @@
+## 4.0.7
+
+### Features
+
+### Fixes
+- `[resources/laserfiche-base]` Trim existing strings of whitespace
+- `[resources/laserfiche-base]` rearranged words in a key to proper order
+
 ## 4.0.6
 
 ### Features
