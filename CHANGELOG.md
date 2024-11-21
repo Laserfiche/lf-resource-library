@@ -1,3 +1,12 @@
+## 5.0.1
+
+### Features
+
+### Fixes
+
+### Chore & Maintenance
+- Updated SVG icons: edoc-spreadsheet-20, edoc-presentation-20, edoc-wordprocessing-20
+
 ## 5.0.0
 
 ### Features
