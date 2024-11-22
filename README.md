@@ -17,7 +17,7 @@ Contains resource files that can be used in conjunction with LfLocalizationServi
 
 ### With LfLocalizationService from [`@laserfiche/lf-js-utils`](https://github.com/Laserfiche/lf-js-utils)
 
-`LfLocalizationService` is a service that handles internationalization and localization, mapping text to its corresponding translated texts in the selected language. `@laserfiche/lf-resource-library` provides language resources files in JSON that can be utlized by LfLocalizationService.
+`LfLocalizationService` is a service that handles internationalization and localization, mapping text to its corresponding translated texts in the selected language. `@laserfiche/lf-resource-library` provides language resources files in JSON that can be utilized by LfLocalizationService.
 
 **Install @laserfiche/lf-js-utils:**
 
@@ -43,24 +43,24 @@ examples:
 ```ts
 let localizationService = new LfLocalizationService();
 localizationService.setLanguage('es-MX');
-await localizationService.initResourcesFromUrlAsync('https://cdn.jsdelivr.net/npm/@laserfiche/lf-resource-library@4/resources/laserfiche-base');
+await localizationService.initResourcesFromUrlAsync('https://cdn.jsdelivr.net/npm/@laserfiche/lf-resource-library@5/resources/laserfiche-base');
 let loading =  localizationService.getString('LOADING'); // loading -> 'Cargando...'
 ```
 
-## [Icons](https://github.com/Laserfiche/lf-resource-library/blob/main/resources/icons/document-icons-documentation.md)
+## [Icons](https://github.com/Laserfiche/lf-resource-library/blob/HEAD/resources/icons/document-icons-documentation.md)
 
 [**Example Usages**]
 
 ```ts
  export function getDocumentIconUrlFromIconId(iconId: string): string {
-    return `https://cdn.jsdelivr.net/npm/@laserfiche/lf-resource-library@4/resources/icons/document-icons.svg#${iconId}`;
+    return `https://cdn.jsdelivr.net/npm/@laserfiche/lf-resource-library@5/resources/icons/document-icons.svg#${iconId}`;
 }
 ```
 
 ## Change Log
 
-See CHANGELOG [here](https://github.com/Laserfiche/lf-resource-library/blob/4.x/CHANGELOG.md).
+See CHANGELOG [here](https://github.com/Laserfiche/lf-resource-library/blob/HEAD/CHANGELOG.md).
 
 ## Contribution
 
-We welcome contributions and feedback. Please follow our [contributing guidelines](https://github.com/Laserfiche/lf-resource-library/blob/main/CONTRIBUTING.md).
+We welcome contributions and feedback. Please follow our [contributing guidelines](https://github.com/Laserfiche/lf-resource-library/blob/HEAD/CONTRIBUTING.md).
