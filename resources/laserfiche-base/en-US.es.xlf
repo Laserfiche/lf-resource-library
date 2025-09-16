@@ -1,0 +1,507 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" version="2.1" srcLang="en" trgLang="es">
+ <file id="en-US.es.json">
+  <unit id="u1">
+   <segment id="UNKNOWN_ERROR" state="translated">
+    <source>Unknown Error.</source>
+    <target>Ŭńķňőŵņ Éřřőŕ.</target>
+   </segment>
+   <segment id="ERROR_SAVING" state="translated">
+    <source>Error saving:</source>
+    <target>Ëřŗòř šàṿîňĝ:</target>
+   </segment>
+   <segment id="NO_MATCHING_ENTRIES_FOUND" state="translated">
+    <source>No matching entries were found</source>
+    <target>Ñõ ɱäţçħīņğ èñŧŗįĕš ẉěŗē ƒõùñď</target>
+   </segment>
+   <segment id="CLOSE" state="translated">
+    <source>Close</source>
+    <target>Çłõšě</target>
+   </segment>
+   <segment id="CLOUD" state="translated">
+    <source>Cloud</source>
+    <target>Čľõúđ</target>
+   </segment>
+   <segment id="SUGGESTION" state="translated">
+    <source>Suggestion</source>
+    <target>Şūĝĝēśťīōň</target>
+   </segment>
+   <segment id="OK" state="translated">
+    <source>Ok</source>
+    <target>Öķ</target>
+   </segment>
+   <segment id="FILE_LOCKED" state="translated">
+    <source>File is locked.</source>
+    <target>Ƒìłě ĭş ľôçķëđ.</target>
+   </segment>
+   <segment id="DEFAULT_FOLDER" state="translated">
+    <source>&lt;Default Folder&gt;</source>
+    <target>&lt;Đēƒǎŭĺŧ Ƒółđėŗ&gt;</target>
+   </segment>
+   <segment id="BACK" state="translated">
+    <source>Back</source>
+    <target>Βàçķ</target>
+   </segment>
+   <segment id="DO_YOU_WANT_TO_APPLY_YOUR_FIELD_CHANGES" state="translated">
+    <source>Do you want to apply your field changes?</source>
+    <target>Đõ ÿóű ẉāňŧ ťõ âþᶗĺÿ ÿōůř ƒïêłď çħǎñĝĕš?</target>
+   </segment>
+   <segment id="ENTRY_NOT_FOUND" state="translated">
+    <source>Entry not found.</source>
+    <target>Éņţŕÿ ŉőŧ ƒõúņď.</target>
+   </segment>
+   <segment id="FEEDBACK" state="translated">
+    <source>Feedback</source>
+    <target>Ƒèèđβàçķ</target>
+   </segment>
+   <segment id="TEMPLATE_HAS_FAILED_TO_LOAD" state="translated">
+    <source>The template has failed to load.</source>
+    <target>Ţħé ţĕɱþĺáťĕ ĥáŝ ƒàĭĺèđ ťő ĺőαđ.</target>
+   </segment>
+   <segment id="DOCUMENT_NAME_IS_EMPTY" state="translated">
+    <source>Document name is empty</source>
+    <target>Đóćűɱêňť ņαɱè ìš ĕɱᶗťŷ</target>
+   </segment>
+   <segment id="CANCEL" state="translated">
+    <source>Cancel</source>
+    <target>Çàňčëļ</target>
+   </segment>
+   <segment id="COULD_NOT_SAVE_0" state="translated">
+    <source>Could not save &quot;{0}&quot;.</source>
+    <target>Çóûļđ ŉòť śǎʋē &quot;{0}&quot;.</target>
+   </segment>
+   <segment id="REPOSITORY_NAME" state="translated">
+    <source>Repository Name</source>
+    <target>Ŕēþöşïţôřŷ Ņâɱē</target>
+   </segment>
+   <segment id="DATA" state="translated">
+    <source>Data</source>
+    <target>Ďǎťå</target>
+   </segment>
+   <segment id="LONG_INTEGER" state="translated">
+    <source>Long Integer</source>
+    <target>Ľŏňĝ Îņŧëğėŗ</target>
+   </segment>
+   <segment id="NO" state="translated">
+    <source>No</source>
+    <target>Ñō</target>
+   </segment>
+   <segment id="FILE_MODIFIED" state="translated">
+    <source>File Modified</source>
+    <target>Ƒïłě Μòďĩƒįéđ</target>
+   </segment>
+   <segment id="SEARCH_FIELDS" state="translated">
+    <source>Search fields</source>
+    <target>Śĕàŕçĥ ƒīĕļďş</target>
+   </segment>
+   <segment id="LONG_FIELDS_MUST_BE_INTEGERS_BETWEEN_0_3999999999" state="translated">
+    <source>Long fields must be integers between 0 and 3,999,999,999</source>
+    <target>Łŏňğ ƒíéĺďş ɱúŝţ ьĕ íňťèĝēřş βėŧŵęèñ ⓪ âñđ ③,⑨⑨⑨,⑨⑨⑨,⑨⑨⑨</target>
+   </segment>
+   <segment id="NO_ADDITIONAL_FIELDS_ASSIGNED" state="translated">
+    <source>No additional fields assigned</source>
+    <target>Ņő αđđíţĭōńăł ƒıėĺđś âşšĭğŉēđ</target>
+   </segment>
+   <segment id="UNABLE_TO_LOAD_ALL_FIELDS" state="translated">
+    <source>Unable to load all fields:</source>
+    <target>Ùńǎьłè ţō ļōåď àľł ƒíĕĺďš:</target>
+   </segment>
+   <segment id="BROWSE" state="translated">
+    <source>Browse</source>
+    <target>Βŕōẉśę</target>
+   </segment>
+   <segment id="DRAG_DROP_FILE" state="translated">
+    <source>Drag and drop file</source>
+    <target>Đřαğ âņđ ďŗöþ ƒīĺë</target>
+   </segment>
+   <segment id="SIGNING_IN" state="translated">
+    <source>Signing in...</source>
+    <target>Ŝíğňīņĝ îņ...</target>
+   </segment>
+   <segment id="SAVED_TO_LASERFICHE_COLON" state="translated">
+    <source>Saved to Laserfiche:</source>
+    <target>Ŝàṿëď ţŏ Ľāşèŕƒĭćĥę:</target>
+   </segment>
+   <segment id="NEW_FOLDER" state="translated">
+    <source>New Folder</source>
+    <target>Ńęẉ Ƒöľďèř</target>
+   </segment>
+   <segment id="PLEASE_SELECT_A_FOLDER" state="translated">
+    <source>Please select a folder</source>
+    <target>Þĺéåşë šěĺéčţ α ƒöľďëŗ</target>
+   </segment>
+   <segment id="COMMENT" state="translated">
+    <source>Comment</source>
+    <target>Čôɱɱéņŧ</target>
+   </segment>
+   <segment id="SAVED_TO_LASERFICHE" state="translated">
+    <source>Saved to Laserfiche</source>
+    <target>Śāṿëđ ŧō Ļăŝěřƒīćĥé</target>
+   </segment>
+   <segment id="PARENT_FIELD" state="translated">
+    <source>Parent Field</source>
+    <target>Þαŗęñţ Ƒįęļđ</target>
+   </segment>
+   <segment id="ADD_REMOVE_FIELDS" state="translated">
+    <source>Add/remove fields</source>
+    <target>Åđď/ŗęɱôṿê ƒïėľďŝ</target>
+   </segment>
+   <segment id="OPTIONAL" state="translated">
+    <source>Optional</source>
+    <target>Õᶗŧīôńáľ</target>
+   </segment>
+   <segment id="SELF_HOSTED" state="translated">
+    <source>Self-Hosted</source>
+    <target>Ŝėļƒ-Ħòšťèđ</target>
+   </segment>
+   <segment id="SETTINGS" state="translated">
+    <source>Settings</source>
+    <target>Śĕťţìņĝş</target>
+   </segment>
+   <segment id="SOMETHING_WENT_WRONG_PLEASE_TRY_AGAIN_LATER" state="translated">
+    <source>Something went wrong. Please try again later.</source>
+    <target>Ŝőɱëŧħĩńğ ẉĕñť ẉŕŏńğ. Þĺēàşē ŧřŷ äğâìñ ľαŧĕŕ.</target>
+   </segment>
+   <segment id="DATE_TIME" state="translated">
+    <source>Date/Time</source>
+    <target>Ďāŧè/Ŧíɱē</target>
+   </segment>
+   <segment id="TEXT" state="translated">
+    <source>Text</source>
+    <target>Ţè×ţ</target>
+   </segment>
+   <segment id="TIME" state="translated">
+    <source>Time</source>
+    <target>Ţıɱë</target>
+   </segment>
+   <segment id="NAME_CONFLICT" state="translated">
+    <source>Name Conflict</source>
+    <target>Ńǎɱě Çŏņƒłïćţ</target>
+   </segment>
+   <segment id="ATTACHING" state="translated">
+    <source>Attaching...</source>
+    <target>Âťŧäçĥĭñğ...</target>
+   </segment>
+   <segment id="APPLY_CHANGES" state="translated">
+    <source>Apply changes</source>
+    <target>Āᶗᶗłý ćĥăñĝëś</target>
+   </segment>
+   <segment id="SELECT_REASON" state="translated">
+    <source>Select a reason</source>
+    <target>Šēľęçť å ŕëåšôň</target>
+   </segment>
+   <segment id="SAVED_WITH_MISSING_METADATA" state="translated">
+    <source>Saved with missing metadata:</source>
+    <target>Šăṿêď ẉìťħ ɱìŝŝìñĝ ɱēťàđàŧă:</target>
+   </segment>
+   <segment id="REMOVE" state="translated">
+    <source>Remove</source>
+    <target>Řęɱŏṿé</target>
+   </segment>
+   <segment id="CHARACTER_COUNT" state="translated">
+    <source>Character count:</source>
+    <target>Ćĥåřáčţĕŗ čóūńţ:</target>
+   </segment>
+   <segment id="SAVE_CHANGES" state="translated">
+    <source>Save Changes</source>
+    <target>Ŝáṿē Çĥåńĝĕš</target>
+   </segment>
+   <segment id="SHORT_FIELDS_MUST_BE_INTEGERS_BETWEEN_0_64999" state="translated">
+    <source>Short fields must be integers between 0 and 64999</source>
+    <target>Šĥòŕţ ƒįëļđŝ ɱùŝŧ βè ïņţêĝëŕš βėţẉëēñ ⓪ áńđ ⑥④⑨⑨⑨</target>
+   </segment>
+   <segment id="FOLDER" state="translated">
+    <source>Folder</source>
+    <target>Ƒőľďéŗ</target>
+   </segment>
+   <segment id="DATE" state="translated">
+    <source>Date</source>
+    <target>Ďàţę</target>
+   </segment>
+   <segment id="REMOVE_REPOSITORY" state="translated">
+    <source>Remove Repository?</source>
+    <target>Řĕɱôʋę Ŗěᶗôŝıţōřÿ?</target>
+   </segment>
+   <segment id="REQUIRED" state="translated">
+    <source>Required</source>
+    <target>Řèɋüıŗėď</target>
+   </segment>
+   <segment id="ERROR_OCCURRED_WHILE_CONNECTING_TO_SERVER" state="translated">
+    <source>An error occurred while connecting to the server.</source>
+    <target>Áņ ěŕŕöŕ ōććůŗřėď ẉĥıľê ćôñňěćţįńĝ ŧó ŧĥė şëŕṿěŗ.</target>
+   </segment>
+   <segment id="OPEN_IN_LASERFICHE" state="translated">
+    <source>Open in Laserfiche</source>
+    <target>Óᶗëň įň Ľáşĕřƒĩćħĕ</target>
+   </segment>
+   <segment id="REPOSITORY" state="translated">
+    <source>Repository</source>
+    <target>Řĕᶗôšįťöŗý</target>
+   </segment>
+   <segment id="LOADING" state="translated">
+    <source>Loading...</source>
+    <target>Ľŏäđìńĝ...</target>
+   </segment>
+   <segment id="ATTACH_AS_LINK" state="translated">
+    <source>Attach as Link</source>
+    <target>Àŧŧǎčħ äś Ľïñķ</target>
+   </segment>
+   <segment id="NAME" state="translated">
+    <source>Name</source>
+    <target>Ņáɱē</target>
+   </segment>
+   <segment id="FAILED_TO_OPEN_FOLDER" state="translated">
+    <source>Failed to open folder</source>
+    <target>Ƒäìľěď ţò õᶗęň ƒōľđĕŕ</target>
+   </segment>
+   <segment id="SKIP_THIS_FILE" state="translated">
+    <source>Skip this file</source>
+    <target>Śķíþ ťĥĭŝ ƒìļē</target>
+   </segment>
+   <segment id="TEMPLATE" state="translated">
+    <source>Template</source>
+    <target>Ťèɱᶗļåţè</target>
+   </segment>
+   <segment id="INTEGER" state="translated">
+    <source>Integer</source>
+    <target>Íňţèĝěř</target>
+   </segment>
+   <segment id="NOT_AVAILABLE_WITH_TOKENS" state="translated">
+    <source>Not available with tokens</source>
+    <target>Ňöŧ àʋāıĺàьĺè ẉıŧħ ťöķêñŝ</target>
+   </segment>
+   <segment id="AUTOMATICALLY_RENAME" state="translated">
+    <source>Automatically rename</source>
+    <target>Áűťóɱäťïçăľľý ŗęŉαɱĕ</target>
+   </segment>
+   <segment id="DATE_TIME_FIELDS_MUST_BE_IN_FORMAT_0" state="translated">
+    <source>Date/time fields must be in the format {0}.</source>
+    <target>Ďâŧė/ţĩɱĕ ƒıĕļđş ɱŭşţ ьę ĩņ ţħė ƒōŗɱāţ {0}.</target>
+   </segment>
+   <segment id="PARENT_ID" state="translated">
+    <source>Parent ID</source>
+    <target>Þåřëņţ ĪĎ</target>
+   </segment>
+   <segment id="0_OF_1" state="translated">
+    <source>{0} of {1}</source>
+    <target>{0} őƒ {1}</target>
+   </segment>
+   <segment id="UNABLE_TO_RETRIEVE_REPOSITORY_INFORMATION" state="translated">
+    <source>Unable to retrieve repository information:</source>
+    <target>Üñâβłė ťö ŕêţŕīėṿê řéᶗōšīŧôřŷ ìñƒőřɱǎŧîôņ:</target>
+   </segment>
+   <segment id="ATTACH" state="translated">
+    <source>Attach</source>
+    <target>Āťťåćĥ</target>
+   </segment>
+   <segment id="FILE_NAME" state="translated">
+    <source>File Name</source>
+    <target>Ƒìłē Ñàɱè</target>
+   </segment>
+   <segment id="NUMBER_FIELD_MUST_BE_VALID_NUMBER" state="translated">
+    <source>Number field must be a valid number</source>
+    <target>Ńúɱьěŕ ƒîêľď ɱùşţ Ьē å ʋǎļıď ŉűɱьêŕ</target>
+   </segment>
+   <segment id="NO_MATCHING_FIELDS_FOUND" state="translated">
+    <source>No matching fields were found.</source>
+    <target>Ņô ɱǎţçĥîňĝ ƒìėļđś ŵĕřé ƒöųňđ.</target>
+   </segment>
+   <segment id="COULD_NOT_SAVE_0_FILE_TYPE_NOT_SUPPORTED" state="translated">
+    <source>Could not save &quot;{0}&quot;. File type not supported.</source>
+    <target>Čôŭľđ ńŏţ śâṿę &quot;{0}&quot;. Ƒìľè ŧÿᶗė ňóť ŝůþᶗõŗţêď.</target>
+   </segment>
+   <segment id="DETAILS" state="translated">
+    <source>Details</source>
+    <target>Đēŧåîľś</target>
+   </segment>
+   <segment id="ENTRY_0_ALREADY_EXISTS_SELECT_DIFFERENT_NAME" state="translated">
+    <source>An entry named &apos;{0}&apos; already exists in this folder. Please select a different name.</source>
+    <target>Āñ ęňťŕŷ ňāɱėď &apos;{0}&apos; åļřêăďŷ ě×ĩşŧš îñ ťħıš ƒöłđęř. Þļěαşę şĕľēçŧ α đĩƒƒëŕĕŉţ ņăɱė.</target>
+   </segment>
+   <segment id="FILE_EXCEEDS_MAXIMUM_FILE_SIZE_25MB" state="translated">
+    <source>This file exceeds the maximum file size of 25MB.</source>
+    <target>Ŧħĭš ƒīłé ē×čěėđŝ ŧħê ɱă×ìɱùɱ ƒĭĺė šíżê òƒ ②⑤Μв.</target>
+   </segment>
+   <segment id="REASON_FOR_DOWNLOADING" state="translated">
+    <source>Reason for Downloading</source>
+    <target>Ŗěäśôñ ƒôŗ Đőẉńľóàđïňğ</target>
+   </segment>
+   <segment id="USER_NAME" state="translated">
+    <source>User Name</source>
+    <target>Ŭšėŕ Ňäɱë</target>
+   </segment>
+   <segment id="SAVE_TO_LASERFICHE" state="translated">
+    <source>Save to Laserfiche</source>
+    <target>Şăṿē ţò Łàšëřƒıčĥé</target>
+   </segment>
+   <segment id="FILENAMES_CANNOT_CONTAIN_BACKSLASH" state="translated">
+    <source>Filenames cannot contain a backslash</source>
+    <target>Ƒĭļęńâɱėş çăňñōţ čôňŧāįņ å ьαçķŝĺǎśĥ</target>
+   </segment>
+   <segment id="NO_FOLDER_SELECTED" state="translated">
+    <source>No folder is selected.</source>
+    <target>Ņő ƒôĺďêř ĩś šęļěçţéď.</target>
+   </segment>
+   <segment id="REPOSITORY_ID" state="translated">
+    <source>Repository ID</source>
+    <target>Ŗęþóşìţöŕÿ ĪĐ</target>
+   </segment>
+   <segment id="LIST" state="translated">
+    <source>List</source>
+    <target>Ļĩśť</target>
+   </segment>
+   <segment id="SIGN_IN_TO_LASERFICHE" state="translated">
+    <source>Sign in to Laserfiche</source>
+    <target>Śĩğň įņ ŧõ Ĺàśēřƒìćħē</target>
+   </segment>
+   <segment id="DATE_PROVIDED_IS_INVALID" state="translated">
+    <source>The date provided is invalid.</source>
+    <target>Ţĥé đäŧē þŗōṿìďęđ ĩŝ ïňṿāĺìđ.</target>
+   </segment>
+   <segment id="ENTRY_NAME" state="translated">
+    <source>Entry Name</source>
+    <target>Ëņťřý Ñåɱé</target>
+   </segment>
+   <segment id="SIGNING_OUT" state="translated">
+    <source>Signing out...</source>
+    <target>Ŝıĝñīņĝ ōùŧ...</target>
+   </segment>
+   <segment id="0_ALREADY_EXISTS" state="translated">
+    <source>&quot;{0}&quot; already exists.</source>
+    <target>&quot;{0}&quot; àļŗëáđŷ ę×ïśŧş.</target>
+   </segment>
+   <segment id="SESSION_COUNT" state="translated">
+    <source>Session Count</source>
+    <target>Šéşšíõń Čōúńť</target>
+   </segment>
+   <segment id="DATE_FIELDS_MUST_BE_IN_FORMAT_0" state="translated">
+    <source>Date fields must be in the format {0}.</source>
+    <target>Ďåţę ƒíěĺđŝ ɱŭśť βé ìŉ ťĥĕ ƒöŕɱåŧ {0}.</target>
+   </segment>
+   <segment id="SELECT" state="translated">
+    <source>Select</source>
+    <target>Śěłêčŧ</target>
+   </segment>
+   <segment id="THIS_FIELD_HAS_MAXIMUM_ALLOWED_LENGTH_0_CHARACTERS" state="translated">
+    <source>This field has a maximum allowed length of {0} characters.</source>
+    <target>Ŧĥíŝ ƒĩěľđ ĥâŝ å ɱǎ×îɱůɱ àľĺôŵëđ łėñğŧĥ òƒ {0} čĥåřαçťêŕŝ.</target>
+   </segment>
+   <segment id="FILE_EXTENSION" state="translated">
+    <source>File Extension</source>
+    <target>Ƒîłē Ě×ţêňśıőŉ</target>
+   </segment>
+   <segment id="ERROR_DOWNLOADING_DOCUMENT" state="translated">
+    <source>Error downloading document.</source>
+    <target>Ěřŕŏř đōŵňļőāďíñĝ đóçūɱěńť.</target>
+   </segment>
+   <segment id="FAILED_TO_SAVE_PERIOD" state="translated">
+    <source>Failed to save.</source>
+    <target>Ƒαĭłêď ŧö śāʋĕ.</target>
+   </segment>
+   <segment id="SIGN_IN" state="translated">
+    <source>Sign in</source>
+    <target>Ŝìğŉ îń</target>
+   </segment>
+   <segment id="FIELDS" state="translated">
+    <source>Fields</source>
+    <target>Ƒïëłđŝ</target>
+   </segment>
+   <segment id="OR" state="translated">
+    <source>or</source>
+    <target>ōř</target>
+   </segment>
+   <segment id="CONFIGURE_REPOSITORY_SETTINGS" state="translated">
+    <source>Configure Repository Settings</source>
+    <target>Çőñƒįĝúŕė Řěᶗõšįŧöřÿ Şêŧťíŉĝš</target>
+   </segment>
+   <segment id="FAILED_TO_SAVE_COLON" state="translated">
+    <source>Failed to save:</source>
+    <target>Ƒàíľęđ ţő ŝǎṿé:</target>
+   </segment>
+   <segment id="SUBMIT" state="translated">
+    <source>Submit</source>
+    <target>Šűьɱìť</target>
+   </segment>
+   <segment id="REFRESH" state="translated">
+    <source>Refresh</source>
+    <target>Ŗêƒŗēŝĥ</target>
+   </segment>
+   <segment id="REQUIRED_FIELD_IS_EMPTY" state="translated">
+    <source>Required field is empty</source>
+    <target>Řĕɋųĭřēď ƒìęļđ ĭš ĕɱᶗťŷ</target>
+   </segment>
+   <segment id="SAVING" state="translated">
+    <source>Saving...</source>
+    <target>Şàṿíńĝ...</target>
+   </segment>
+   <segment id="PARENT_NAME" state="translated">
+    <source>Parent Name</source>
+    <target>Þαřēňţ Ņαɱē</target>
+   </segment>
+   <segment id="ACCOUNT_ID" state="translated">
+    <source>Account ID</source>
+    <target>Āććŏüņţ İĐ</target>
+   </segment>
+   <segment id="OPEN" state="translated">
+    <source>Open</source>
+    <target>Öþěŉ</target>
+   </segment>
+   <segment id="THIS_FOLDER_IS_EMPTY" state="translated">
+    <source>This folder is empty.</source>
+    <target>Ŧĥįš ƒôĺđêŕ ïś ęɱþťŷ.</target>
+   </segment>
+   <segment id="ADD" state="translated">
+    <source>Add</source>
+    <target>Αđď</target>
+   </segment>
+   <segment id="ONE_OR_MORE_FIELDS_INVALID" state="translated">
+    <source>One or more fields are invalid.</source>
+    <target>Öñě ŏŗ ɱőŕē ƒīëłđŝ ăŗê īŉʋăłïđ.</target>
+   </segment>
+   <segment id="REPOSITORY_COUNT" state="translated">
+    <source>Repository Count</source>
+    <target>Ŗėᶗöśìťõŕý Ćőůñŧ</target>
+   </segment>
+   <segment id="NEED_HELP_SIGNING_IN_CONTACT_LASERFICHE_ADMINISTRATOR_FOR_HELP" state="translated">
+    <source>Need help signing in? Contact your Laserfiche Administrator for help.</source>
+    <target>Ńěēď ĥëľþ šĭĝņįñĝ ĩň? Čõŉţäçŧ ýöùŕ Ľåşēŕƒīčĥė Åďɱīńĩŝťřâŧõŗ ƒöŗ ħëłᶗ.</target>
+   </segment>
+   <segment id="NUMBER" state="translated">
+    <source>Number</source>
+    <target>Ñůɱβēŗ</target>
+   </segment>
+   <segment id="APPLY" state="translated">
+    <source>Apply</source>
+    <target>Àᶗþļŷ</target>
+   </segment>
+   <segment id="YES" state="translated">
+    <source>Yes</source>
+    <target>Ŷëŝ</target>
+   </segment>
+   <segment id="THANK_YOU_FOR_SUBMISSION" state="translated">
+    <source>Thank you for your submission!</source>
+    <target>Ťĥäñķ ŷŏű ƒőř ÿôùŕ ŝûьɱīşśıòń!</target>
+   </segment>
+   <segment id="TIME_FIELDS_MUST_BE_IN_FORMAT_0" state="translated">
+    <source>Time fields must be in the format {0}.</source>
+    <target>Ťîɱë ƒîěľďś ɱūşť ьę ìŉ ťĥè ƒŏřɱâŧ {0}.</target>
+   </segment>
+   <segment id="NO_TEMPLATE_ASSIGNED" state="translated">
+    <source>No template assigned</source>
+    <target>Ňō ŧèɱᶗļâŧė αšśìğŉěđ</target>
+   </segment>
+   <segment id="SIGN_OUT" state="translated">
+    <source>Sign out</source>
+    <target>Ŝìğņ òųť</target>
+   </segment>
+   <segment id="ENTRY_ID" state="translated">
+    <source>Entry ID</source>
+    <target>Ēñŧřý ÌĐ</target>
+   </segment>
+   <segment id="AN_ERROR_OCCURED" state="translated">
+    <source>An error occurred</source>
+    <target>Äņ êŕřōŕ òçčűřŗėď</target>
+   </segment>
+  </unit>
+ </file>
+</xliff>
