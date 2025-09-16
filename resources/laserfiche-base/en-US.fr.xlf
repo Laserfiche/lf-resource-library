@@ -1,0 +1,507 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" version="2.1" srcLang="en" trgLang="fr">
+ <file id="en-US.fr.json">
+  <unit id="u1">
+   <segment id="FIELDS" state="translated">
+    <source>Fields</source>
+    <target>Ƒīëĺđś</target>
+   </segment>
+   <segment id="BACK" state="translated">
+    <source>Back</source>
+    <target>вåçķ</target>
+   </segment>
+   <segment id="ERROR_DOWNLOADING_DOCUMENT" state="translated">
+    <source>Error downloading document.</source>
+    <target>Éřŕôŗ ďŏẉňłōāďíñĝ ďòčŭɱëŉŧ.</target>
+   </segment>
+   <segment id="INTEGER" state="translated">
+    <source>Integer</source>
+    <target>Ĭñťėĝěŗ</target>
+   </segment>
+   <segment id="SIGN_OUT" state="translated">
+    <source>Sign out</source>
+    <target>Śïğņ ōúţ</target>
+   </segment>
+   <segment id="UNABLE_TO_RETRIEVE_REPOSITORY_INFORMATION" state="translated">
+    <source>Unable to retrieve repository information:</source>
+    <target>Ūŉáьľê ţő řęţřįěʋĕ ŕėᶗöšıťöŕý ĭñƒŏřɱåťïōň:</target>
+   </segment>
+   <segment id="ENTRY_0_ALREADY_EXISTS_SELECT_DIFFERENT_NAME" state="translated">
+    <source>An entry named &apos;{0}&apos; already exists in this folder. Please select a different name.</source>
+    <target>Äŉ ëňťřÿ ŉâɱėđ &apos;{0}&apos; ăľřêǎďÿ ê×ĩşŧš ıń ťħĩŝ ƒőľďęŗ. Þļĕăśę ŝēļěçŧ ä ďīƒƒéŕéŉţ ňäɱě.</target>
+   </segment>
+   <segment id="COMMENT" state="translated">
+    <source>Comment</source>
+    <target>Çóɱɱëńť</target>
+   </segment>
+   <segment id="ATTACHING" state="translated">
+    <source>Attaching...</source>
+    <target>Αťťåčĥįñĝ...</target>
+   </segment>
+   <segment id="ENTRY_ID" state="translated">
+    <source>Entry ID</source>
+    <target>Ėňŧřÿ ÎĐ</target>
+   </segment>
+   <segment id="NUMBER_FIELD_MUST_BE_VALID_NUMBER" state="translated">
+    <source>Number field must be a valid number</source>
+    <target>ÑůɱЬëř ƒĭéłď ɱųśŧ βê ǎ ʋāĺîđ ŉŭɱβĕř</target>
+   </segment>
+   <segment id="THANK_YOU_FOR_SUBMISSION" state="translated">
+    <source>Thank you for your submission!</source>
+    <target>Ţħáŉķ ŷőû ƒòř ýôüř ŝŭЬɱıśŝîóŉ!</target>
+   </segment>
+   <segment id="ADD_REMOVE_FIELDS" state="translated">
+    <source>Add/remove fields</source>
+    <target>Ǎđď/ŕêɱòṿę ƒìéļđş</target>
+   </segment>
+   <segment id="PLEASE_SELECT_A_FOLDER" state="translated">
+    <source>Please select a folder</source>
+    <target>Þĺëāšě ŝēļêčŧ ā ƒōłďêŕ</target>
+   </segment>
+   <segment id="SIGN_IN_TO_LASERFICHE" state="translated">
+    <source>Sign in to Laserfiche</source>
+    <target>Ŝįğń ìñ ŧô Ļäşėŕƒíčħé</target>
+   </segment>
+   <segment id="SEARCH_FIELDS" state="translated">
+    <source>Search fields</source>
+    <target>Śêǎŗçĥ ƒīëľďş</target>
+   </segment>
+   <segment id="REASON_FOR_DOWNLOADING" state="translated">
+    <source>Reason for Downloading</source>
+    <target>Řěαşòň ƒöŕ Ďōŵňłōαďíŉĝ</target>
+   </segment>
+   <segment id="ERROR_OCCURRED_WHILE_CONNECTING_TO_SERVER" state="translated">
+    <source>An error occurred while connecting to the server.</source>
+    <target>Áņ ęřŗóŗ őçčúŕřĕđ ẉĥïļê čòňŉëçťĭňĝ ťô ťĥę šéŗʋéř.</target>
+   </segment>
+   <segment id="SETTINGS" state="translated">
+    <source>Settings</source>
+    <target>Şēŧťĩńĝŝ</target>
+   </segment>
+   <segment id="NOT_AVAILABLE_WITH_TOKENS" state="translated">
+    <source>Not available with tokens</source>
+    <target>Ńôť áṿäïłáьłĕ ẉíŧĥ ťóķëńš</target>
+   </segment>
+   <segment id="LOADING" state="translated">
+    <source>Loading...</source>
+    <target>Ľòāđìŉĝ...</target>
+   </segment>
+   <segment id="ENTRY_NAME" state="translated">
+    <source>Entry Name</source>
+    <target>Ėńţŕý Ñāɱě</target>
+   </segment>
+   <segment id="FAILED_TO_OPEN_FOLDER" state="translated">
+    <source>Failed to open folder</source>
+    <target>Ƒàîļęď ťō őᶗéñ ƒõľďĕŗ</target>
+   </segment>
+   <segment id="NO_TEMPLATE_ASSIGNED" state="translated">
+    <source>No template assigned</source>
+    <target>Ńō ŧěɱþľāťĕ àśšığņêđ</target>
+   </segment>
+   <segment id="REQUIRED" state="translated">
+    <source>Required</source>
+    <target>Ŕèɋüïřēđ</target>
+   </segment>
+   <segment id="REMOVE_REPOSITORY" state="translated">
+    <source>Remove Repository?</source>
+    <target>Ŗĕɱôṿě Ŕéᶗōšíţŏřÿ?</target>
+   </segment>
+   <segment id="ATTACH" state="translated">
+    <source>Attach</source>
+    <target>Àŧţâçħ</target>
+   </segment>
+   <segment id="APPLY" state="translated">
+    <source>Apply</source>
+    <target>Αᶗþłŷ</target>
+   </segment>
+   <segment id="REPOSITORY_NAME" state="translated">
+    <source>Repository Name</source>
+    <target>Ŕęᶗòśīţōŕý Ñăɱê</target>
+   </segment>
+   <segment id="NO_MATCHING_ENTRIES_FOUND" state="translated">
+    <source>No matching entries were found</source>
+    <target>Ņò ɱāťčĥįņğ éńŧŗïèš ẉêŕě ƒòüñđ</target>
+   </segment>
+   <segment id="SAVED_TO_LASERFICHE_COLON" state="translated">
+    <source>Saved to Laserfiche:</source>
+    <target>Śâṿêď ťö Ľǎśěŕƒìćħě:</target>
+   </segment>
+   <segment id="NUMBER" state="translated">
+    <source>Number</source>
+    <target>Ňúɱβęř</target>
+   </segment>
+   <segment id="NEW_FOLDER" state="translated">
+    <source>New Folder</source>
+    <target>Ňëŵ Ƒōľďëř</target>
+   </segment>
+   <segment id="SELECT" state="translated">
+    <source>Select</source>
+    <target>Ŝēľèçť</target>
+   </segment>
+   <segment id="DATA" state="translated">
+    <source>Data</source>
+    <target>Ďαţà</target>
+   </segment>
+   <segment id="ONE_OR_MORE_FIELDS_INVALID" state="translated">
+    <source>One or more fields are invalid.</source>
+    <target>Óňë öŕ ɱõřê ƒīēłďş âŗè îńṿåľįď.</target>
+   </segment>
+   <segment id="YES" state="translated">
+    <source>Yes</source>
+    <target>Ýèš</target>
+   </segment>
+   <segment id="DO_YOU_WANT_TO_APPLY_YOUR_FIELD_CHANGES" state="translated">
+    <source>Do you want to apply your field changes?</source>
+    <target>Ďô ŷõû ẉǎŉť ťō ăþþĺŷ ýòŭř ƒïěĺđ ćĥαñĝêś?</target>
+   </segment>
+   <segment id="FILE_EXCEEDS_MAXIMUM_FILE_SIZE_25MB" state="translated">
+    <source>This file exceeds the maximum file size of 25MB.</source>
+    <target>Ţħıŝ ƒīĺę ē×čëėďš ţĥĕ ɱà×ïɱùɱ ƒīļė šįžē őƒ ②⑤Μв.</target>
+   </segment>
+   <segment id="FILENAMES_CANNOT_CONTAIN_BACKSLASH" state="translated">
+    <source>Filenames cannot contain a backslash</source>
+    <target>Ƒïłěñàɱĕş ćáņńőţ çőņţăïň á Ьāčķşłåšħ</target>
+   </segment>
+   <segment id="FILE_LOCKED" state="translated">
+    <source>File is locked.</source>
+    <target>Ƒīľė ıš łőçķěď.</target>
+   </segment>
+   <segment id="AUTOMATICALLY_RENAME" state="translated">
+    <source>Automatically rename</source>
+    <target>Åùťòɱαťįčâļĺŷ ŗëńåɱê</target>
+   </segment>
+   <segment id="ERROR_SAVING" state="translated">
+    <source>Error saving:</source>
+    <target>Èŗŗóŗ şǎṿíňĝ:</target>
+   </segment>
+   <segment id="PARENT_FIELD" state="translated">
+    <source>Parent Field</source>
+    <target>Þâřēńţ Ƒıèļď</target>
+   </segment>
+   <segment id="REFRESH" state="translated">
+    <source>Refresh</source>
+    <target>Řèƒřĕŝĥ</target>
+   </segment>
+   <segment id="0_OF_1" state="translated">
+    <source>{0} of {1}</source>
+    <target>{0} őƒ {1}</target>
+   </segment>
+   <segment id="COULD_NOT_SAVE_0" state="translated">
+    <source>Could not save &quot;{0}&quot;.</source>
+    <target>Čōŭľď ńóţ ŝäʋę &quot;{0}&quot;.</target>
+   </segment>
+   <segment id="FOLDER" state="translated">
+    <source>Folder</source>
+    <target>Ƒōļđęŗ</target>
+   </segment>
+   <segment id="OPTIONAL" state="translated">
+    <source>Optional</source>
+    <target>Ôᶗťįōňâľ</target>
+   </segment>
+   <segment id="FILE_MODIFIED" state="translated">
+    <source>File Modified</source>
+    <target>Ƒíļė Μŏďĭƒìēď</target>
+   </segment>
+   <segment id="TIME_FIELDS_MUST_BE_IN_FORMAT_0" state="translated">
+    <source>Time fields must be in the format {0}.</source>
+    <target>Ťĭɱé ƒįĕĺđš ɱüşţ βë įň ťĥē ƒóřɱαţ {0}.</target>
+   </segment>
+   <segment id="SIGNING_OUT" state="translated">
+    <source>Signing out...</source>
+    <target>Şīğņįńğ õūť...</target>
+   </segment>
+   <segment id="TEXT" state="translated">
+    <source>Text</source>
+    <target>Ťë×ŧ</target>
+   </segment>
+   <segment id="FILE_NAME" state="translated">
+    <source>File Name</source>
+    <target>Ƒĩļê Ņāɱë</target>
+   </segment>
+   <segment id="BROWSE" state="translated">
+    <source>Browse</source>
+    <target>вřŏẉśë</target>
+   </segment>
+   <segment id="ATTACH_AS_LINK" state="translated">
+    <source>Attach as Link</source>
+    <target>Ǎţťăçħ áś Ľîñķ</target>
+   </segment>
+   <segment id="DATE_FIELDS_MUST_BE_IN_FORMAT_0" state="translated">
+    <source>Date fields must be in the format {0}.</source>
+    <target>Đàŧę ƒıëłďŝ ɱűŝŧ Ьè ìň ťħê ƒōŗɱåţ {0}.</target>
+   </segment>
+   <segment id="CLOSE" state="translated">
+    <source>Close</source>
+    <target>Çłöşë</target>
+   </segment>
+   <segment id="0_ALREADY_EXISTS" state="translated">
+    <source>&quot;{0}&quot; already exists.</source>
+    <target>&quot;{0}&quot; αłŗėåďý ë×īşťŝ.</target>
+   </segment>
+   <segment id="REQUIRED_FIELD_IS_EMPTY" state="translated">
+    <source>Required field is empty</source>
+    <target>Ŕĕɋùįŗėď ƒìêĺď ış êɱþťÿ</target>
+   </segment>
+   <segment id="REMOVE" state="translated">
+    <source>Remove</source>
+    <target>Řěɱõṿē</target>
+   </segment>
+   <segment id="SHORT_FIELDS_MUST_BE_INTEGERS_BETWEEN_0_64999" state="translated">
+    <source>Short fields must be integers between 0 and 64999</source>
+    <target>Śħóŕť ƒíēļđŝ ɱúšť Ьè īņťęğĕřŝ βëŧẉéęñ ⓪ âņď ⑥④⑨⑨⑨</target>
+   </segment>
+   <segment id="SAVE_TO_LASERFICHE" state="translated">
+    <source>Save to Laserfiche</source>
+    <target>Ŝăʋĕ ŧô Ļáŝęŕƒīçĥē</target>
+   </segment>
+   <segment id="DATE_PROVIDED_IS_INVALID" state="translated">
+    <source>The date provided is invalid.</source>
+    <target>Ţħė ďàťē þŗôṿīđėď īš ìńʋåļìđ.</target>
+   </segment>
+   <segment id="ADD" state="translated">
+    <source>Add</source>
+    <target>Ǎđđ</target>
+   </segment>
+   <segment id="UNABLE_TO_LOAD_ALL_FIELDS" state="translated">
+    <source>Unable to load all fields:</source>
+    <target>Üńàβĺé ŧö ĺōäď áľł ƒïëļďś:</target>
+   </segment>
+   <segment id="LONG_FIELDS_MUST_BE_INTEGERS_BETWEEN_0_3999999999" state="translated">
+    <source>Long fields must be integers between 0 and 3,999,999,999</source>
+    <target>Ľōňĝ ƒìèľđş ɱúŝť ьè įňţéĝèřš ьēŧẉėêņ ⓪ āňď ③,⑨⑨⑨,⑨⑨⑨,⑨⑨⑨</target>
+   </segment>
+   <segment id="SAVING" state="translated">
+    <source>Saving...</source>
+    <target>Ŝāʋîñĝ...</target>
+   </segment>
+   <segment id="SOMETHING_WENT_WRONG_PLEASE_TRY_AGAIN_LATER" state="translated">
+    <source>Something went wrong. Please try again later.</source>
+    <target>Şöɱėŧħîňğ ŵèñţ ŵŗôņĝ. Þļéàşě ťŕý äĝăíń ĺâŧĕŗ.</target>
+   </segment>
+   <segment id="FILE_EXTENSION" state="translated">
+    <source>File Extension</source>
+    <target>Ƒìłê Ë×ťėňšīöń</target>
+   </segment>
+   <segment id="SELF_HOSTED" state="translated">
+    <source>Self-Hosted</source>
+    <target>Śĕļƒ-Ħôšţĕď</target>
+   </segment>
+   <segment id="SELECT_REASON" state="translated">
+    <source>Select a reason</source>
+    <target>Ŝèłëćŧ à ŕèāšőņ</target>
+   </segment>
+   <segment id="UNKNOWN_ERROR" state="translated">
+    <source>Unknown Error.</source>
+    <target>Ūñķŉöŵŉ Ēŕŗőř.</target>
+   </segment>
+   <segment id="TEMPLATE_HAS_FAILED_TO_LOAD" state="translated">
+    <source>The template has failed to load.</source>
+    <target>Ŧĥě ţĕɱᶗľăţĕ ĥáŝ ƒàıłęđ ťó ľóαđ.</target>
+   </segment>
+   <segment id="SESSION_COUNT" state="translated">
+    <source>Session Count</source>
+    <target>Ŝēśšïòň Çôùňŧ</target>
+   </segment>
+   <segment id="LIST" state="translated">
+    <source>List</source>
+    <target>Łíšţ</target>
+   </segment>
+   <segment id="USER_NAME" state="translated">
+    <source>User Name</source>
+    <target>Ųşėř Ñàɱę</target>
+   </segment>
+   <segment id="NO" state="translated">
+    <source>No</source>
+    <target>Ñò</target>
+   </segment>
+   <segment id="SIGN_IN" state="translated">
+    <source>Sign in</source>
+    <target>Şïĝņ ıņ</target>
+   </segment>
+   <segment id="OPEN_IN_LASERFICHE" state="translated">
+    <source>Open in Laserfiche</source>
+    <target>Ōþėņ íň Ľåşëřƒìčĥë</target>
+   </segment>
+   <segment id="THIS_FIELD_HAS_MAXIMUM_ALLOWED_LENGTH_0_CHARACTERS" state="translated">
+    <source>This field has a maximum allowed length of {0} characters.</source>
+    <target>Ťħíś ƒíėļđ ħâş ā ɱā×īɱůɱ ǎľľòẉêđ ļęņğŧĥ ôƒ {0} ćĥăŗáçŧēřş.</target>
+   </segment>
+   <segment id="AN_ERROR_OCCURED" state="translated">
+    <source>An error occurred</source>
+    <target>Ăņ ĕŕŗŏŗ ôčçűŕŕėď</target>
+   </segment>
+   <segment id="DOCUMENT_NAME_IS_EMPTY" state="translated">
+    <source>Document name is empty</source>
+    <target>Đòçúɱêņť ňäɱĕ îş ěɱᶗťý</target>
+   </segment>
+   <segment id="SUGGESTION" state="translated">
+    <source>Suggestion</source>
+    <target>Śùĝĝêŝţíőŉ</target>
+   </segment>
+   <segment id="REPOSITORY_COUNT" state="translated">
+    <source>Repository Count</source>
+    <target>Ŕëᶗòśįťóŗŷ Ćöűņť</target>
+   </segment>
+   <segment id="PARENT_ID" state="translated">
+    <source>Parent ID</source>
+    <target>Þâŗĕńţ İĎ</target>
+   </segment>
+   <segment id="REPOSITORY" state="translated">
+    <source>Repository</source>
+    <target>Ŕèþōšïťőŕŷ</target>
+   </segment>
+   <segment id="DETAILS" state="translated">
+    <source>Details</source>
+    <target>Đèŧáīłş</target>
+   </segment>
+   <segment id="CANCEL" state="translated">
+    <source>Cancel</source>
+    <target>Ćâñçêł</target>
+   </segment>
+   <segment id="FAILED_TO_SAVE_PERIOD" state="translated">
+    <source>Failed to save.</source>
+    <target>Ƒäĩľėď ţô šāṿë.</target>
+   </segment>
+   <segment id="LONG_INTEGER" state="translated">
+    <source>Long Integer</source>
+    <target>Łŏñğ Ĩňŧěĝëŕ</target>
+   </segment>
+   <segment id="NO_ADDITIONAL_FIELDS_ASSIGNED" state="translated">
+    <source>No additional fields assigned</source>
+    <target>Ņő àďđıţĭôŉäł ƒïéĺđś àśŝìğñěď</target>
+   </segment>
+   <segment id="NO_MATCHING_FIELDS_FOUND" state="translated">
+    <source>No matching fields were found.</source>
+    <target>Ñŏ ɱαţćħìŉğ ƒĩêłďš ŵĕŕé ƒòűņđ.</target>
+   </segment>
+   <segment id="PARENT_NAME" state="translated">
+    <source>Parent Name</source>
+    <target>Þαŗëňť Ñāɱè</target>
+   </segment>
+   <segment id="CLOUD" state="translated">
+    <source>Cloud</source>
+    <target>Ćłōűđ</target>
+   </segment>
+   <segment id="DATE_TIME" state="translated">
+    <source>Date/Time</source>
+    <target>Đâţě/Ťĭɱė</target>
+   </segment>
+   <segment id="CONFIGURE_REPOSITORY_SETTINGS" state="translated">
+    <source>Configure Repository Settings</source>
+    <target>Čõŉƒığųŕě Ŕĕþôşĭţöŕÿ Şéţţīňĝś</target>
+   </segment>
+   <segment id="NEED_HELP_SIGNING_IN_CONTACT_LASERFICHE_ADMINISTRATOR_FOR_HELP" state="translated">
+    <source>Need help signing in? Contact your Laserfiche Administrator for help.</source>
+    <target>Ňèĕđ ħęĺᶗ şíĝňıñğ ìņ? Čōńťäćţ ŷŏűř Ļăŝěřƒïčĥë Ăďɱĭňĭşťřäţõŕ ƒŏŗ ħéļþ.</target>
+   </segment>
+   <segment id="NAME" state="translated">
+    <source>Name</source>
+    <target>Ñáɱé</target>
+   </segment>
+   <segment id="REPOSITORY_ID" state="translated">
+    <source>Repository ID</source>
+    <target>Ŕēþóśīţôřý ĨĎ</target>
+   </segment>
+   <segment id="TEMPLATE" state="translated">
+    <source>Template</source>
+    <target>Ťèɱᶗĺåŧĕ</target>
+   </segment>
+   <segment id="THIS_FOLDER_IS_EMPTY" state="translated">
+    <source>This folder is empty.</source>
+    <target>Ťĥįş ƒőłďěŕ įš ēɱᶗŧý.</target>
+   </segment>
+   <segment id="SAVED_WITH_MISSING_METADATA" state="translated">
+    <source>Saved with missing metadata:</source>
+    <target>Śåṿêđ ŵīţħ ɱįşşįňĝ ɱĕťåďáŧă:</target>
+   </segment>
+   <segment id="OK" state="translated">
+    <source>Ok</source>
+    <target>Õķ</target>
+   </segment>
+   <segment id="APPLY_CHANGES" state="translated">
+    <source>Apply changes</source>
+    <target>Àþþļŷ çĥăņĝěś</target>
+   </segment>
+   <segment id="COULD_NOT_SAVE_0_FILE_TYPE_NOT_SUPPORTED" state="translated">
+    <source>Could not save &quot;{0}&quot;. File type not supported.</source>
+    <target>Ćòùłđ ŉóť śâṿĕ &quot;{0}&quot;. Ƒĭľè ţÿþë ŉőŧ ŝųþᶗòřťêď.</target>
+   </segment>
+   <segment id="FAILED_TO_SAVE_COLON" state="translated">
+    <source>Failed to save:</source>
+    <target>Ƒαıĺėđ ŧò şāṿê:</target>
+   </segment>
+   <segment id="OR" state="translated">
+    <source>or</source>
+    <target>ôŕ</target>
+   </segment>
+   <segment id="DRAG_DROP_FILE" state="translated">
+    <source>Drag and drop file</source>
+    <target>Đŗαğ áñđ ďřöᶗ ƒıłê</target>
+   </segment>
+   <segment id="ENTRY_NOT_FOUND" state="translated">
+    <source>Entry not found.</source>
+    <target>Êŉţŕý ŉóť ƒóūñď.</target>
+   </segment>
+   <segment id="NO_FOLDER_SELECTED" state="translated">
+    <source>No folder is selected.</source>
+    <target>Ñő ƒõļđěŗ įş śéľëćţēđ.</target>
+   </segment>
+   <segment id="DATE_TIME_FIELDS_MUST_BE_IN_FORMAT_0" state="translated">
+    <source>Date/time fields must be in the format {0}.</source>
+    <target>Đǎţè/ťĩɱě ƒıēłđş ɱūşŧ Ьē įň ţħĕ ƒőŗɱåť {0}.</target>
+   </segment>
+   <segment id="OPEN" state="translated">
+    <source>Open</source>
+    <target>Őþëŉ</target>
+   </segment>
+   <segment id="CHARACTER_COUNT" state="translated">
+    <source>Character count:</source>
+    <target>Čħăŕàćţěř ćòùńţ:</target>
+   </segment>
+   <segment id="SKIP_THIS_FILE" state="translated">
+    <source>Skip this file</source>
+    <target>Şķĭᶗ ťħıś ƒĭĺë</target>
+   </segment>
+   <segment id="SAVED_TO_LASERFICHE" state="translated">
+    <source>Saved to Laserfiche</source>
+    <target>Śαṿêđ ŧô Ĺášěŗƒíçħę</target>
+   </segment>
+   <segment id="DEFAULT_FOLDER" state="translated">
+    <source>&lt;Default Folder&gt;</source>
+    <target>&lt;Ďêƒäŭľŧ Ƒŏľďēŕ&gt;</target>
+   </segment>
+   <segment id="SUBMIT" state="translated">
+    <source>Submit</source>
+    <target>Śùьɱíţ</target>
+   </segment>
+   <segment id="FEEDBACK" state="translated">
+    <source>Feedback</source>
+    <target>Ƒėĕďьâćķ</target>
+   </segment>
+   <segment id="ACCOUNT_ID" state="translated">
+    <source>Account ID</source>
+    <target>Ăčçŏûņţ ĨĐ</target>
+   </segment>
+   <segment id="NAME_CONFLICT" state="translated">
+    <source>Name Conflict</source>
+    <target>Ńåɱė Çòńƒłĭćŧ</target>
+   </segment>
+   <segment id="DATE" state="translated">
+    <source>Date</source>
+    <target>Đăţè</target>
+   </segment>
+   <segment id="SAVE_CHANGES" state="translated">
+    <source>Save Changes</source>
+    <target>Šåṿé Çĥâňğéŝ</target>
+   </segment>
+   <segment id="TIME" state="translated">
+    <source>Time</source>
+    <target>Ŧîɱê</target>
+   </segment>
+   <segment id="SIGNING_IN" state="translated">
+    <source>Signing in...</source>
+    <target>Śīĝŉĭņĝ īñ...</target>
+   </segment>
+  </unit>
+ </file>
+</xliff>
