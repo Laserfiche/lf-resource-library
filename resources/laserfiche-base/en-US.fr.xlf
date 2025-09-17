@@ -1,0 +1,507 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" version="2.1" srcLang="en" trgLang="fr">
+ <file id="en-US.fr.json">
+  <unit id="u1">
+   <segment id="OPEN" state="translated">
+    <source>Open</source>
+    <target>Ouvrir</target>
+   </segment>
+   <segment id="NOT_AVAILABLE_WITH_TOKENS" state="translated">
+    <source>Not available with tokens</source>
+    <target>Non disponible avec des jetons</target>
+   </segment>
+   <segment id="THANK_YOU_FOR_SUBMISSION" state="translated">
+    <source>Thank you for your submission!</source>
+    <target>Merci pour votre soumission !</target>
+   </segment>
+   <segment id="PARENT_ID" state="translated">
+    <source>Parent ID</source>
+    <target>ID parent</target>
+   </segment>
+   <segment id="SKIP_THIS_FILE" state="translated">
+    <source>Skip this file</source>
+    <target>Ignorer ce fichier</target>
+   </segment>
+   <segment id="SESSION_COUNT" state="translated">
+    <source>Session Count</source>
+    <target>Nombre de sessions</target>
+   </segment>
+   <segment id="PARENT_NAME" state="translated">
+    <source>Parent Name</source>
+    <target>Nom du parent</target>
+   </segment>
+   <segment id="LONG_INTEGER" state="translated">
+    <source>Long Integer</source>
+    <target>Entier long</target>
+   </segment>
+   <segment id="FAILED_TO_SAVE_COLON" state="translated">
+    <source>Failed to save:</source>
+    <target>Échec de l’enregistrement :</target>
+   </segment>
+   <segment id="SOMETHING_WENT_WRONG_PLEASE_TRY_AGAIN_LATER" state="translated">
+    <source>Something went wrong. Please try again later.</source>
+    <target>Une erreur s’est produite. Veuillez réessayer plus tard.</target>
+   </segment>
+   <segment id="COMMENT" state="translated">
+    <source>Comment</source>
+    <target>Commentaire</target>
+   </segment>
+   <segment id="OR" state="translated">
+    <source>or</source>
+    <target>ou</target>
+   </segment>
+   <segment id="DRAG_DROP_FILE" state="translated">
+    <source>Drag and drop file</source>
+    <target>Glisser-déposer le fichier</target>
+   </segment>
+   <segment id="COULD_NOT_SAVE_0" state="translated">
+    <source>Could not save &quot;{0}&quot;.</source>
+    <target>Impossible d’enregistrer « {0} ».</target>
+   </segment>
+   <segment id="SELECT_REASON" state="translated">
+    <source>Select a reason</source>
+    <target>Sélectionnez une raison</target>
+   </segment>
+   <segment id="CANCEL" state="translated">
+    <source>Cancel</source>
+    <target>Annuler</target>
+   </segment>
+   <segment id="ADD_REMOVE_FIELDS" state="translated">
+    <source>Add/remove fields</source>
+    <target>Ajouter/supprimer des champs</target>
+   </segment>
+   <segment id="SAVED_TO_LASERFICHE_COLON" state="translated">
+    <source>Saved to Laserfiche:</source>
+    <target>Enregistré dans Laserfiche :</target>
+   </segment>
+   <segment id="FEEDBACK" state="translated">
+    <source>Feedback</source>
+    <target>Retour d’information</target>
+   </segment>
+   <segment id="REPOSITORY_NAME" state="translated">
+    <source>Repository Name</source>
+    <target>Nom du référentiel</target>
+   </segment>
+   <segment id="TEXT" state="translated">
+    <source>Text</source>
+    <target>Texte</target>
+   </segment>
+   <segment id="LOADING" state="translated">
+    <source>Loading...</source>
+    <target>Chargement...</target>
+   </segment>
+   <segment id="ENTRY_ID" state="translated">
+    <source>Entry ID</source>
+    <target>ID de l’entrée</target>
+   </segment>
+   <segment id="DATE_FIELDS_MUST_BE_IN_FORMAT_0" state="translated">
+    <source>Date fields must be in the format {0}.</source>
+    <target>Les champs de date doivent être au format {0}.</target>
+   </segment>
+   <segment id="FIELDS" state="translated">
+    <source>Fields</source>
+    <target>Champs</target>
+   </segment>
+   <segment id="NO_MATCHING_ENTRIES_FOUND" state="translated">
+    <source>No matching entries were found</source>
+    <target>Aucune entrée correspondante trouvée</target>
+   </segment>
+   <segment id="USER_NAME" state="translated">
+    <source>User Name</source>
+    <target>Nom d’utilisateur</target>
+   </segment>
+   <segment id="ENTRY_0_ALREADY_EXISTS_SELECT_DIFFERENT_NAME" state="translated">
+    <source>An entry named &apos;{0}&apos; already exists in this folder. Please select a different name.</source>
+    <target>Une entrée nommée « {0} » existe déjà dans ce dossier. Veuillez choisir un nom différent.</target>
+   </segment>
+   <segment id="COULD_NOT_SAVE_0_FILE_TYPE_NOT_SUPPORTED" state="translated">
+    <source>Could not save &quot;{0}&quot;. File type not supported.</source>
+    <target>Impossible d’enregistrer « {0} ». Type de fichier non pris en charge.</target>
+   </segment>
+   <segment id="UNABLE_TO_LOAD_ALL_FIELDS" state="translated">
+    <source>Unable to load all fields:</source>
+    <target>Impossible de charger tous les champs :</target>
+   </segment>
+   <segment id="SELECT" state="translated">
+    <source>Select</source>
+    <target>Sélectionner</target>
+   </segment>
+   <segment id="SIGNING_IN" state="translated">
+    <source>Signing in...</source>
+    <target>Connexion en cours...</target>
+   </segment>
+   <segment id="SAVING" state="translated">
+    <source>Saving...</source>
+    <target>Enregistrement en cours...</target>
+   </segment>
+   <segment id="LONG_FIELDS_MUST_BE_INTEGERS_BETWEEN_0_3999999999" state="translated">
+    <source>Long fields must be integers between 0 and 3,999,999,999</source>
+    <target>Les champs longs doivent être des entiers entre 0 et 3 999 999 999</target>
+   </segment>
+   <segment id="DOCUMENT_NAME_IS_EMPTY" state="translated">
+    <source>Document name is empty</source>
+    <target>Le nom du document est vide</target>
+   </segment>
+   <segment id="CLOSE" state="translated">
+    <source>Close</source>
+    <target>Fermer</target>
+   </segment>
+   <segment id="SIGN_OUT" state="translated">
+    <source>Sign out</source>
+    <target>Déconnexion</target>
+   </segment>
+   <segment id="DATE_TIME_FIELDS_MUST_BE_IN_FORMAT_0" state="translated">
+    <source>Date/time fields must be in the format {0}.</source>
+    <target>Les champs date/heure doivent être au format {0}.</target>
+   </segment>
+   <segment id="SUBMIT" state="translated">
+    <source>Submit</source>
+    <target>Soumettre</target>
+   </segment>
+   <segment id="ACCOUNT_ID" state="translated">
+    <source>Account ID</source>
+    <target>ID du compte</target>
+   </segment>
+   <segment id="SELF_HOSTED" state="translated">
+    <source>Self-Hosted</source>
+    <target>Auto-hébergé</target>
+   </segment>
+   <segment id="OPEN_IN_LASERFICHE" state="translated">
+    <source>Open in Laserfiche</source>
+    <target>Ouvrir dans Laserfiche</target>
+   </segment>
+   <segment id="APPLY" state="translated">
+    <source>Apply</source>
+    <target>Appliquer</target>
+   </segment>
+   <segment id="SIGN_IN" state="translated">
+    <source>Sign in</source>
+    <target>Se connecter</target>
+   </segment>
+   <segment id="SHORT_FIELDS_MUST_BE_INTEGERS_BETWEEN_0_64999" state="translated">
+    <source>Short fields must be integers between 0 and 64999</source>
+    <target>Les champs courts doivent être des entiers entre 0 et 64 999</target>
+   </segment>
+   <segment id="SAVED_TO_LASERFICHE" state="translated">
+    <source>Saved to Laserfiche</source>
+    <target>Enregistré dans Laserfiche</target>
+   </segment>
+   <segment id="0_OF_1" state="translated">
+    <source>{0} of {1}</source>
+    <target>{0} sur {1}</target>
+   </segment>
+   <segment id="SEARCH_FIELDS" state="translated">
+    <source>Search fields</source>
+    <target>Champs de recherche</target>
+   </segment>
+   <segment id="BACK" state="translated">
+    <source>Back</source>
+    <target>Retour</target>
+   </segment>
+   <segment id="REMOVE_REPOSITORY" state="translated">
+    <source>Remove Repository?</source>
+    <target>Supprimer le référentiel ?</target>
+   </segment>
+   <segment id="THIS_FIELD_HAS_MAXIMUM_ALLOWED_LENGTH_0_CHARACTERS" state="translated">
+    <source>This field has a maximum allowed length of {0} characters.</source>
+    <target>Ce champ a une longueur maximale autorisée de {0} caractères.</target>
+   </segment>
+   <segment id="ERROR_SAVING" state="translated">
+    <source>Error saving:</source>
+    <target>Erreur lors de l’enregistrement :</target>
+   </segment>
+   <segment id="ADD" state="translated">
+    <source>Add</source>
+    <target>Ajouter</target>
+   </segment>
+   <segment id="REQUIRED_FIELD_IS_EMPTY" state="translated">
+    <source>Required field is empty</source>
+    <target>Le champ obligatoire est vide</target>
+   </segment>
+   <segment id="TIME_FIELDS_MUST_BE_IN_FORMAT_0" state="translated">
+    <source>Time fields must be in the format {0}.</source>
+    <target>Les champs de temps doivent être au format {0}.</target>
+   </segment>
+   <segment id="SIGN_IN_TO_LASERFICHE" state="translated">
+    <source>Sign in to Laserfiche</source>
+    <target>Connectez-vous à Laserfiche</target>
+   </segment>
+   <segment id="YES" state="translated">
+    <source>Yes</source>
+    <target>Oui</target>
+   </segment>
+   <segment id="TIME" state="translated">
+    <source>Time</source>
+    <target>Heure</target>
+   </segment>
+   <segment id="UNKNOWN_ERROR" state="translated">
+    <source>Unknown Error.</source>
+    <target>Erreur inconnue.</target>
+   </segment>
+   <segment id="SIGNING_OUT" state="translated">
+    <source>Signing out...</source>
+    <target>Déconnexion en cours...</target>
+   </segment>
+   <segment id="ATTACH_AS_LINK" state="translated">
+    <source>Attach as Link</source>
+    <target>Joindre en tant que lien</target>
+   </segment>
+   <segment id="DO_YOU_WANT_TO_APPLY_YOUR_FIELD_CHANGES" state="translated">
+    <source>Do you want to apply your field changes?</source>
+    <target>Voulez-vous appliquer vos modifications de champ ?</target>
+   </segment>
+   <segment id="SUGGESTION" state="translated">
+    <source>Suggestion</source>
+    <target>Suggestion</target>
+   </segment>
+   <segment id="DEFAULT_FOLDER" state="translated">
+    <source>&lt;Default Folder&gt;</source>
+    <target>�3cDossier par défaut�3e</target>
+   </segment>
+   <segment id="NO_MATCHING_FIELDS_FOUND" state="translated">
+    <source>No matching fields were found.</source>
+    <target>Aucun champ correspondant trouvé.</target>
+   </segment>
+   <segment id="NUMBER_FIELD_MUST_BE_VALID_NUMBER" state="translated">
+    <source>Number field must be a valid number</source>
+    <target>Le champ numérique doit être un nombre valide</target>
+   </segment>
+   <segment id="0_ALREADY_EXISTS" state="translated">
+    <source>&quot;{0}&quot; already exists.</source>
+    <target>« {0} » existe déjà.</target>
+   </segment>
+   <segment id="ENTRY_NAME" state="translated">
+    <source>Entry Name</source>
+    <target>Nom de l’entrée</target>
+   </segment>
+   <segment id="CHARACTER_COUNT" state="translated">
+    <source>Character count:</source>
+    <target>Nombre de caractères :</target>
+   </segment>
+   <segment id="TEMPLATE" state="translated">
+    <source>Template</source>
+    <target>Modèle</target>
+   </segment>
+   <segment id="SAVE_TO_LASERFICHE" state="translated">
+    <source>Save to Laserfiche</source>
+    <target>Enregistrer dans Laserfiche</target>
+   </segment>
+   <segment id="NO_FOLDER_SELECTED" state="translated">
+    <source>No folder is selected.</source>
+    <target>Aucun dossier sélectionné.</target>
+   </segment>
+   <segment id="FILE_EXCEEDS_MAXIMUM_FILE_SIZE_25MB" state="translated">
+    <source>This file exceeds the maximum file size of 25MB.</source>
+    <target>Ce fichier dépasse la taille maximale autorisée de 25 Mo.</target>
+   </segment>
+   <segment id="AN_ERROR_OCCURED" state="translated">
+    <source>An error occurred</source>
+    <target>Une erreur s’est produite</target>
+   </segment>
+   <segment id="SAVED_WITH_MISSING_METADATA" state="translated">
+    <source>Saved with missing metadata:</source>
+    <target>Enregistré avec des métadonnées manquantes :</target>
+   </segment>
+   <segment id="ERROR_OCCURRED_WHILE_CONNECTING_TO_SERVER" state="translated">
+    <source>An error occurred while connecting to the server.</source>
+    <target>Une erreur s’est produite lors de la connexion au serveur.</target>
+   </segment>
+   <segment id="SAVE_CHANGES" state="translated">
+    <source>Save Changes</source>
+    <target>Enregistrer les modifications</target>
+   </segment>
+   <segment id="FAILED_TO_OPEN_FOLDER" state="translated">
+    <source>Failed to open folder</source>
+    <target>Échec de l’ouverture du dossier</target>
+   </segment>
+   <segment id="REPOSITORY" state="translated">
+    <source>Repository</source>
+    <target>Référentiel</target>
+   </segment>
+   <segment id="PARENT_FIELD" state="translated">
+    <source>Parent Field</source>
+    <target>Champ parent</target>
+   </segment>
+   <segment id="REQUIRED" state="translated">
+    <source>Required</source>
+    <target>Obligatoire</target>
+   </segment>
+   <segment id="THIS_FOLDER_IS_EMPTY" state="translated">
+    <source>This folder is empty.</source>
+    <target>Ce dossier est vide.</target>
+   </segment>
+   <segment id="OK" state="translated">
+    <source>Ok</source>
+    <target>Ok</target>
+   </segment>
+   <segment id="REPOSITORY_COUNT" state="translated">
+    <source>Repository Count</source>
+    <target>Nombre de référentiels</target>
+   </segment>
+   <segment id="ERROR_DOWNLOADING_DOCUMENT" state="translated">
+    <source>Error downloading document.</source>
+    <target>Erreur lors du téléchargement du document.</target>
+   </segment>
+   <segment id="INTEGER" state="translated">
+    <source>Integer</source>
+    <target>Entier</target>
+   </segment>
+   <segment id="NO" state="translated">
+    <source>No</source>
+    <target>Non</target>
+   </segment>
+   <segment id="FILENAMES_CANNOT_CONTAIN_BACKSLASH" state="translated">
+    <source>Filenames cannot contain a backslash</source>
+    <target>Les noms de fichiers ne peuvent pas contenir de barre oblique inversée</target>
+   </segment>
+   <segment id="ATTACH" state="translated">
+    <source>Attach</source>
+    <target>Joindre</target>
+   </segment>
+   <segment id="BROWSE" state="translated">
+    <source>Browse</source>
+    <target>Parcourir</target>
+   </segment>
+   <segment id="LIST" state="translated">
+    <source>List</source>
+    <target>Liste</target>
+   </segment>
+   <segment id="SETTINGS" state="translated">
+    <source>Settings</source>
+    <target>Paramètres</target>
+   </segment>
+   <segment id="NAME_CONFLICT" state="translated">
+    <source>Name Conflict</source>
+    <target>Conflit de nom</target>
+   </segment>
+   <segment id="FILE_NAME" state="translated">
+    <source>File Name</source>
+    <target>Nom du fichier</target>
+   </segment>
+   <segment id="PLEASE_SELECT_A_FOLDER" state="translated">
+    <source>Please select a folder</source>
+    <target>Veuillez sélectionner un dossier</target>
+   </segment>
+   <segment id="ENTRY_NOT_FOUND" state="translated">
+    <source>Entry not found.</source>
+    <target>Entrée non trouvée.</target>
+   </segment>
+   <segment id="NEED_HELP_SIGNING_IN_CONTACT_LASERFICHE_ADMINISTRATOR_FOR_HELP" state="translated">
+    <source>Need help signing in? Contact your Laserfiche Administrator for help.</source>
+    <target>Besoin d’aide pour vous connecter ? Contactez votre administrateur Laserfiche pour obtenir de l’aide.</target>
+   </segment>
+   <segment id="ONE_OR_MORE_FIELDS_INVALID" state="translated">
+    <source>One or more fields are invalid.</source>
+    <target>Un ou plusieurs champs sont invalides.</target>
+   </segment>
+   <segment id="DETAILS" state="translated">
+    <source>Details</source>
+    <target>Détails</target>
+   </segment>
+   <segment id="ATTACHING" state="translated">
+    <source>Attaching...</source>
+    <target>Jointure en cours...</target>
+   </segment>
+   <segment id="TEMPLATE_HAS_FAILED_TO_LOAD" state="translated">
+    <source>The template has failed to load.</source>
+    <target>Le modèle n&apos;a pas pu être chargé.</target>
+   </segment>
+   <segment id="DATE" state="translated">
+    <source>Date</source>
+    <target>Date</target>
+   </segment>
+   <segment id="REMOVE" state="translated">
+    <source>Remove</source>
+    <target>Supprimer</target>
+   </segment>
+   <segment id="DATE_PROVIDED_IS_INVALID" state="translated">
+    <source>The date provided is invalid.</source>
+    <target>La date fournie est invalide.</target>
+   </segment>
+   <segment id="FOLDER" state="translated">
+    <source>Folder</source>
+    <target>Dossier</target>
+   </segment>
+   <segment id="REPOSITORY_ID" state="translated">
+    <source>Repository ID</source>
+    <target>ID du référentiel</target>
+   </segment>
+   <segment id="FILE_EXTENSION" state="translated">
+    <source>File Extension</source>
+    <target>Extension de fichier</target>
+   </segment>
+   <segment id="NO_TEMPLATE_ASSIGNED" state="translated">
+    <source>No template assigned</source>
+    <target>Aucun modèle attribué</target>
+   </segment>
+   <segment id="FILE_LOCKED" state="translated">
+    <source>File is locked.</source>
+    <target>Le fichier est verrouillé.</target>
+   </segment>
+   <segment id="FAILED_TO_SAVE_PERIOD" state="translated">
+    <source>Failed to save.</source>
+    <target>Échec de l&apos;enregistrement.</target>
+   </segment>
+   <segment id="NEW_FOLDER" state="translated">
+    <source>New Folder</source>
+    <target>Nouveau dossier</target>
+   </segment>
+   <segment id="NO_ADDITIONAL_FIELDS_ASSIGNED" state="translated">
+    <source>No additional fields assigned</source>
+    <target>Aucun champ supplémentaire attribué</target>
+   </segment>
+   <segment id="DATE_TIME" state="translated">
+    <source>Date/Time</source>
+    <target>Date/Heure</target>
+   </segment>
+   <segment id="FILE_MODIFIED" state="translated">
+    <source>File Modified</source>
+    <target>Fichier modifié</target>
+   </segment>
+   <segment id="AUTOMATICALLY_RENAME" state="translated">
+    <source>Automatically rename</source>
+    <target>Renommer automatiquement</target>
+   </segment>
+   <segment id="REASON_FOR_DOWNLOADING" state="translated">
+    <source>Reason for Downloading</source>
+    <target>Raison du téléchargement</target>
+   </segment>
+   <segment id="DATA" state="translated">
+    <source>Data</source>
+    <target>Données</target>
+   </segment>
+   <segment id="NUMBER" state="translated">
+    <source>Number</source>
+    <target>Nombre</target>
+   </segment>
+   <segment id="NAME" state="translated">
+    <source>Name</source>
+    <target>Nom</target>
+   </segment>
+   <segment id="CONFIGURE_REPOSITORY_SETTINGS" state="translated">
+    <source>Configure Repository Settings</source>
+    <target>Configurer les paramètres du référentiel</target>
+   </segment>
+   <segment id="OPTIONAL" state="translated">
+    <source>Optional</source>
+    <target>Optionnel</target>
+   </segment>
+   <segment id="CLOUD" state="translated">
+    <source>Cloud</source>
+    <target>Cloud</target>
+   </segment>
+   <segment id="REFRESH" state="translated">
+    <source>Refresh</source>
+    <target>Actualiser</target>
+   </segment>
+   <segment id="UNABLE_TO_RETRIEVE_REPOSITORY_INFORMATION" state="translated">
+    <source>Unable to retrieve repository information:</source>
+    <target>Impossible de récupérer les informations du référentiel :</target>
+   </segment>
+   <segment id="APPLY_CHANGES" state="translated">
+    <source>Apply changes</source>
+    <target>Appliquer les modifications</target>
+   </segment>
+  </unit>
+ </file>
+</xliff>

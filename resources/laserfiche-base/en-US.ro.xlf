@@ -1,0 +1,507 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" version="2.1" srcLang="en" trgLang="ro">
+ <file id="en-US.ro.json">
+  <unit id="u1">
+   <segment id="TIME" state="translated">
+    <source>Time</source>
+    <target>Timp</target>
+   </segment>
+   <segment id="APPLY" state="translated">
+    <source>Apply</source>
+    <target>Aplică</target>
+   </segment>
+   <segment id="LONG_INTEGER" state="translated">
+    <source>Long Integer</source>
+    <target>Întreg lung</target>
+   </segment>
+   <segment id="SKIP_THIS_FILE" state="translated">
+    <source>Skip this file</source>
+    <target>Sari peste acest fișier</target>
+   </segment>
+   <segment id="NO_TEMPLATE_ASSIGNED" state="translated">
+    <source>No template assigned</source>
+    <target>Niciun șablon atribuit</target>
+   </segment>
+   <segment id="REPOSITORY_COUNT" state="translated">
+    <source>Repository Count</source>
+    <target>Număr de depozite</target>
+   </segment>
+   <segment id="THIS_FIELD_HAS_MAXIMUM_ALLOWED_LENGTH_0_CHARACTERS" state="translated">
+    <source>This field has a maximum allowed length of {0} characters.</source>
+    <target>Acest câmp are o lungime maximă permisă de {0} caractere.</target>
+   </segment>
+   <segment id="REPOSITORY_NAME" state="translated">
+    <source>Repository Name</source>
+    <target>Numele depozitului</target>
+   </segment>
+   <segment id="REASON_FOR_DOWNLOADING" state="translated">
+    <source>Reason for Downloading</source>
+    <target>Motivul descărcării</target>
+   </segment>
+   <segment id="ERROR_OCCURRED_WHILE_CONNECTING_TO_SERVER" state="translated">
+    <source>An error occurred while connecting to the server.</source>
+    <target>A apărut o eroare la conectarea la server.</target>
+   </segment>
+   <segment id="ADD_REMOVE_FIELDS" state="translated">
+    <source>Add/remove fields</source>
+    <target>Adaugă/elimină câmpuri</target>
+   </segment>
+   <segment id="CLOUD" state="translated">
+    <source>Cloud</source>
+    <target>Cloud</target>
+   </segment>
+   <segment id="TEMPLATE" state="translated">
+    <source>Template</source>
+    <target>Șablon</target>
+   </segment>
+   <segment id="ONE_OR_MORE_FIELDS_INVALID" state="translated">
+    <source>One or more fields are invalid.</source>
+    <target>Unul sau mai multe câmpuri sunt invalide.</target>
+   </segment>
+   <segment id="AN_ERROR_OCCURED" state="translated">
+    <source>An error occurred</source>
+    <target>A apărut o eroare</target>
+   </segment>
+   <segment id="FIELDS" state="translated">
+    <source>Fields</source>
+    <target>Câmpuri</target>
+   </segment>
+   <segment id="NO_MATCHING_ENTRIES_FOUND" state="translated">
+    <source>No matching entries were found</source>
+    <target>Nu au fost găsite intrări corespunzătoare</target>
+   </segment>
+   <segment id="UNKNOWN_ERROR" state="translated">
+    <source>Unknown Error.</source>
+    <target>Eroare necunoscută.</target>
+   </segment>
+   <segment id="REMOVE" state="translated">
+    <source>Remove</source>
+    <target>Elimină</target>
+   </segment>
+   <segment id="AUTOMATICALLY_RENAME" state="translated">
+    <source>Automatically rename</source>
+    <target>Redenumește automat</target>
+   </segment>
+   <segment id="UNABLE_TO_LOAD_ALL_FIELDS" state="translated">
+    <source>Unable to load all fields:</source>
+    <target>Nu s-au putut încărca toate câmpurile:</target>
+   </segment>
+   <segment id="REFRESH" state="translated">
+    <source>Refresh</source>
+    <target>Reîmprospătează</target>
+   </segment>
+   <segment id="FOLDER" state="translated">
+    <source>Folder</source>
+    <target>Dosar</target>
+   </segment>
+   <segment id="PLEASE_SELECT_A_FOLDER" state="translated">
+    <source>Please select a folder</source>
+    <target>Vă rugăm să selectați un dosar</target>
+   </segment>
+   <segment id="ENTRY_ID" state="translated">
+    <source>Entry ID</source>
+    <target>ID intrare</target>
+   </segment>
+   <segment id="TEXT" state="translated">
+    <source>Text</source>
+    <target>Text</target>
+   </segment>
+   <segment id="DATE_PROVIDED_IS_INVALID" state="translated">
+    <source>The date provided is invalid.</source>
+    <target>Data furnizată este invalidă.</target>
+   </segment>
+   <segment id="LONG_FIELDS_MUST_BE_INTEGERS_BETWEEN_0_3999999999" state="translated">
+    <source>Long fields must be integers between 0 and 3,999,999,999</source>
+    <target>Câmpurile lungi trebuie să fie întregi între 0 și 3.999.999.999</target>
+   </segment>
+   <segment id="NAME_CONFLICT" state="translated">
+    <source>Name Conflict</source>
+    <target>Conflict de nume</target>
+   </segment>
+   <segment id="FILE_MODIFIED" state="translated">
+    <source>File Modified</source>
+    <target>Fișier modificat</target>
+   </segment>
+   <segment id="SUGGESTION" state="translated">
+    <source>Suggestion</source>
+    <target>Sugestie</target>
+   </segment>
+   <segment id="ENTRY_0_ALREADY_EXISTS_SELECT_DIFFERENT_NAME" state="translated">
+    <source>An entry named &apos;{0}&apos; already exists in this folder. Please select a different name.</source>
+    <target>O intrare numită &apos;{0}&apos; există deja în acest dosar. Vă rugăm să selectați un nume diferit.</target>
+   </segment>
+   <segment id="ENTRY_NOT_FOUND" state="translated">
+    <source>Entry not found.</source>
+    <target>Intrarea nu a fost găsită.</target>
+   </segment>
+   <segment id="REMOVE_REPOSITORY" state="translated">
+    <source>Remove Repository?</source>
+    <target>Eliminați depozitul?</target>
+   </segment>
+   <segment id="INTEGER" state="translated">
+    <source>Integer</source>
+    <target>Întreg</target>
+   </segment>
+   <segment id="SAVED_WITH_MISSING_METADATA" state="translated">
+    <source>Saved with missing metadata:</source>
+    <target>Salvat cu metadate lipsă:</target>
+   </segment>
+   <segment id="OPEN_IN_LASERFICHE" state="translated">
+    <source>Open in Laserfiche</source>
+    <target>Deschide în Laserfiche</target>
+   </segment>
+   <segment id="TEMPLATE_HAS_FAILED_TO_LOAD" state="translated">
+    <source>The template has failed to load.</source>
+    <target>Șablonul nu a putut fi încărcat.</target>
+   </segment>
+   <segment id="OPTIONAL" state="translated">
+    <source>Optional</source>
+    <target>Opțional</target>
+   </segment>
+   <segment id="NUMBER_FIELD_MUST_BE_VALID_NUMBER" state="translated">
+    <source>Number field must be a valid number</source>
+    <target>Câmpul numeric trebuie să fie un număr valid</target>
+   </segment>
+   <segment id="DETAILS" state="translated">
+    <source>Details</source>
+    <target>Detalii</target>
+   </segment>
+   <segment id="OPEN" state="translated">
+    <source>Open</source>
+    <target>Deschide</target>
+   </segment>
+   <segment id="CANCEL" state="translated">
+    <source>Cancel</source>
+    <target>Anulează</target>
+   </segment>
+   <segment id="DATE" state="translated">
+    <source>Date</source>
+    <target>Dată</target>
+   </segment>
+   <segment id="REQUIRED" state="translated">
+    <source>Required</source>
+    <target>Obligatoriu</target>
+   </segment>
+   <segment id="FAILED_TO_SAVE_PERIOD" state="translated">
+    <source>Failed to save.</source>
+    <target>Salvarea a eșuat.</target>
+   </segment>
+   <segment id="FILE_EXTENSION" state="translated">
+    <source>File Extension</source>
+    <target>Extensie fișier</target>
+   </segment>
+   <segment id="DRAG_DROP_FILE" state="translated">
+    <source>Drag and drop file</source>
+    <target>Trageți și plasați fișierul</target>
+   </segment>
+   <segment id="ADD" state="translated">
+    <source>Add</source>
+    <target>Adaugă</target>
+   </segment>
+   <segment id="DATE_FIELDS_MUST_BE_IN_FORMAT_0" state="translated">
+    <source>Date fields must be in the format {0}.</source>
+    <target>Câmpurile de dată trebuie să fie în formatul {0}.</target>
+   </segment>
+   <segment id="DATE_TIME_FIELDS_MUST_BE_IN_FORMAT_0" state="translated">
+    <source>Date/time fields must be in the format {0}.</source>
+    <target>Câmpurile de dată/oră trebuie să fie în formatul {0}.</target>
+   </segment>
+   <segment id="ERROR_SAVING" state="translated">
+    <source>Error saving:</source>
+    <target>Eroare la salvare:</target>
+   </segment>
+   <segment id="FILE_LOCKED" state="translated">
+    <source>File is locked.</source>
+    <target>Fișierul este blocat.</target>
+   </segment>
+   <segment id="BROWSE" state="translated">
+    <source>Browse</source>
+    <target>Răsfoiește</target>
+   </segment>
+   <segment id="SESSION_COUNT" state="translated">
+    <source>Session Count</source>
+    <target>Număr sesiuni</target>
+   </segment>
+   <segment id="FAILED_TO_OPEN_FOLDER" state="translated">
+    <source>Failed to open folder</source>
+    <target>Deschiderea dosarului a eșuat</target>
+   </segment>
+   <segment id="FEEDBACK" state="translated">
+    <source>Feedback</source>
+    <target>Feedback</target>
+   </segment>
+   <segment id="CLOSE" state="translated">
+    <source>Close</source>
+    <target>Închide</target>
+   </segment>
+   <segment id="SELF_HOSTED" state="translated">
+    <source>Self-Hosted</source>
+    <target>Auto-găzduit</target>
+   </segment>
+   <segment id="NAME" state="translated">
+    <source>Name</source>
+    <target>Nume</target>
+   </segment>
+   <segment id="SIGN_OUT" state="translated">
+    <source>Sign out</source>
+    <target>Deconectare</target>
+   </segment>
+   <segment id="USER_NAME" state="translated">
+    <source>User Name</source>
+    <target>Nume utilizator</target>
+   </segment>
+   <segment id="NO_FOLDER_SELECTED" state="translated">
+    <source>No folder is selected.</source>
+    <target>Niciun dosar nu este selectat.</target>
+   </segment>
+   <segment id="TIME_FIELDS_MUST_BE_IN_FORMAT_0" state="translated">
+    <source>Time fields must be in the format {0}.</source>
+    <target>Câmpurile de timp trebuie să fie în formatul {0}.</target>
+   </segment>
+   <segment id="NO_ADDITIONAL_FIELDS_ASSIGNED" state="translated">
+    <source>No additional fields assigned</source>
+    <target>Nu sunt atribuite câmpuri suplimentare</target>
+   </segment>
+   <segment id="OR" state="translated">
+    <source>or</source>
+    <target>sau</target>
+   </segment>
+   <segment id="YES" state="translated">
+    <source>Yes</source>
+    <target>Da</target>
+   </segment>
+   <segment id="SHORT_FIELDS_MUST_BE_INTEGERS_BETWEEN_0_64999" state="translated">
+    <source>Short fields must be integers between 0 and 64999</source>
+    <target>Câmpurile scurte trebuie să fie întregi între 0 și 64999</target>
+   </segment>
+   <segment id="FILENAMES_CANNOT_CONTAIN_BACKSLASH" state="translated">
+    <source>Filenames cannot contain a backslash</source>
+    <target>Numele fișierelor nu pot conține o bară inversă</target>
+   </segment>
+   <segment id="SELECT" state="translated">
+    <source>Select</source>
+    <target>Selectează</target>
+   </segment>
+   <segment id="0_ALREADY_EXISTS" state="translated">
+    <source>&quot;{0}&quot; already exists.</source>
+    <target>&quot;{0}&quot; există deja.</target>
+   </segment>
+   <segment id="NEW_FOLDER" state="translated">
+    <source>New Folder</source>
+    <target>Dosar nou</target>
+   </segment>
+   <segment id="DATE_TIME" state="translated">
+    <source>Date/Time</source>
+    <target>Dată/Oră</target>
+   </segment>
+   <segment id="SELECT_REASON" state="translated">
+    <source>Select a reason</source>
+    <target>Selectați un motiv</target>
+   </segment>
+   <segment id="DATA" state="translated">
+    <source>Data</source>
+    <target>Date</target>
+   </segment>
+   <segment id="SEARCH_FIELDS" state="translated">
+    <source>Search fields</source>
+    <target>Câmpuri de căutare</target>
+   </segment>
+   <segment id="FILE_EXCEEDS_MAXIMUM_FILE_SIZE_25MB" state="translated">
+    <source>This file exceeds the maximum file size of 25MB.</source>
+    <target>Acest fișier depășește dimensiunea maximă permisă de 25MB.</target>
+   </segment>
+   <segment id="LOADING" state="translated">
+    <source>Loading...</source>
+    <target>Se încarcă...</target>
+   </segment>
+   <segment id="NEED_HELP_SIGNING_IN_CONTACT_LASERFICHE_ADMINISTRATOR_FOR_HELP" state="translated">
+    <source>Need help signing in? Contact your Laserfiche Administrator for help.</source>
+    <target>Aveți nevoie de ajutor pentru autentificare? Contactați administratorul Laserfiche pentru asistență.</target>
+   </segment>
+   <segment id="THIS_FOLDER_IS_EMPTY" state="translated">
+    <source>This folder is empty.</source>
+    <target>Acest dosar este gol.</target>
+   </segment>
+   <segment id="SAVED_TO_LASERFICHE" state="translated">
+    <source>Saved to Laserfiche</source>
+    <target>Salvat în Laserfiche</target>
+   </segment>
+   <segment id="COULD_NOT_SAVE_0_FILE_TYPE_NOT_SUPPORTED" state="translated">
+    <source>Could not save &quot;{0}&quot;. File type not supported.</source>
+    <target>Nu s-a putut salva &quot;{0}&quot;. Tipul fișierului nu este acceptat.</target>
+   </segment>
+   <segment id="DO_YOU_WANT_TO_APPLY_YOUR_FIELD_CHANGES" state="translated">
+    <source>Do you want to apply your field changes?</source>
+    <target>Doriți să aplicați modificările câmpurilor?</target>
+   </segment>
+   <segment id="REPOSITORY" state="translated">
+    <source>Repository</source>
+    <target>Depozit</target>
+   </segment>
+   <segment id="SETTINGS" state="translated">
+    <source>Settings</source>
+    <target>Setări</target>
+   </segment>
+   <segment id="ENTRY_NAME" state="translated">
+    <source>Entry Name</source>
+    <target>Nume intrare</target>
+   </segment>
+   <segment id="OK" state="translated">
+    <source>Ok</source>
+    <target>Ok</target>
+   </segment>
+   <segment id="PARENT_FIELD" state="translated">
+    <source>Parent Field</source>
+    <target>Câmp părinte</target>
+   </segment>
+   <segment id="SIGN_IN_TO_LASERFICHE" state="translated">
+    <source>Sign in to Laserfiche</source>
+    <target>Autentificare în Laserfiche</target>
+   </segment>
+   <segment id="ATTACH" state="translated">
+    <source>Attach</source>
+    <target>Atașează</target>
+   </segment>
+   <segment id="SAVING" state="translated">
+    <source>Saving...</source>
+    <target>Se salvează...</target>
+   </segment>
+   <segment id="DOCUMENT_NAME_IS_EMPTY" state="translated">
+    <source>Document name is empty</source>
+    <target>Numele documentului este gol</target>
+   </segment>
+   <segment id="SAVED_TO_LASERFICHE_COLON" state="translated">
+    <source>Saved to Laserfiche:</source>
+    <target>Salvat în Laserfiche:</target>
+   </segment>
+   <segment id="NOT_AVAILABLE_WITH_TOKENS" state="translated">
+    <source>Not available with tokens</source>
+    <target>Nu este disponibil cu token-uri</target>
+   </segment>
+   <segment id="APPLY_CHANGES" state="translated">
+    <source>Apply changes</source>
+    <target>Aplică modificările</target>
+   </segment>
+   <segment id="COMMENT" state="translated">
+    <source>Comment</source>
+    <target>Comentariu</target>
+   </segment>
+   <segment id="CHARACTER_COUNT" state="translated">
+    <source>Character count:</source>
+    <target>Număr de caractere:</target>
+   </segment>
+   <segment id="0_OF_1" state="translated">
+    <source>{0} of {1}</source>
+    <target>{0} din {1}</target>
+   </segment>
+   <segment id="UNABLE_TO_RETRIEVE_REPOSITORY_INFORMATION" state="translated">
+    <source>Unable to retrieve repository information:</source>
+    <target>Nu se pot prelua informațiile despre depozit:</target>
+   </segment>
+   <segment id="BACK" state="translated">
+    <source>Back</source>
+    <target>Înapoi</target>
+   </segment>
+   <segment id="PARENT_NAME" state="translated">
+    <source>Parent Name</source>
+    <target>Nume părinte</target>
+   </segment>
+   <segment id="NO" state="translated">
+    <source>No</source>
+    <target>Nu</target>
+   </segment>
+   <segment id="SIGNING_OUT" state="translated">
+    <source>Signing out...</source>
+    <target>Deconectare în curs...</target>
+   </segment>
+   <segment id="FAILED_TO_SAVE_COLON" state="translated">
+    <source>Failed to save:</source>
+    <target>Salvarea a eșuat:</target>
+   </segment>
+   <segment id="SIGN_IN" state="translated">
+    <source>Sign in</source>
+    <target>Autentificare</target>
+   </segment>
+   <segment id="ACCOUNT_ID" state="translated">
+    <source>Account ID</source>
+    <target>ID cont</target>
+   </segment>
+   <segment id="PARENT_ID" state="translated">
+    <source>Parent ID</source>
+    <target>ID părinte</target>
+   </segment>
+   <segment id="DEFAULT_FOLDER" state="translated">
+    <source>&lt;Default Folder&gt;</source>
+    <target>�cDefault Folder�e</target>
+   </segment>
+   <segment id="CONFIGURE_REPOSITORY_SETTINGS" state="translated">
+    <source>Configure Repository Settings</source>
+    <target>Configurare setări depozit</target>
+   </segment>
+   <segment id="REPOSITORY_ID" state="translated">
+    <source>Repository ID</source>
+    <target>ID depozit</target>
+   </segment>
+   <segment id="SUBMIT" state="translated">
+    <source>Submit</source>
+    <target>Trimite</target>
+   </segment>
+   <segment id="SIGNING_IN" state="translated">
+    <source>Signing in...</source>
+    <target>Autentificare în curs...</target>
+   </segment>
+   <segment id="ERROR_DOWNLOADING_DOCUMENT" state="translated">
+    <source>Error downloading document.</source>
+    <target>Eroare la descărcarea documentului.</target>
+   </segment>
+   <segment id="REQUIRED_FIELD_IS_EMPTY" state="translated">
+    <source>Required field is empty</source>
+    <target>Câmpul obligatoriu este gol</target>
+   </segment>
+   <segment id="FILE_NAME" state="translated">
+    <source>File Name</source>
+    <target>Nume fișier</target>
+   </segment>
+   <segment id="SAVE_TO_LASERFICHE" state="translated">
+    <source>Save to Laserfiche</source>
+    <target>Salvează în Laserfiche</target>
+   </segment>
+   <segment id="NUMBER" state="translated">
+    <source>Number</source>
+    <target>Număr</target>
+   </segment>
+   <segment id="LIST" state="translated">
+    <source>List</source>
+    <target>Listă</target>
+   </segment>
+   <segment id="ATTACHING" state="translated">
+    <source>Attaching...</source>
+    <target>Atașare în curs...</target>
+   </segment>
+   <segment id="SOMETHING_WENT_WRONG_PLEASE_TRY_AGAIN_LATER" state="translated">
+    <source>Something went wrong. Please try again later.</source>
+    <target>Ceva nu a mers bine. Vă rugăm să încercați din nou mai târziu.</target>
+   </segment>
+   <segment id="THANK_YOU_FOR_SUBMISSION" state="translated">
+    <source>Thank you for your submission!</source>
+    <target>Vă mulțumim pentru trimitere!</target>
+   </segment>
+   <segment id="NO_MATCHING_FIELDS_FOUND" state="translated">
+    <source>No matching fields were found.</source>
+    <target>Nu au fost găsite câmpuri corespunzătoare.</target>
+   </segment>
+   <segment id="COULD_NOT_SAVE_0" state="translated">
+    <source>Could not save &quot;{0}&quot;.</source>
+    <target>Nu s-a putut salva &quot;{0}&quot;.</target>
+   </segment>
+   <segment id="SAVE_CHANGES" state="translated">
+    <source>Save Changes</source>
+    <target>Salvează modificările</target>
+   </segment>
+   <segment id="ATTACH_AS_LINK" state="translated">
+    <source>Attach as Link</source>
+    <target>Atașează ca link</target>
+   </segment>
+  </unit>
+ </file>
+</xliff>

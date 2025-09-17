@@ -1,0 +1,507 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" version="2.1" srcLang="en" trgLang="el">
+ <file id="en-US.el.json">
+  <unit id="u1">
+   <segment id="FILENAMES_CANNOT_CONTAIN_BACKSLASH" state="translated">
+    <source>Filenames cannot contain a backslash</source>
+    <target>Τα ονόματα αρχείων δεν μπορούν να περιέχουν ανάποδη κάθετο</target>
+   </segment>
+   <segment id="ENTRY_0_ALREADY_EXISTS_SELECT_DIFFERENT_NAME" state="translated">
+    <source>An entry named &apos;{0}&apos; already exists in this folder. Please select a different name.</source>
+    <target>Μια καταχώριση με το όνομα &apos;{0}&apos; υπάρχει ήδη σε αυτόν τον φάκελο. Παρακαλώ επιλέξτε διαφορετικό όνομα.</target>
+   </segment>
+   <segment id="REPOSITORY_NAME" state="translated">
+    <source>Repository Name</source>
+    <target>Όνομα Αποθετηρίου</target>
+   </segment>
+   <segment id="NEED_HELP_SIGNING_IN_CONTACT_LASERFICHE_ADMINISTRATOR_FOR_HELP" state="translated">
+    <source>Need help signing in? Contact your Laserfiche Administrator for help.</source>
+    <target>Χρειάζεστε βοήθεια για την είσοδο; Επικοινωνήστε με τον Διαχειριστή Laserfiche για βοήθεια.</target>
+   </segment>
+   <segment id="UNABLE_TO_RETRIEVE_REPOSITORY_INFORMATION" state="translated">
+    <source>Unable to retrieve repository information:</source>
+    <target>Αδυναμία ανάκτησης πληροφοριών αποθετηρίου:</target>
+   </segment>
+   <segment id="THIS_FOLDER_IS_EMPTY" state="translated">
+    <source>This folder is empty.</source>
+    <target>Αυτός ο φάκελος είναι κενός.</target>
+   </segment>
+   <segment id="SAVING" state="translated">
+    <source>Saving...</source>
+    <target>Αποθήκευση...</target>
+   </segment>
+   <segment id="PARENT_NAME" state="translated">
+    <source>Parent Name</source>
+    <target>Όνομα Γονέα</target>
+   </segment>
+   <segment id="CONFIGURE_REPOSITORY_SETTINGS" state="translated">
+    <source>Configure Repository Settings</source>
+    <target>Διαμόρφωση Ρυθμίσεων Αποθετηρίου</target>
+   </segment>
+   <segment id="FEEDBACK" state="translated">
+    <source>Feedback</source>
+    <target>Ανατροφοδότηση</target>
+   </segment>
+   <segment id="CANCEL" state="translated">
+    <source>Cancel</source>
+    <target>Ακύρωση</target>
+   </segment>
+   <segment id="TEMPLATE" state="translated">
+    <source>Template</source>
+    <target>Πρότυπο</target>
+   </segment>
+   <segment id="CHARACTER_COUNT" state="translated">
+    <source>Character count:</source>
+    <target>Αριθμός χαρακτήρων:</target>
+   </segment>
+   <segment id="SELECT" state="translated">
+    <source>Select</source>
+    <target>Επιλογή</target>
+   </segment>
+   <segment id="THANK_YOU_FOR_SUBMISSION" state="translated">
+    <source>Thank you for your submission!</source>
+    <target>Ευχαριστούμε για την υποβολή σας!</target>
+   </segment>
+   <segment id="UNABLE_TO_LOAD_ALL_FIELDS" state="translated">
+    <source>Unable to load all fields:</source>
+    <target>Αδυναμία φόρτωσης όλων των πεδίων:</target>
+   </segment>
+   <segment id="FILE_LOCKED" state="translated">
+    <source>File is locked.</source>
+    <target>Το αρχείο είναι κλειδωμένο.</target>
+   </segment>
+   <segment id="NEW_FOLDER" state="translated">
+    <source>New Folder</source>
+    <target>Νέος Φάκελος</target>
+   </segment>
+   <segment id="PLEASE_SELECT_A_FOLDER" state="translated">
+    <source>Please select a folder</source>
+    <target>Παρακαλώ επιλέξτε έναν φάκελο</target>
+   </segment>
+   <segment id="DATA" state="translated">
+    <source>Data</source>
+    <target>Δεδομένα</target>
+   </segment>
+   <segment id="FILE_MODIFIED" state="translated">
+    <source>File Modified</source>
+    <target>Το αρχείο τροποποιήθηκε</target>
+   </segment>
+   <segment id="DETAILS" state="translated">
+    <source>Details</source>
+    <target>Λεπτομέρειες</target>
+   </segment>
+   <segment id="REPOSITORY" state="translated">
+    <source>Repository</source>
+    <target>Αποθετήριο</target>
+   </segment>
+   <segment id="ADD" state="translated">
+    <source>Add</source>
+    <target>Προσθήκη</target>
+   </segment>
+   <segment id="FAILED_TO_OPEN_FOLDER" state="translated">
+    <source>Failed to open folder</source>
+    <target>Αποτυχία ανοίγματος φακέλου</target>
+   </segment>
+   <segment id="CLOSE" state="translated">
+    <source>Close</source>
+    <target>Κλείσιμο</target>
+   </segment>
+   <segment id="SAVED_TO_LASERFICHE_COLON" state="translated">
+    <source>Saved to Laserfiche:</source>
+    <target>Αποθηκεύτηκε στο Laserfiche:</target>
+   </segment>
+   <segment id="YES" state="translated">
+    <source>Yes</source>
+    <target>Ναι</target>
+   </segment>
+   <segment id="REPOSITORY_COUNT" state="translated">
+    <source>Repository Count</source>
+    <target>Πλήθος Αποθετηρίου</target>
+   </segment>
+   <segment id="SUBMIT" state="translated">
+    <source>Submit</source>
+    <target>Υποβολή</target>
+   </segment>
+   <segment id="SELECT_REASON" state="translated">
+    <source>Select a reason</source>
+    <target>Επιλέξτε έναν λόγο</target>
+   </segment>
+   <segment id="AUTOMATICALLY_RENAME" state="translated">
+    <source>Automatically rename</source>
+    <target>Αυτόματη μετονομασία</target>
+   </segment>
+   <segment id="SETTINGS" state="translated">
+    <source>Settings</source>
+    <target>Ρυθμίσεις</target>
+   </segment>
+   <segment id="ADD_REMOVE_FIELDS" state="translated">
+    <source>Add/remove fields</source>
+    <target>Προσθήκη/αφαίρεση πεδίων</target>
+   </segment>
+   <segment id="APPLY" state="translated">
+    <source>Apply</source>
+    <target>Εφαρμογή</target>
+   </segment>
+   <segment id="NAME" state="translated">
+    <source>Name</source>
+    <target>Όνομα</target>
+   </segment>
+   <segment id="TEMPLATE_HAS_FAILED_TO_LOAD" state="translated">
+    <source>The template has failed to load.</source>
+    <target>Το πρότυπο απέτυχε να φορτωθεί.</target>
+   </segment>
+   <segment id="SEARCH_FIELDS" state="translated">
+    <source>Search fields</source>
+    <target>Πεδία αναζήτησης</target>
+   </segment>
+   <segment id="DOCUMENT_NAME_IS_EMPTY" state="translated">
+    <source>Document name is empty</source>
+    <target>Το όνομα εγγράφου είναι κενό</target>
+   </segment>
+   <segment id="COULD_NOT_SAVE_0" state="translated">
+    <source>Could not save &quot;{0}&quot;.</source>
+    <target>Αδυναμία αποθήκευσης &quot;{0}&quot;.</target>
+   </segment>
+   <segment id="TEXT" state="translated">
+    <source>Text</source>
+    <target>Κείμενο</target>
+   </segment>
+   <segment id="SUGGESTION" state="translated">
+    <source>Suggestion</source>
+    <target>Πρόταση</target>
+   </segment>
+   <segment id="ERROR_DOWNLOADING_DOCUMENT" state="translated">
+    <source>Error downloading document.</source>
+    <target>Σφάλμα κατά τη λήψη εγγράφου.</target>
+   </segment>
+   <segment id="FAILED_TO_SAVE_PERIOD" state="translated">
+    <source>Failed to save.</source>
+    <target>Αποτυχία αποθήκευσης.</target>
+   </segment>
+   <segment id="DRAG_DROP_FILE" state="translated">
+    <source>Drag and drop file</source>
+    <target>Σύρετε και αποθέστε το αρχείο</target>
+   </segment>
+   <segment id="LONG_INTEGER" state="translated">
+    <source>Long Integer</source>
+    <target>Μακρύς Ακέραιος</target>
+   </segment>
+   <segment id="REQUIRED_FIELD_IS_EMPTY" state="translated">
+    <source>Required field is empty</source>
+    <target>Απαιτούμενο πεδίο είναι κενό</target>
+   </segment>
+   <segment id="THIS_FIELD_HAS_MAXIMUM_ALLOWED_LENGTH_0_CHARACTERS" state="translated">
+    <source>This field has a maximum allowed length of {0} characters.</source>
+    <target>Αυτό το πεδίο έχει μέγιστο επιτρεπτό μήκος {0} χαρακτήρες.</target>
+   </segment>
+   <segment id="DATE_PROVIDED_IS_INVALID" state="translated">
+    <source>The date provided is invalid.</source>
+    <target>Η παρεχόμενη ημερομηνία είναι άκυρη.</target>
+   </segment>
+   <segment id="AN_ERROR_OCCURED" state="translated">
+    <source>An error occurred</source>
+    <target>Παρουσιάστηκε σφάλμα</target>
+   </segment>
+   <segment id="SIGN_IN" state="translated">
+    <source>Sign in</source>
+    <target>Σύνδεση</target>
+   </segment>
+   <segment id="DATE_FIELDS_MUST_BE_IN_FORMAT_0" state="translated">
+    <source>Date fields must be in the format {0}.</source>
+    <target>Τα πεδία ημερομηνίας πρέπει να είναι στη μορφή {0}.</target>
+   </segment>
+   <segment id="OPEN_IN_LASERFICHE" state="translated">
+    <source>Open in Laserfiche</source>
+    <target>Άνοιγμα στο Laserfiche</target>
+   </segment>
+   <segment id="NAME_CONFLICT" state="translated">
+    <source>Name Conflict</source>
+    <target>Σύγκρουση Ονόματος</target>
+   </segment>
+   <segment id="0_ALREADY_EXISTS" state="translated">
+    <source>&quot;{0}&quot; already exists.</source>
+    <target>&quot;{0}&quot; υπάρχει ήδη.</target>
+   </segment>
+   <segment id="NO" state="translated">
+    <source>No</source>
+    <target>Όχι</target>
+   </segment>
+   <segment id="NO_ADDITIONAL_FIELDS_ASSIGNED" state="translated">
+    <source>No additional fields assigned</source>
+    <target>Δεν έχουν ανατεθεί επιπλέον πεδία</target>
+   </segment>
+   <segment id="NUMBER" state="translated">
+    <source>Number</source>
+    <target>Αριθμός</target>
+   </segment>
+   <segment id="SIGNING_OUT" state="translated">
+    <source>Signing out...</source>
+    <target>Αποσύνδεση...</target>
+   </segment>
+   <segment id="LIST" state="translated">
+    <source>List</source>
+    <target>Λίστα</target>
+   </segment>
+   <segment id="LONG_FIELDS_MUST_BE_INTEGERS_BETWEEN_0_3999999999" state="translated">
+    <source>Long fields must be integers between 0 and 3,999,999,999</source>
+    <target>Τα μακρά πεδία πρέπει να είναι ακέραιοι μεταξύ 0 και 3.999.999.999</target>
+   </segment>
+   <segment id="REMOVE_REPOSITORY" state="translated">
+    <source>Remove Repository?</source>
+    <target>Αφαίρεση Αποθετηρίου;</target>
+   </segment>
+   <segment id="SKIP_THIS_FILE" state="translated">
+    <source>Skip this file</source>
+    <target>Παράλειψη αυτού του αρχείου</target>
+   </segment>
+   <segment id="DATE" state="translated">
+    <source>Date</source>
+    <target>Ημερομηνία</target>
+   </segment>
+   <segment id="ATTACH_AS_LINK" state="translated">
+    <source>Attach as Link</source>
+    <target>Επισύναψη ως σύνδεσμος</target>
+   </segment>
+   <segment id="ACCOUNT_ID" state="translated">
+    <source>Account ID</source>
+    <target>Αναγνωριστικό Λογαριασμού</target>
+   </segment>
+   <segment id="OK" state="translated">
+    <source>Ok</source>
+    <target>Εντάξει</target>
+   </segment>
+   <segment id="REFRESH" state="translated">
+    <source>Refresh</source>
+    <target>Ανανέωση</target>
+   </segment>
+   <segment id="SAVE_TO_LASERFICHE" state="translated">
+    <source>Save to Laserfiche</source>
+    <target>Αποθήκευση στο Laserfiche</target>
+   </segment>
+   <segment id="DO_YOU_WANT_TO_APPLY_YOUR_FIELD_CHANGES" state="translated">
+    <source>Do you want to apply your field changes?</source>
+    <target>Θέλετε να εφαρμόσετε τις αλλαγές στα πεδία σας;</target>
+   </segment>
+   <segment id="TIME" state="translated">
+    <source>Time</source>
+    <target>Ώρα</target>
+   </segment>
+   <segment id="SAVE_CHANGES" state="translated">
+    <source>Save Changes</source>
+    <target>Αποθήκευση Αλλαγών</target>
+   </segment>
+   <segment id="ENTRY_ID" state="translated">
+    <source>Entry ID</source>
+    <target>Αναγνωριστικό Καταχώρισης</target>
+   </segment>
+   <segment id="CLOUD" state="translated">
+    <source>Cloud</source>
+    <target>Cloud</target>
+   </segment>
+   <segment id="DATE_TIME" state="translated">
+    <source>Date/Time</source>
+    <target>Ημερομηνία/Ώρα</target>
+   </segment>
+   <segment id="BROWSE" state="translated">
+    <source>Browse</source>
+    <target>Περιήγηση</target>
+   </segment>
+   <segment id="ONE_OR_MORE_FIELDS_INVALID" state="translated">
+    <source>One or more fields are invalid.</source>
+    <target>Ένα ή περισσότερα πεδία είναι άκυρα.</target>
+   </segment>
+   <segment id="LOADING" state="translated">
+    <source>Loading...</source>
+    <target>Φόρτωση...</target>
+   </segment>
+   <segment id="REQUIRED" state="translated">
+    <source>Required</source>
+    <target>Απαιτείται</target>
+   </segment>
+   <segment id="COMMENT" state="translated">
+    <source>Comment</source>
+    <target>Σχόλιο</target>
+   </segment>
+   <segment id="INTEGER" state="translated">
+    <source>Integer</source>
+    <target>Ακέραιος</target>
+   </segment>
+   <segment id="FIELDS" state="translated">
+    <source>Fields</source>
+    <target>Πεδία</target>
+   </segment>
+   <segment id="SIGNING_IN" state="translated">
+    <source>Signing in...</source>
+    <target>Σύνδεση...</target>
+   </segment>
+   <segment id="NO_TEMPLATE_ASSIGNED" state="translated">
+    <source>No template assigned</source>
+    <target>Δεν έχει ανατεθεί πρότυπο</target>
+   </segment>
+   <segment id="TIME_FIELDS_MUST_BE_IN_FORMAT_0" state="translated">
+    <source>Time fields must be in the format {0}.</source>
+    <target>Τα πεδία ώρας πρέπει να είναι στη μορφή {0}.</target>
+   </segment>
+   <segment id="FAILED_TO_SAVE_COLON" state="translated">
+    <source>Failed to save:</source>
+    <target>Αποτυχία αποθήκευσης:</target>
+   </segment>
+   <segment id="REASON_FOR_DOWNLOADING" state="translated">
+    <source>Reason for Downloading</source>
+    <target>Λόγος Λήψης</target>
+   </segment>
+   <segment id="REMOVE" state="translated">
+    <source>Remove</source>
+    <target>Αφαίρεση</target>
+   </segment>
+   <segment id="SAVED_TO_LASERFICHE" state="translated">
+    <source>Saved to Laserfiche</source>
+    <target>Αποθηκεύτηκε στο Laserfiche</target>
+   </segment>
+   <segment id="ERROR_OCCURRED_WHILE_CONNECTING_TO_SERVER" state="translated">
+    <source>An error occurred while connecting to the server.</source>
+    <target>Παρουσιάστηκε σφάλμα κατά τη σύνδεση με τον διακομιστή.</target>
+   </segment>
+   <segment id="SAVED_WITH_MISSING_METADATA" state="translated">
+    <source>Saved with missing metadata:</source>
+    <target>Αποθηκεύτηκε με ελλιπή μεταδεδομένα:</target>
+   </segment>
+   <segment id="ATTACHING" state="translated">
+    <source>Attaching...</source>
+    <target>Επισύναψη...</target>
+   </segment>
+   <segment id="DEFAULT_FOLDER" state="translated">
+    <source>&lt;Default Folder&gt;</source>
+    <target>�cDefault Folder�e</target>
+   </segment>
+   <segment id="SELF_HOSTED" state="translated">
+    <source>Self-Hosted</source>
+    <target>Αυτο-φιλοξενούμενο</target>
+   </segment>
+   <segment id="SOMETHING_WENT_WRONG_PLEASE_TRY_AGAIN_LATER" state="translated">
+    <source>Something went wrong. Please try again later.</source>
+    <target>Κάτι πήγε στραβά. Παρακαλώ δοκιμάστε ξανά αργότερα.</target>
+   </segment>
+   <segment id="FILE_EXCEEDS_MAXIMUM_FILE_SIZE_25MB" state="translated">
+    <source>This file exceeds the maximum file size of 25MB.</source>
+    <target>Αυτό το αρχείο υπερβαίνει το μέγιστο μέγεθος αρχείου των 25MB.</target>
+   </segment>
+   <segment id="FILE_NAME" state="translated">
+    <source>File Name</source>
+    <target>Όνομα Αρχείου</target>
+   </segment>
+   <segment id="0_OF_1" state="translated">
+    <source>{0} of {1}</source>
+    <target>{0} από {1}</target>
+   </segment>
+   <segment id="ERROR_SAVING" state="translated">
+    <source>Error saving:</source>
+    <target>Σφάλμα κατά την αποθήκευση:</target>
+   </segment>
+   <segment id="NOT_AVAILABLE_WITH_TOKENS" state="translated">
+    <source>Not available with tokens</source>
+    <target>Δεν είναι διαθέσιμο με tokens</target>
+   </segment>
+   <segment id="BACK" state="translated">
+    <source>Back</source>
+    <target>Πίσω</target>
+   </segment>
+   <segment id="SESSION_COUNT" state="translated">
+    <source>Session Count</source>
+    <target>Αριθμός Συνεδριών</target>
+   </segment>
+   <segment id="OR" state="translated">
+    <source>or</source>
+    <target>ή</target>
+   </segment>
+   <segment id="UNKNOWN_ERROR" state="translated">
+    <source>Unknown Error.</source>
+    <target>Άγνωστο Σφάλμα.</target>
+   </segment>
+   <segment id="NO_MATCHING_FIELDS_FOUND" state="translated">
+    <source>No matching fields were found.</source>
+    <target>Δεν βρέθηκαν αντίστοιχα πεδία.</target>
+   </segment>
+   <segment id="ENTRY_NOT_FOUND" state="translated">
+    <source>Entry not found.</source>
+    <target>Η εγγραφή δεν βρέθηκε.</target>
+   </segment>
+   <segment id="REPOSITORY_ID" state="translated">
+    <source>Repository ID</source>
+    <target>Αναγνωριστικό Αποθετηρίου</target>
+   </segment>
+   <segment id="NUMBER_FIELD_MUST_BE_VALID_NUMBER" state="translated">
+    <source>Number field must be a valid number</source>
+    <target>Το πεδίο αριθμού πρέπει να είναι έγκυρος αριθμός</target>
+   </segment>
+   <segment id="SIGN_IN_TO_LASERFICHE" state="translated">
+    <source>Sign in to Laserfiche</source>
+    <target>Σύνδεση στο Laserfiche</target>
+   </segment>
+   <segment id="APPLY_CHANGES" state="translated">
+    <source>Apply changes</source>
+    <target>Εφαρμογή αλλαγών</target>
+   </segment>
+   <segment id="ATTACH" state="translated">
+    <source>Attach</source>
+    <target>Επισύναψη</target>
+   </segment>
+   <segment id="OPEN" state="translated">
+    <source>Open</source>
+    <target>Άνοιγμα</target>
+   </segment>
+   <segment id="PARENT_ID" state="translated">
+    <source>Parent ID</source>
+    <target>Αναγνωριστικό Γονέα</target>
+   </segment>
+   <segment id="NO_FOLDER_SELECTED" state="translated">
+    <source>No folder is selected.</source>
+    <target>Δεν έχει επιλεγεί φάκελος.</target>
+   </segment>
+   <segment id="NO_MATCHING_ENTRIES_FOUND" state="translated">
+    <source>No matching entries were found</source>
+    <target>Δεν βρέθηκαν αντίστοιχες εγγραφές</target>
+   </segment>
+   <segment id="SHORT_FIELDS_MUST_BE_INTEGERS_BETWEEN_0_64999" state="translated">
+    <source>Short fields must be integers between 0 and 64999</source>
+    <target>Τα πεδία τύπου short πρέπει να είναι ακέραιοι μεταξύ 0 και 64999</target>
+   </segment>
+   <segment id="PARENT_FIELD" state="translated">
+    <source>Parent Field</source>
+    <target>Γονικό Πεδίο</target>
+   </segment>
+   <segment id="ENTRY_NAME" state="translated">
+    <source>Entry Name</source>
+    <target>Όνομα Εγγραφής</target>
+   </segment>
+   <segment id="OPTIONAL" state="translated">
+    <source>Optional</source>
+    <target>Προαιρετικό</target>
+   </segment>
+   <segment id="USER_NAME" state="translated">
+    <source>User Name</source>
+    <target>Όνομα Χρήστη</target>
+   </segment>
+   <segment id="FOLDER" state="translated">
+    <source>Folder</source>
+    <target>Φάκελος</target>
+   </segment>
+   <segment id="COULD_NOT_SAVE_0_FILE_TYPE_NOT_SUPPORTED" state="translated">
+    <source>Could not save &quot;{0}&quot;. File type not supported.</source>
+    <target>Αδυναμία αποθήκευσης του &quot;{0}&quot;. Ο τύπος αρχείου δεν υποστηρίζεται.</target>
+   </segment>
+   <segment id="DATE_TIME_FIELDS_MUST_BE_IN_FORMAT_0" state="translated">
+    <source>Date/time fields must be in the format {0}.</source>
+    <target>Τα πεδία ημερομηνίας/ώρας πρέπει να είναι στη μορφή {0}.</target>
+   </segment>
+   <segment id="FILE_EXTENSION" state="translated">
+    <source>File Extension</source>
+    <target>Επέκταση Αρχείου</target>
+   </segment>
+   <segment id="SIGN_OUT" state="translated">
+    <source>Sign out</source>
+    <target>Αποσύνδεση</target>
+   </segment>
+  </unit>
+ </file>
+</xliff>
