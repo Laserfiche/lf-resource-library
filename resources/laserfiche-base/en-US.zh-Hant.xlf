@@ -1,0 +1,507 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" version="2.1" srcLang="zh-Hans" trgLang="zh-Hant">
+ <file id="en-US.zh-Hant.json">
+  <unit id="u1">
+   <segment id="SKIP_THIS_FILE" state="translated">
+    <source>跳过此文件</source>
+    <target>跳過此檔</target>
+   </segment>
+   <segment id="SETTINGS" state="translated">
+    <source>设置</source>
+    <target>設置</target>
+   </segment>
+   <segment id="OR" state="translated">
+    <source>或</source>
+    <target>或</target>
+   </segment>
+   <segment id="NUMBER_FIELD_MUST_BE_VALID_NUMBER" state="translated">
+    <source>数字字段必须是有效数字</source>
+    <target>數位欄位必須是有效數位</target>
+   </segment>
+   <segment id="REFRESH" state="translated">
+    <source>刷新</source>
+    <target>刷新</target>
+   </segment>
+   <segment id="PARENT_ID" state="translated">
+    <source>父 ID</source>
+    <target>父ID</target>
+   </segment>
+   <segment id="NAME" state="translated">
+    <source>名称</source>
+    <target>名稱</target>
+   </segment>
+   <segment id="TEMPLATE_HAS_FAILED_TO_LOAD" state="translated">
+    <source>模板加载失败。</source>
+    <target>範本載入失敗。</target>
+   </segment>
+   <segment id="TEXT" state="translated">
+    <source>文本</source>
+    <target>文本</target>
+   </segment>
+   <segment id="SIGN_OUT" state="translated">
+    <source>注销</source>
+    <target>註銷</target>
+   </segment>
+   <segment id="REPOSITORY_ID" state="translated">
+    <source>存储库 ID</source>
+    <target>存儲庫ID</target>
+   </segment>
+   <segment id="OPEN" state="translated">
+    <source>打开</source>
+    <target>打開</target>
+   </segment>
+   <segment id="NO_MATCHING_ENTRIES_FOUND" state="translated">
+    <source>未找到匹配的条目</source>
+    <target>未找到匹配的條目</target>
+   </segment>
+   <segment id="SAVED_WITH_MISSING_METADATA" state="translated">
+    <source>保存时缺少元数据：</source>
+    <target>儲存時缺少元資料：</target>
+   </segment>
+   <segment id="YES" state="translated">
+    <source>是</source>
+    <target>是</target>
+   </segment>
+   <segment id="NO_ADDITIONAL_FIELDS_ASSIGNED" state="translated">
+    <source>未分配其他字段</source>
+    <target>未分配其他欄位</target>
+   </segment>
+   <segment id="APPLY_CHANGES" state="translated">
+    <source>应用更改</source>
+    <target>應用更改</target>
+   </segment>
+   <segment id="DATE_TIME_FIELDS_MUST_BE_IN_FORMAT_0" state="translated">
+    <source>日期/时间字段必须采用格式 {0}。</source>
+    <target>日期/時間欄位必須採用格式 {0}。</target>
+   </segment>
+   <segment id="THIS_FIELD_HAS_MAXIMUM_ALLOWED_LENGTH_0_CHARACTERS" state="translated">
+    <source>此字段的最大允许长度为 {0} 个字符。</source>
+    <target>此欄位的最大允許長度為 {0} 個字元。</target>
+   </segment>
+   <segment id="FILE_EXTENSION" state="translated">
+    <source>文件扩展名</source>
+    <target>檔擴展名</target>
+   </segment>
+   <segment id="COULD_NOT_SAVE_0" state="translated">
+    <source>无法保存“{0}”。</source>
+    <target>無法保存「{0}」。</target>
+   </segment>
+   <segment id="0_ALREADY_EXISTS" state="translated">
+    <source>&quot;{0}&quot; 已存在。</source>
+    <target>“{0}” 已存在。</target>
+   </segment>
+   <segment id="ATTACH" state="translated">
+    <source>附加</source>
+    <target>附加</target>
+   </segment>
+   <segment id="ACCOUNT_ID" state="translated">
+    <source>账户 ID</source>
+    <target>帳戶ID</target>
+   </segment>
+   <segment id="CLOUD" state="translated">
+    <source>Cloud</source>
+    <target>Cloud</target>
+   </segment>
+   <segment id="REMOVE" state="translated">
+    <source>移除</source>
+    <target>拿掉</target>
+   </segment>
+   <segment id="SAVED_TO_LASERFICHE_COLON" state="translated">
+    <source>已保存到 Laserfiche：</source>
+    <target>已保存到 Laserfiche：</target>
+   </segment>
+   <segment id="SAVE_CHANGES" state="translated">
+    <source>保存更改</source>
+    <target>保存更改</target>
+   </segment>
+   <segment id="DEFAULT_FOLDER" state="translated">
+    <source>&lt;Default Folder&gt;</source>
+    <target>&lt;預設資料夾&gt;</target>
+   </segment>
+   <segment id="DATE_TIME" state="translated">
+    <source>日期/时间</source>
+    <target>日期/時間</target>
+   </segment>
+   <segment id="OPTIONAL" state="translated">
+    <source>可选</source>
+    <target>可選</target>
+   </segment>
+   <segment id="DRAG_DROP_FILE" state="translated">
+    <source>拖放文件</source>
+    <target>拖放檔</target>
+   </segment>
+   <segment id="FAILED_TO_SAVE_COLON" state="translated">
+    <source>保存失败：</source>
+    <target>儲存失敗：</target>
+   </segment>
+   <segment id="OPEN_IN_LASERFICHE" state="translated">
+    <source>在 Laserfiche 中打开</source>
+    <target>在 Laserfiche 中打開</target>
+   </segment>
+   <segment id="NO" state="translated">
+    <source>否</source>
+    <target>否</target>
+   </segment>
+   <segment id="ERROR_SAVING" state="translated">
+    <source>保存错误：</source>
+    <target>儲存錯誤：</target>
+   </segment>
+   <segment id="CHARACTER_COUNT" state="translated">
+    <source>字符数：</source>
+    <target>字元數：</target>
+   </segment>
+   <segment id="TIME" state="translated">
+    <source>时间</source>
+    <target>時間</target>
+   </segment>
+   <segment id="LOADING" state="translated">
+    <source>加载中...</source>
+    <target>載入中...</target>
+   </segment>
+   <segment id="REMOVE_REPOSITORY" state="translated">
+    <source>移除存储库？</source>
+    <target>拿掉存儲庫？</target>
+   </segment>
+   <segment id="ADD_REMOVE_FIELDS" state="translated">
+    <source>添加/移除字段</source>
+    <target>添加/移除欄位</target>
+   </segment>
+   <segment id="FILE_EXCEEDS_MAXIMUM_FILE_SIZE_25MB" state="translated">
+    <source>此文件超过最大文件大小 25MB。</source>
+    <target>此文件超過最大檔大小 25MB。</target>
+   </segment>
+   <segment id="LONG_INTEGER" state="translated">
+    <source>长整数</source>
+    <target>長整數</target>
+   </segment>
+   <segment id="OK" state="translated">
+    <source>确定</source>
+    <target>確定</target>
+   </segment>
+   <segment id="PLEASE_SELECT_A_FOLDER" state="translated">
+    <source>请选择一个文件夹</source>
+    <target>請選擇一個資料夾</target>
+   </segment>
+   <segment id="CANCEL" state="translated">
+    <source>取消</source>
+    <target>取消</target>
+   </segment>
+   <segment id="APPLY" state="translated">
+    <source>应用</source>
+    <target>應用</target>
+   </segment>
+   <segment id="NAME_CONFLICT" state="translated">
+    <source>名称冲突</source>
+    <target>名稱衝突</target>
+   </segment>
+   <segment id="NUMBER" state="translated">
+    <source>编号</source>
+    <target>編號</target>
+   </segment>
+   <segment id="THIS_FOLDER_IS_EMPTY" state="translated">
+    <source>此文件夹为空。</source>
+    <target>此資料夾為空。</target>
+   </segment>
+   <segment id="ENTRY_0_ALREADY_EXISTS_SELECT_DIFFERENT_NAME" state="translated">
+    <source>此文件夹中已存在名为“{0}”的条目。请选择其他名称。</source>
+    <target>此資料夾中已存在名為「{0}」的條目。 請選擇其他名稱。</target>
+   </segment>
+   <segment id="UNKNOWN_ERROR" state="translated">
+    <source>未知错误。</source>
+    <target>未知錯誤。</target>
+   </segment>
+   <segment id="NO_TEMPLATE_ASSIGNED" state="translated">
+    <source>未分配模板</source>
+    <target>未分配範本</target>
+   </segment>
+   <segment id="NEW_FOLDER" state="translated">
+    <source>新建文件夹</source>
+    <target>新建資料夾</target>
+   </segment>
+   <segment id="UNABLE_TO_RETRIEVE_REPOSITORY_INFORMATION" state="translated">
+    <source>无法检索存储库信息：</source>
+    <target>無法檢索儲存庫資訊：</target>
+   </segment>
+   <segment id="AUTOMATICALLY_RENAME" state="translated">
+    <source>自动重命名</source>
+    <target>自動重新命名</target>
+   </segment>
+   <segment id="NOT_AVAILABLE_WITH_TOKENS" state="translated">
+    <source>令牌不可用</source>
+    <target>令牌不可用</target>
+   </segment>
+   <segment id="SAVED_TO_LASERFICHE" state="translated">
+    <source>已保存到 Laserfiche</source>
+    <target>已保存到 Laserfiche</target>
+   </segment>
+   <segment id="DETAILS" state="translated">
+    <source>详细信息</source>
+    <target>詳細資訊</target>
+   </segment>
+   <segment id="REPOSITORY_NAME" state="translated">
+    <source>存储库名称</source>
+    <target>存儲庫名稱</target>
+   </segment>
+   <segment id="COMMENT" state="translated">
+    <source>评论</source>
+    <target>評論</target>
+   </segment>
+   <segment id="DO_YOU_WANT_TO_APPLY_YOUR_FIELD_CHANGES" state="translated">
+    <source>您要应用字段更改吗？</source>
+    <target>您要應用欄位變更嗎？</target>
+   </segment>
+   <segment id="NEED_HELP_SIGNING_IN_CONTACT_LASERFICHE_ADMINISTRATOR_FOR_HELP" state="translated">
+    <source>需要登录帮助？请联系您的 Laserfiche 管理员。</source>
+    <target>需要登錄説明？ 請聯繫您的 Laserfiche 管理員。</target>
+   </segment>
+   <segment id="NO_FOLDER_SELECTED" state="translated">
+    <source>未选择文件夹。</source>
+    <target>未選擇資料夾。</target>
+   </segment>
+   <segment id="UNABLE_TO_LOAD_ALL_FIELDS" state="translated">
+    <source>无法加载所有字段：</source>
+    <target>無法載入所有欄位：</target>
+   </segment>
+   <segment id="USER_NAME" state="translated">
+    <source>用户名</source>
+    <target>使用者名</target>
+   </segment>
+   <segment id="PARENT_FIELD" state="translated">
+    <source>父字段</source>
+    <target>父欄位</target>
+   </segment>
+   <segment id="DATA" state="translated">
+    <source>数据</source>
+    <target>數據</target>
+   </segment>
+   <segment id="BROWSE" state="translated">
+    <source>浏览</source>
+    <target>流覽</target>
+   </segment>
+   <segment id="SUBMIT" state="translated">
+    <source>提交</source>
+    <target>提交</target>
+   </segment>
+   <segment id="LONG_FIELDS_MUST_BE_INTEGERS_BETWEEN_0_3999999999" state="translated">
+    <source>长字段必须是介于 0 到 3,999,999,999 之间的整数</source>
+    <target>長字段必須是介於 0 到 3,999,999,999 之間的整數</target>
+   </segment>
+   <segment id="SEARCH_FIELDS" state="translated">
+    <source>搜索字段</source>
+    <target>搜索欄位</target>
+   </segment>
+   <segment id="REQUIRED_FIELD_IS_EMPTY" state="translated">
+    <source>必填字段为空</source>
+    <target>必填欄位為空</target>
+   </segment>
+   <segment id="SESSION_COUNT" state="translated">
+    <source>会话计数</source>
+    <target>會話計數</target>
+   </segment>
+   <segment id="FAILED_TO_OPEN_FOLDER" state="translated">
+    <source>打开文件夹失败</source>
+    <target>打開資料夾失敗</target>
+   </segment>
+   <segment id="FOLDER" state="translated">
+    <source>文件夹</source>
+    <target>資料夾</target>
+   </segment>
+   <segment id="TIME_FIELDS_MUST_BE_IN_FORMAT_0" state="translated">
+    <source>时间字段必须采用格式 {0}。</source>
+    <target>時間欄位必須採用格式 {0}。</target>
+   </segment>
+   <segment id="ENTRY_NOT_FOUND" state="translated">
+    <source>未找到条目。</source>
+    <target>未找到條目。</target>
+   </segment>
+   <segment id="ENTRY_ID" state="translated">
+    <source>条目 ID</source>
+    <target>條目ID</target>
+   </segment>
+   <segment id="ATTACH_AS_LINK" state="translated">
+    <source>作为链接附加</source>
+    <target>作為連結附加</target>
+   </segment>
+   <segment id="FILENAMES_CANNOT_CONTAIN_BACKSLASH" state="translated">
+    <source>文件名不能包含反斜杠</source>
+    <target>檔名不能包含反斜杠</target>
+   </segment>
+   <segment id="SHORT_FIELDS_MUST_BE_INTEGERS_BETWEEN_0_64999" state="translated">
+    <source>短字段必须是介于 0 到 64999 之间的整数</source>
+    <target>短字段必須是介於 0 到 64999 之間的整數</target>
+   </segment>
+   <segment id="THANK_YOU_FOR_SUBMISSION" state="translated">
+    <source>感谢您的提交！</source>
+    <target>感謝您的提交！</target>
+   </segment>
+   <segment id="SUGGESTION" state="translated">
+    <source>建议</source>
+    <target>建議</target>
+   </segment>
+   <segment id="CLOSE" state="translated">
+    <source>关闭</source>
+    <target>關閉</target>
+   </segment>
+   <segment id="ADD" state="translated">
+    <source>添加</source>
+    <target>添加</target>
+   </segment>
+   <segment id="0_OF_1" state="translated">
+    <source>{0} / {1}</source>
+    <target>{0} / {1}</target>
+   </segment>
+   <segment id="SELECT" state="translated">
+    <source>选择</source>
+    <target>選擇</target>
+   </segment>
+   <segment id="ONE_OR_MORE_FIELDS_INVALID" state="translated">
+    <source>一个或多个字段无效。</source>
+    <target>一個或多個字段無效。</target>
+   </segment>
+   <segment id="REPOSITORY" state="translated">
+    <source>Laserfiche Repository</source>
+    <target>Laserfiche Repository</target>
+   </segment>
+   <segment id="INTEGER" state="translated">
+    <source>整数</source>
+    <target>整數</target>
+   </segment>
+   <segment id="SIGNING_IN" state="translated">
+    <source>正在登录...</source>
+    <target>登入...</target>
+   </segment>
+   <segment id="SIGN_IN" state="translated">
+    <source>登录</source>
+    <target>登錄</target>
+   </segment>
+   <segment id="TEMPLATE" state="translated">
+    <source>模板</source>
+    <target>範本</target>
+   </segment>
+   <segment id="SIGNING_OUT" state="translated">
+    <source>正在注销...</source>
+    <target>登出...</target>
+   </segment>
+   <segment id="DATE" state="translated">
+    <source>日期</source>
+    <target>日期</target>
+   </segment>
+   <segment id="SELECT_REASON" state="translated">
+    <source>选择原因</source>
+    <target>選擇原因</target>
+   </segment>
+   <segment id="REASON_FOR_DOWNLOADING" state="translated">
+    <source>下载原因</source>
+    <target>下載原因</target>
+   </segment>
+   <segment id="FILE_LOCKED" state="translated">
+    <source>文件已锁定。</source>
+    <target>檔已鎖定。</target>
+   </segment>
+   <segment id="SIGN_IN_TO_LASERFICHE" state="translated">
+    <source>登录 Laserfiche</source>
+    <target>登錄 Laserfiche</target>
+   </segment>
+   <segment id="BACK" state="translated">
+    <source>返回</source>
+    <target>返回</target>
+   </segment>
+   <segment id="ENTRY_NAME" state="translated">
+    <source>条目名称</source>
+    <target>條目名稱</target>
+   </segment>
+   <segment id="DATE_PROVIDED_IS_INVALID" state="translated">
+    <source>提供的日期无效。</source>
+    <target>提供的日期無效。</target>
+   </segment>
+   <segment id="ATTACHING" state="translated">
+    <source>正在附加...</source>
+    <target>附加中...</target>
+   </segment>
+   <segment id="SAVING" state="translated">
+    <source>保存中...</source>
+    <target>儲存中...</target>
+   </segment>
+   <segment id="FIELDS" state="translated">
+    <source>字段</source>
+    <target>欄位</target>
+   </segment>
+   <segment id="COULD_NOT_SAVE_0_FILE_TYPE_NOT_SUPPORTED" state="translated">
+    <source>无法保存“{0}”。文件类型不受支持。</source>
+    <target>無法保存「{0}」。 檔類型不受支援。</target>
+   </segment>
+   <segment id="DATE_FIELDS_MUST_BE_IN_FORMAT_0" state="translated">
+    <source>日期字段必须采用格式 {0}。</source>
+    <target>日期欄位必須採用格式 {0}。</target>
+   </segment>
+   <segment id="ERROR_DOWNLOADING_DOCUMENT" state="translated">
+    <source>下载文档时出错。</source>
+    <target>下載文件時發生錯誤。</target>
+   </segment>
+   <segment id="FILE_NAME" state="translated">
+    <source>文件名</source>
+    <target>檔名</target>
+   </segment>
+   <segment id="NO_MATCHING_FIELDS_FOUND" state="translated">
+    <source>未找到匹配的字段。</source>
+    <target>未找到匹配的欄位。</target>
+   </segment>
+   <segment id="PARENT_NAME" state="translated">
+    <source>父名称</source>
+    <target>父名稱</target>
+   </segment>
+   <segment id="LIST" state="translated">
+    <source>列表</source>
+    <target>清單</target>
+   </segment>
+   <segment id="FEEDBACK" state="translated">
+    <source>反馈</source>
+    <target>反饋</target>
+   </segment>
+   <segment id="REQUIRED" state="translated">
+    <source>必填</source>
+    <target>必填</target>
+   </segment>
+   <segment id="ERROR_OCCURRED_WHILE_CONNECTING_TO_SERVER" state="translated">
+    <source>连接服务器时发生错误。</source>
+    <target>連接伺服器時發生錯誤。</target>
+   </segment>
+   <segment id="CONFIGURE_REPOSITORY_SETTINGS" state="translated">
+    <source>配置存储库设置</source>
+    <target>配置存儲庫設置</target>
+   </segment>
+   <segment id="REPOSITORY_COUNT" state="translated">
+    <source>存储库计数</source>
+    <target>存儲庫計數</target>
+   </segment>
+   <segment id="SELF_HOSTED" state="translated">
+    <source>自托管</source>
+    <target>自託管</target>
+   </segment>
+   <segment id="FILE_MODIFIED" state="translated">
+    <source>文件已修改</source>
+    <target>檔已修改</target>
+   </segment>
+   <segment id="SOMETHING_WENT_WRONG_PLEASE_TRY_AGAIN_LATER" state="translated">
+    <source>出现问题。请稍后再试。</source>
+    <target>出現問題。 請稍後再試。</target>
+   </segment>
+   <segment id="AN_ERROR_OCCURED" state="translated">
+    <source>发生错误</source>
+    <target>發生錯誤</target>
+   </segment>
+   <segment id="DOCUMENT_NAME_IS_EMPTY" state="translated">
+    <source>文档名称为空</source>
+    <target>文件名稱為空</target>
+   </segment>
+   <segment id="FAILED_TO_SAVE_PERIOD" state="translated">
+    <source>保存失败。</source>
+    <target>保存失敗。</target>
+   </segment>
+   <segment id="SAVE_TO_LASERFICHE" state="translated">
+    <source>保存到 Laserfiche</source>
+    <target>保存到 Laserfiche</target>
+   </segment>
+  </unit>
+ </file>
+</xliff>

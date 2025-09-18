@@ -1,3 +1,12 @@
+## 5.0.2
+
+### Features
+- `[laserfiche-base]`: Add more translated strings.
+
+### Fixes
+
+### Chore & Maintenance
+
 ## 5.0.1
 
 ### Features
