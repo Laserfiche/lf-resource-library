@@ -104,7 +104,7 @@
    </segment>
    <segment id="DEFAULT_FOLDER" state="translated">
     <source>&lt;Default Folder&gt;</source>
-    <target>�c기본 폴더�e</target>
+    <target>&lt;기본 폴더&gt;</target>
    </segment>
    <segment id="REFRESH" state="translated">
     <source>Refresh</source>

@@ -32,7 +32,7 @@
    </segment>
    <segment id="DEFAULT_FOLDER" state="translated">
     <source>&lt;Default Folder&gt;</source>
-    <target>�3cStandaardmap�3e</target>
+    <target>&lt;Standaardmap&gt;</target>
    </segment>
    <segment id="OPEN_IN_LASERFICHE" state="translated">
     <source>Open in Laserfiche</source>

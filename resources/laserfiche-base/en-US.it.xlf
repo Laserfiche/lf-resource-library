@@ -424,7 +424,7 @@
    </segment>
    <segment id="DEFAULT_FOLDER" state="translated">
     <source>&lt;Default Folder&gt;</source>
-    <target>�cCartella predefinita�e</target>
+    <target>&lt;Cartella predefinita&gt;</target>
    </segment>
    <segment id="NO_MATCHING_FIELDS_FOUND" state="translated">
     <source>No matching fields were found.</source>

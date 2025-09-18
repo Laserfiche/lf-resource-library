@@ -80,7 +80,7 @@
    </segment>
    <segment id="DEFAULT_FOLDER" state="translated">
     <source>&lt;Default Folder&gt;</source>
-    <target>�c既定のフォルダー�e</target>
+    <target>&lt;既定のフォルダー&gt;</target>
    </segment>
    <segment id="SUGGESTION" state="translated">
     <source>Suggestion</source>

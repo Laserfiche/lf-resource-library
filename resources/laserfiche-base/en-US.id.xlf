@@ -140,7 +140,7 @@
    </segment>
    <segment id="DEFAULT_FOLDER" state="translated">
     <source>&lt;Default Folder&gt;</source>
-    <target>�cDefault Folder�e</target>
+    <target>&lt;Default Folder&gt;</target>
    </segment>
    <segment id="NUMBER" state="translated">
     <source>Number</source>

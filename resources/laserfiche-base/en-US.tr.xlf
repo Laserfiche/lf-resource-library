@@ -148,7 +148,7 @@
    </segment>
    <segment id="DEFAULT_FOLDER" state="translated">
     <source>&lt;Default Folder&gt;</source>
-    <target>�3cVarsayılan Klasör�3e</target>
+    <target>&lt;Varsayılan Klasör&gt;</target>
    </segment>
    <segment id="NEED_HELP_SIGNING_IN_CONTACT_LASERFICHE_ADMINISTRATOR_FOR_HELP" state="translated">
     <source>Need help signing in? Contact your Laserfiche Administrator for help.</source>

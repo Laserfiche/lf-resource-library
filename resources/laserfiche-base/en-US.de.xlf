@@ -304,7 +304,7 @@
    </segment>
    <segment id="DEFAULT_FOLDER" state="translated">
     <source>&lt;Default Folder&gt;</source>
-    <target>�Standardordner�</target>
+    <target>&lt;Standardordner&gt;</target>
    </segment>
    <segment id="FAILED_TO_SAVE_PERIOD" state="translated">
     <source>Failed to save.</source>

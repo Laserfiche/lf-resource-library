@@ -152,7 +152,7 @@
    </segment>
    <segment id="DEFAULT_FOLDER" state="translated">
     <source>&lt;Default Folder&gt;</source>
-    <target>�Pasta Padrão�</target>
+    <target>&lt;Pasta Padrão&gt;</target>
    </segment>
    <segment id="FAILED_TO_OPEN_FOLDER" state="translated">
     <source>Failed to open folder</source>

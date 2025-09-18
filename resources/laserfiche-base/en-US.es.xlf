@@ -468,7 +468,7 @@
    </segment>
    <segment id="DEFAULT_FOLDER" state="translated">
     <source>&lt;Default Folder&gt;</source>
-    <target>�3cCarpeta predeterminada�3e</target>
+    <target>&lt;Carpeta predeterminada&gt;</target>
    </segment>
    <segment id="NO" state="translated">
     <source>No</source>

@@ -432,7 +432,7 @@
    </segment>
    <segment id="DEFAULT_FOLDER" state="translated">
     <source>&lt;Default Folder&gt;</source>
-    <target>�cFolder Implicit�e</target>
+    <target>&lt;Folder Implicit&gt;</target>
    </segment>
    <segment id="CONFIGURE_REPOSITORY_SETTINGS" state="translated">
     <source>Configure Repository Settings</source>

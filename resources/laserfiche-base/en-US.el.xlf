@@ -372,7 +372,7 @@
    </segment>
    <segment id="DEFAULT_FOLDER" state="translated">
     <source>&lt;Default Folder&gt;</source>
-    <target>�cΠροεπιλεγμένος Φάκελος�e</target>
+    <target>&lt;Προεπιλεγμένος Φάκελος&gt;</target>
    </segment>
    <segment id="SELF_HOSTED" state="translated">
     <source>Self-Hosted</source>

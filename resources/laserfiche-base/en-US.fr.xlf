@@ -256,7 +256,7 @@
    </segment>
    <segment id="DEFAULT_FOLDER" state="translated">
     <source>&lt;Default Folder&gt;</source>
-    <target>�3cDossier par défaut�3e</target>
+    <target>&lt;Dossier par défaut&gt;</target>
    </segment>
    <segment id="NO_MATCHING_FIELDS_FOUND" state="translated">
     <source>No matching fields were found.</source>

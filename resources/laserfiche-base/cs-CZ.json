@@ -27,7 +27,7 @@
   "DATE_PROVIDED_IS_INVALID": "Zadané datum je neplatné.",
   "DATE_TIME": "Datum/Čas",
   "DATE_TIME_FIELDS_MUST_BE_IN_FORMAT_0": "Pole data/času musí být ve formátu {0}.",
-  "DEFAULT_FOLDER": "�cVýchozí složka�e",
+  "DEFAULT_FOLDER": "<Výchozí složka>",
   "DETAILS": "Detaily",
   "DO_YOU_WANT_TO_APPLY_YOUR_FIELD_CHANGES": "Chcete použít změny polí?",
   "DOCUMENT_NAME_IS_EMPTY": "Název dokumentu je prázdný",

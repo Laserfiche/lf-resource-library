@@ -152,7 +152,7 @@
    </segment>
    <segment id="DEFAULT_FOLDER" state="translated">
     <source>&lt;Default Folder&gt;</source>
-    <target>�cVýchozí složka�e</target>
+    <target>&lt;Výchozí složka&gt;</target>
    </segment>
    <segment id="CLOSE" state="translated">
     <source>Close</source>

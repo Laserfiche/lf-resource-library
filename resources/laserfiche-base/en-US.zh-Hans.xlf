@@ -72,7 +72,7 @@
    </segment>
    <segment id="DEFAULT_FOLDER" state="translated">
     <source>&lt;Default Folder&gt;</source>
-    <target>�c默认文件夹�e</target>
+    <target>&lt;默认文件夹&gt;</target>
    </segment>
    <segment id="NO" state="translated">
     <source>No</source>
