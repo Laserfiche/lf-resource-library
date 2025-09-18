@@ -368,7 +368,7 @@
    </segment>
    <segment id="DEFAULT_FOLDER" state="translated">
     <source>&lt;Default Folder&gt;</source>
-    <target>&lt;Default Folder&gt;</target>
+    <target>&lt;โฟลเดอร์เริ่มต้น&gt;</target>
    </segment>
    <segment id="NO_TEMPLATE_ASSIGNED" state="translated">
     <source>No template assigned</source>

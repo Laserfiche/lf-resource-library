@@ -32,7 +32,7 @@
    </segment>
    <segment id="DEFAULT_FOLDER" state="translated">
     <source>&lt;Default Folder&gt;</source>
-    <target>&lt;Default Folder&gt;</target>
+    <target>&lt;Thư Mục Mặc Định&gt;</target>
    </segment>
    <segment id="AN_ERROR_OCCURED" state="translated">
     <source>An error occurred</source>

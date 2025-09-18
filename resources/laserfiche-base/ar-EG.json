@@ -27,7 +27,7 @@
   "DATE_PROVIDED_IS_INVALID": "التاريخ المقدم غير صالح.",
   "DATE_TIME": "التاريخ/الوقت",
   "DATE_TIME_FIELDS_MUST_BE_IN_FORMAT_0": "يجب أن تكون حقول التاريخ/الوقت بالتنسيق {0}.",
-  "DEFAULT_FOLDER": "<Default Folder>",
+  "DEFAULT_FOLDER": "<المجلد الافتراضي>",
   "DETAILS": "التفاصيل",
   "DO_YOU_WANT_TO_APPLY_YOUR_FIELD_CHANGES": "هل تريد تطبيق تغييرات الحقل؟",
   "DOCUMENT_NAME_IS_EMPTY": "اسم المستند فارغ",

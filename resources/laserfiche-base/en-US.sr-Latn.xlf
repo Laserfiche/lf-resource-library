@@ -436,7 +436,7 @@
    </segment>
    <segment id="DEFAULT_FOLDER" state="translated">
     <source>&lt;Default Folder&gt;</source>
-    <target>&lt;Default Folder&gt;</target>
+    <target>&lt;Podrazumevana Fascikla&gt;</target>
    </segment>
    <segment id="PARENT_ID" state="translated">
     <source>Parent ID</source>

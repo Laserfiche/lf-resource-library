@@ -116,7 +116,7 @@
    </segment>
    <segment id="DEFAULT_FOLDER" state="translated">
     <source>�cDefault Folder�e</source>
-    <target>�cDefault Folder�e</target>
+    <target>�c預設資料夾�e</target>
    </segment>
    <segment id="DATE_TIME" state="translated">
     <source>日期/时间</source>

@@ -196,7 +196,7 @@
    </segment>
    <segment id="DEFAULT_FOLDER" state="translated">
     <source>&lt;Default Folder&gt;</source>
-    <target>&lt;Default Folder&gt;</target>
+    <target>&lt;المجلد الافتراضي&gt;</target>
    </segment>
    <segment id="DATE_FIELDS_MUST_BE_IN_FORMAT_0" state="translated">
     <source>Date fields must be in the format {0}.</source>
