@@ -28,7 +28,7 @@
    </segment>
    <segment id="DEFAULT_FOLDER" state="translated">
     <source>&lt;Default Folder&gt;</source>
-    <target>�3cDossier par défaut�3e</target>
+    <target>&lt;Dossier par défaut&gt;</target>
    </segment>
    <segment id="THIS_FIELD_HAS_MAXIMUM_ALLOWED_LENGTH_0_CHARACTERS" state="translated">
     <source>This field has a maximum allowed length of {0} characters.</source>

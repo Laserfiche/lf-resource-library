@@ -164,7 +164,7 @@
    </segment>
    <segment id="DEFAULT_FOLDER" state="translated">
     <source>&lt;Default Folder&gt;</source>
-    <target>�3cDossier par défaut�3e</target>
+    <target>&lt;Dossier par défaut&gt;</target>
    </segment>
    <segment id="CANCEL" state="translated">
     <source>Cancel</source>
