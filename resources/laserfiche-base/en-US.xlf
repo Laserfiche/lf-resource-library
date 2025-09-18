@@ -2,380 +2,380 @@
 <xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" version="2.1" srcLang="en">
  <file id="en-US.json">
   <unit id="u1">
-   <segment id="NOT_AVAILABLE_WITH_TOKENS">
-    <source>Not available with tokens</source>
-   </segment>
-   <segment id="TIME_FIELDS_MUST_BE_IN_FORMAT_0">
-    <source>Time fields must be in the format {0}.</source>
-   </segment>
-   <segment id="NAME_CONFLICT">
-    <source>Name Conflict</source>
-   </segment>
-   <segment id="DOCUMENT_NAME_IS_EMPTY">
-    <source>Document name is empty</source>
-   </segment>
-   <segment id="PLEASE_SELECT_A_FOLDER">
-    <source>Please select a folder</source>
-   </segment>
-   <segment id="ENTRY_0_ALREADY_EXISTS_SELECT_DIFFERENT_NAME">
-    <source>An entry named &apos;{0}&apos; already exists in this folder. Please select a different name.</source>
-   </segment>
-   <segment id="DEFAULT_FOLDER">
-    <source>&lt;Default Folder&gt;</source>
-   </segment>
-   <segment id="SAVED_TO_LASERFICHE">
-    <source>Saved to Laserfiche</source>
-   </segment>
-   <segment id="FAILED_TO_SAVE_PERIOD">
-    <source>Failed to save.</source>
-   </segment>
-   <segment id="NO_ADDITIONAL_FIELDS_ASSIGNED">
-    <source>No additional fields assigned</source>
-   </segment>
-   <segment id="PARENT_NAME">
-    <source>Parent Name</source>
-   </segment>
-   <segment id="FILE_NAME">
-    <source>File Name</source>
-   </segment>
-   <segment id="COMMENT">
-    <source>Comment</source>
-   </segment>
-   <segment id="SUGGESTION">
-    <source>Suggestion</source>
-   </segment>
-   <segment id="OPEN">
-    <source>Open</source>
-   </segment>
-   <segment id="PARENT_ID">
-    <source>Parent ID</source>
-   </segment>
-   <segment id="CLOSE">
-    <source>Close</source>
-   </segment>
-   <segment id="REASON_FOR_DOWNLOADING">
-    <source>Reason for Downloading</source>
-   </segment>
-   <segment id="AN_ERROR_OCCURED">
-    <source>An error occurred</source>
-   </segment>
-   <segment id="SELECT_REASON">
-    <source>Select a reason</source>
-   </segment>
-   <segment id="SAVE_CHANGES">
-    <source>Save Changes</source>
-   </segment>
-   <segment id="BACK">
-    <source>Back</source>
-   </segment>
-   <segment id="DETAILS">
-    <source>Details</source>
-   </segment>
-   <segment id="FILE_MODIFIED">
-    <source>File Modified</source>
-   </segment>
-   <segment id="OR">
-    <source>or</source>
-   </segment>
-   <segment id="ATTACHING">
-    <source>Attaching...</source>
-   </segment>
-   <segment id="FILE_EXCEEDS_MAXIMUM_FILE_SIZE_25MB">
-    <source>This file exceeds the maximum file size of 25MB.</source>
-   </segment>
-   <segment id="0_ALREADY_EXISTS">
-    <source>&quot;{0}&quot; already exists.</source>
-   </segment>
-   <segment id="FAILED_TO_SAVE_COLON">
-    <source>Failed to save:</source>
-   </segment>
-   <segment id="SAVED_TO_LASERFICHE_COLON">
-    <source>Saved to Laserfiche:</source>
-   </segment>
-   <segment id="FILE_EXTENSION">
-    <source>File Extension</source>
-   </segment>
-   <segment id="INTEGER">
-    <source>Integer</source>
-   </segment>
-   <segment id="ACCOUNT_ID">
-    <source>Account ID</source>
-   </segment>
-   <segment id="UNKNOWN_ERROR">
-    <source>Unknown Error.</source>
-   </segment>
-   <segment id="OPEN_IN_LASERFICHE">
-    <source>Open in Laserfiche</source>
-   </segment>
-   <segment id="OK">
-    <source>Ok</source>
-   </segment>
-   <segment id="DATE_TIME_FIELDS_MUST_BE_IN_FORMAT_0">
-    <source>Date/time fields must be in the format {0}.</source>
-   </segment>
-   <segment id="DATE_TIME">
-    <source>Date/Time</source>
-   </segment>
-   <segment id="NEW_FOLDER">
-    <source>New Folder</source>
-   </segment>
-   <segment id="COULD_NOT_SAVE_0_FILE_TYPE_NOT_SUPPORTED">
-    <source>Could not save &quot;{0}&quot;. File type not supported.</source>
-   </segment>
-   <segment id="TEXT">
-    <source>Text</source>
-   </segment>
-   <segment id="USER_NAME">
-    <source>User Name</source>
-   </segment>
-   <segment id="REQUIRED">
-    <source>Required</source>
-   </segment>
-   <segment id="BROWSE">
-    <source>Browse</source>
-   </segment>
-   <segment id="TIME">
-    <source>Time</source>
-   </segment>
    <segment id="CHARACTER_COUNT">
     <source>Character count:</source>
-   </segment>
-   <segment id="FEEDBACK">
-    <source>Feedback</source>
-   </segment>
-   <segment id="ENTRY_ID">
-    <source>Entry ID</source>
-   </segment>
-   <segment id="LONG_FIELDS_MUST_BE_INTEGERS_BETWEEN_0_3999999999">
-    <source>Long fields must be integers between 0 and 3,999,999,999</source>
-   </segment>
-   <segment id="DATE">
-    <source>Date</source>
-   </segment>
-   <segment id="THANK_YOU_FOR_SUBMISSION">
-    <source>Thank you for your submission!</source>
-   </segment>
-   <segment id="DO_YOU_WANT_TO_APPLY_YOUR_FIELD_CHANGES">
-    <source>Do you want to apply your field changes?</source>
-   </segment>
-   <segment id="AUTOMATICALLY_RENAME">
-    <source>Automatically rename</source>
-   </segment>
-   <segment id="FILENAMES_CANNOT_CONTAIN_BACKSLASH">
-    <source>Filenames cannot contain a backslash</source>
-   </segment>
-   <segment id="COULD_NOT_SAVE_0">
-    <source>Could not save &quot;{0}&quot;.</source>
-   </segment>
-   <segment id="FOLDER">
-    <source>Folder</source>
-   </segment>
-   <segment id="SAVING">
-    <source>Saving...</source>
-   </segment>
-   <segment id="SUBMIT">
-    <source>Submit</source>
-   </segment>
-   <segment id="REQUIRED_FIELD_IS_EMPTY">
-    <source>Required field is empty</source>
-   </segment>
-   <segment id="ERROR_SAVING">
-    <source>Error saving:</source>
-   </segment>
-   <segment id="LOADING">
-    <source>Loading...</source>
-   </segment>
-   <segment id="OPTIONAL">
-    <source>Optional</source>
-   </segment>
-   <segment id="SHORT_FIELDS_MUST_BE_INTEGERS_BETWEEN_0_64999">
-    <source>Short fields must be integers between 0 and 64999</source>
-   </segment>
-   <segment id="THIS_FOLDER_IS_EMPTY">
-    <source>This folder is empty.</source>
-   </segment>
-   <segment id="REPOSITORY_COUNT">
-    <source>Repository Count</source>
-   </segment>
-   <segment id="SKIP_THIS_FILE">
-    <source>Skip this file</source>
-   </segment>
-   <segment id="SEARCH_FIELDS">
-    <source>Search fields</source>
-   </segment>
-   <segment id="REFRESH">
-    <source>Refresh</source>
-   </segment>
-   <segment id="ADD">
-    <source>Add</source>
-   </segment>
-   <segment id="FAILED_TO_OPEN_FOLDER">
-    <source>Failed to open folder</source>
-   </segment>
-   <segment id="DATA">
-    <source>Data</source>
-   </segment>
-   <segment id="DATE_FIELDS_MUST_BE_IN_FORMAT_0">
-    <source>Date fields must be in the format {0}.</source>
    </segment>
    <segment id="APPLY_CHANGES">
     <source>Apply changes</source>
    </segment>
+   <segment id="SOMETHING_WENT_WRONG_PLEASE_TRY_AGAIN_LATER">
+    <source>Something went wrong. Please try again later.</source>
+   </segment>
+   <segment id="AUTOMATICALLY_RENAME">
+    <source>Automatically rename</source>
+   </segment>
+   <segment id="PLEASE_SELECT_A_FOLDER">
+    <source>Please select a folder</source>
+   </segment>
    <segment id="SIGN_IN">
     <source>Sign in</source>
-   </segment>
-   <segment id="ENTRY_NAME">
-    <source>Entry Name</source>
-   </segment>
-   <segment id="ATTACH_AS_LINK">
-    <source>Attach as Link</source>
-   </segment>
-   <segment id="LIST">
-    <source>List</source>
-   </segment>
-   <segment id="REMOVE_REPOSITORY">
-    <source>Remove Repository?</source>
-   </segment>
-   <segment id="SESSION_COUNT">
-    <source>Session Count</source>
-   </segment>
-   <segment id="SELECT">
-    <source>Select</source>
-   </segment>
-   <segment id="FIELDS">
-    <source>Fields</source>
-   </segment>
-   <segment id="ATTACH">
-    <source>Attach</source>
-   </segment>
-   <segment id="PARENT_FIELD">
-    <source>Parent Field</source>
-   </segment>
-   <segment id="CANCEL">
-    <source>Cancel</source>
-   </segment>
-   <segment id="NEED_HELP_SIGNING_IN_CONTACT_LASERFICHE_ADMINISTRATOR_FOR_HELP">
-    <source>Need help signing in? Contact your Laserfiche Administrator for help.</source>
-   </segment>
-   <segment id="LONG_INTEGER">
-    <source>Long Integer</source>
-   </segment>
-   <segment id="NO_MATCHING_FIELDS_FOUND">
-    <source>No matching fields were found.</source>
-   </segment>
-   <segment id="REPOSITORY_ID">
-    <source>Repository ID</source>
-   </segment>
-   <segment id="0_OF_1">
-    <source>{0} of {1}</source>
-   </segment>
-   <segment id="CLOUD">
-    <source>Cloud</source>
-   </segment>
-   <segment id="ERROR_DOWNLOADING_DOCUMENT">
-    <source>Error downloading document.</source>
-   </segment>
-   <segment id="ADD_REMOVE_FIELDS">
-    <source>Add/remove fields</source>
-   </segment>
-   <segment id="THIS_FIELD_HAS_MAXIMUM_ALLOWED_LENGTH_0_CHARACTERS">
-    <source>This field has a maximum allowed length of {0} characters.</source>
-   </segment>
-   <segment id="NAME">
-    <source>Name</source>
    </segment>
    <segment id="NUMBER">
     <source>Number</source>
    </segment>
-   <segment id="NUMBER_FIELD_MUST_BE_VALID_NUMBER">
-    <source>Number field must be a valid number</source>
+   <segment id="COULD_NOT_SAVE_0">
+    <source>Could not save &quot;{0}&quot;.</source>
    </segment>
-   <segment id="SOMETHING_WENT_WRONG_PLEASE_TRY_AGAIN_LATER">
-    <source>Something went wrong. Please try again later.</source>
+   <segment id="SAVING">
+    <source>Saving...</source>
    </segment>
-   <segment id="NO_TEMPLATE_ASSIGNED">
-    <source>No template assigned</source>
+   <segment id="ADD_REMOVE_FIELDS">
+    <source>Add/remove fields</source>
    </segment>
-   <segment id="NO_MATCHING_ENTRIES_FOUND">
-    <source>No matching entries were found</source>
+   <segment id="DATE">
+    <source>Date</source>
    </segment>
-   <segment id="SETTINGS">
-    <source>Settings</source>
-   </segment>
-   <segment id="UNABLE_TO_LOAD_ALL_FIELDS">
-    <source>Unable to load all fields:</source>
-   </segment>
-   <segment id="FILE_LOCKED">
-    <source>File is locked.</source>
-   </segment>
-   <segment id="YES">
-    <source>Yes</source>
-   </segment>
-   <segment id="SAVED_WITH_MISSING_METADATA">
-    <source>Saved with missing metadata:</source>
-   </segment>
-   <segment id="SIGN_OUT">
-    <source>Sign out</source>
-   </segment>
-   <segment id="ONE_OR_MORE_FIELDS_INVALID">
-    <source>One or more fields are invalid.</source>
-   </segment>
-   <segment id="TEMPLATE">
-    <source>Template</source>
-   </segment>
-   <segment id="REPOSITORY_NAME">
-    <source>Repository Name</source>
-   </segment>
-   <segment id="NO">
-    <source>No</source>
-   </segment>
-   <segment id="NO_FOLDER_SELECTED">
-    <source>No folder is selected.</source>
-   </segment>
-   <segment id="SAVE_TO_LASERFICHE">
-    <source>Save to Laserfiche</source>
-   </segment>
-   <segment id="UNABLE_TO_RETRIEVE_REPOSITORY_INFORMATION">
-    <source>Unable to retrieve repository information:</source>
-   </segment>
-   <segment id="CONFIGURE_REPOSITORY_SETTINGS">
-    <source>Configure Repository Settings</source>
-   </segment>
-   <segment id="ERROR_OCCURRED_WHILE_CONNECTING_TO_SERVER">
-    <source>An error occurred while connecting to the server.</source>
-   </segment>
-   <segment id="REMOVE">
-    <source>Remove</source>
+   <segment id="NEW_FOLDER">
+    <source>New Folder</source>
    </segment>
    <segment id="SIGNING_OUT">
     <source>Signing out...</source>
    </segment>
-   <segment id="APPLY">
-    <source>Apply</source>
+   <segment id="ERROR_SAVING">
+    <source>Error saving:</source>
    </segment>
-   <segment id="REPOSITORY">
-    <source>Repository</source>
+   <segment id="NO_FOLDER_SELECTED">
+    <source>No folder is selected.</source>
    </segment>
-   <segment id="DRAG_DROP_FILE">
-    <source>Drag and drop file</source>
+   <segment id="NAME">
+    <source>Name</source>
    </segment>
-   <segment id="TEMPLATE_HAS_FAILED_TO_LOAD">
-    <source>The template has failed to load.</source>
+   <segment id="0_OF_1">
+    <source>{0} of {1}</source>
    </segment>
-   <segment id="SIGN_IN_TO_LASERFICHE">
-    <source>Sign in to Laserfiche</source>
+   <segment id="UNKNOWN_ERROR">
+    <source>Unknown Error.</source>
    </segment>
-   <segment id="SELF_HOSTED">
-    <source>Self-Hosted</source>
+   <segment id="SAVE_CHANGES">
+    <source>Save Changes</source>
+   </segment>
+   <segment id="NUMBER_FIELD_MUST_BE_VALID_NUMBER">
+    <source>Number field must be a valid number</source>
+   </segment>
+   <segment id="SIGN_OUT">
+    <source>Sign out</source>
+   </segment>
+   <segment id="AN_ERROR_OCCURED">
+    <source>An error occurred</source>
+   </segment>
+   <segment id="FOLDER">
+    <source>Folder</source>
+   </segment>
+   <segment id="LOADING">
+    <source>Loading...</source>
+   </segment>
+   <segment id="SEARCH_FIELDS">
+    <source>Search fields</source>
+   </segment>
+   <segment id="DETAILS">
+    <source>Details</source>
+   </segment>
+   <segment id="NEED_HELP_SIGNING_IN_CONTACT_LASERFICHE_ADMINISTRATOR_FOR_HELP">
+    <source>Need help signing in? Contact your Laserfiche Administrator for help.</source>
+   </segment>
+   <segment id="THIS_FOLDER_IS_EMPTY">
+    <source>This folder is empty.</source>
+   </segment>
+   <segment id="REQUIRED_FIELD_IS_EMPTY">
+    <source>Required field is empty</source>
+   </segment>
+   <segment id="OPEN_IN_LASERFICHE">
+    <source>Open in Laserfiche</source>
+   </segment>
+   <segment id="NO_TEMPLATE_ASSIGNED">
+    <source>No template assigned</source>
+   </segment>
+   <segment id="SESSION_COUNT">
+    <source>Session Count</source>
+   </segment>
+   <segment id="LONG_FIELDS_MUST_BE_INTEGERS_BETWEEN_0_3999999999">
+    <source>Long fields must be integers between 0 and 3,999,999,999</source>
+   </segment>
+   <segment id="DATA">
+    <source>Data</source>
+   </segment>
+   <segment id="THIS_FIELD_HAS_MAXIMUM_ALLOWED_LENGTH_0_CHARACTERS">
+    <source>This field has a maximum allowed length of {0} characters.</source>
+   </segment>
+   <segment id="NO_ADDITIONAL_FIELDS_ASSIGNED">
+    <source>No additional fields assigned</source>
+   </segment>
+   <segment id="CONFIGURE_REPOSITORY_SETTINGS">
+    <source>Configure Repository Settings</source>
+   </segment>
+   <segment id="NOT_AVAILABLE_WITH_TOKENS">
+    <source>Not available with tokens</source>
+   </segment>
+   <segment id="TEMPLATE">
+    <source>Template</source>
+   </segment>
+   <segment id="OPEN">
+    <source>Open</source>
+   </segment>
+   <segment id="OK">
+    <source>Ok</source>
+   </segment>
+   <segment id="FILE_MODIFIED">
+    <source>File Modified</source>
+   </segment>
+   <segment id="ATTACH">
+    <source>Attach</source>
+   </segment>
+   <segment id="CANCEL">
+    <source>Cancel</source>
+   </segment>
+   <segment id="ENTRY_NAME">
+    <source>Entry Name</source>
+   </segment>
+   <segment id="SKIP_THIS_FILE">
+    <source>Skip this file</source>
    </segment>
    <segment id="SIGNING_IN">
     <source>Signing in...</source>
    </segment>
+   <segment id="COULD_NOT_SAVE_0_FILE_TYPE_NOT_SUPPORTED">
+    <source>Could not save &quot;{0}&quot;. File type not supported.</source>
+   </segment>
+   <segment id="FEEDBACK">
+    <source>Feedback</source>
+   </segment>
+   <segment id="TIME">
+    <source>Time</source>
+   </segment>
+   <segment id="SIGN_IN_TO_LASERFICHE">
+    <source>Sign in to Laserfiche</source>
+   </segment>
+   <segment id="USER_NAME">
+    <source>User Name</source>
+   </segment>
+   <segment id="FILE_NAME">
+    <source>File Name</source>
+   </segment>
+   <segment id="SUGGESTION">
+    <source>Suggestion</source>
+   </segment>
+   <segment id="SELECT">
+    <source>Select</source>
+   </segment>
+   <segment id="LIST">
+    <source>List</source>
+   </segment>
+   <segment id="SAVED_TO_LASERFICHE">
+    <source>Saved to Laserfiche</source>
+   </segment>
+   <segment id="UNABLE_TO_LOAD_ALL_FIELDS">
+    <source>Unable to load all fields:</source>
+   </segment>
+   <segment id="DO_YOU_WANT_TO_APPLY_YOUR_FIELD_CHANGES">
+    <source>Do you want to apply your field changes?</source>
+   </segment>
+   <segment id="SAVED_WITH_MISSING_METADATA">
+    <source>Saved with missing metadata:</source>
+   </segment>
+   <segment id="FIELDS">
+    <source>Fields</source>
+   </segment>
+   <segment id="DATE_FIELDS_MUST_BE_IN_FORMAT_0">
+    <source>Date fields must be in the format {0}.</source>
+   </segment>
+   <segment id="FAILED_TO_SAVE_PERIOD">
+    <source>Failed to save.</source>
+   </segment>
+   <segment id="NO_MATCHING_ENTRIES_FOUND">
+    <source>No matching entries were found</source>
+   </segment>
+   <segment id="ATTACH_AS_LINK">
+    <source>Attach as Link</source>
+   </segment>
+   <segment id="FILE_EXTENSION">
+    <source>File Extension</source>
+   </segment>
+   <segment id="SAVED_TO_LASERFICHE_COLON">
+    <source>Saved to Laserfiche:</source>
+   </segment>
+   <segment id="REMOVE">
+    <source>Remove</source>
+   </segment>
+   <segment id="BROWSE">
+    <source>Browse</source>
+   </segment>
+   <segment id="ADD">
+    <source>Add</source>
+   </segment>
+   <segment id="CLOUD">
+    <source>Cloud</source>
+   </segment>
+   <segment id="DATE_TIME">
+    <source>Date/Time</source>
+   </segment>
+   <segment id="DOCUMENT_NAME_IS_EMPTY">
+    <source>Document name is empty</source>
+   </segment>
+   <segment id="BACK">
+    <source>Back</source>
+   </segment>
+   <segment id="OPTIONAL">
+    <source>Optional</source>
+   </segment>
+   <segment id="TEXT">
+    <source>Text</source>
+   </segment>
+   <segment id="PARENT_FIELD">
+    <source>Parent Field</source>
+   </segment>
+   <segment id="SELF_HOSTED">
+    <source>Self-Hosted</source>
+   </segment>
+   <segment id="SUBMIT">
+    <source>Submit</source>
+   </segment>
+   <segment id="REPOSITORY_COUNT">
+    <source>Repository Count</source>
+   </segment>
+   <segment id="THANK_YOU_FOR_SUBMISSION">
+    <source>Thank you for your submission!</source>
+   </segment>
+   <segment id="LONG_INTEGER">
+    <source>Long Integer</source>
+   </segment>
+   <segment id="DRAG_DROP_FILE">
+    <source>Drag and drop file</source>
+   </segment>
+   <segment id="REQUIRED">
+    <source>Required</source>
+   </segment>
    <segment id="DATE_PROVIDED_IS_INVALID">
     <source>The date provided is invalid.</source>
    </segment>
+   <segment id="TEMPLATE_HAS_FAILED_TO_LOAD">
+    <source>The template has failed to load.</source>
+   </segment>
+   <segment id="ATTACHING">
+    <source>Attaching...</source>
+   </segment>
+   <segment id="ENTRY_0_ALREADY_EXISTS_SELECT_DIFFERENT_NAME">
+    <source>An entry named &apos;{0}&apos; already exists in this folder. Please select a different name.</source>
+   </segment>
+   <segment id="FAILED_TO_SAVE_COLON">
+    <source>Failed to save:</source>
+   </segment>
+   <segment id="YES">
+    <source>Yes</source>
+   </segment>
+   <segment id="ERROR_OCCURRED_WHILE_CONNECTING_TO_SERVER">
+    <source>An error occurred while connecting to the server.</source>
+   </segment>
+   <segment id="NO">
+    <source>No</source>
+   </segment>
+   <segment id="APPLY">
+    <source>Apply</source>
+   </segment>
+   <segment id="UNABLE_TO_RETRIEVE_REPOSITORY_INFORMATION">
+    <source>Unable to retrieve repository information:</source>
+   </segment>
+   <segment id="CLOSE">
+    <source>Close</source>
+   </segment>
+   <segment id="NAME_CONFLICT">
+    <source>Name Conflict</source>
+   </segment>
+   <segment id="0_ALREADY_EXISTS">
+    <source>&quot;{0}&quot; already exists.</source>
+   </segment>
+   <segment id="REPOSITORY_ID">
+    <source>Repository ID</source>
+   </segment>
+   <segment id="REPOSITORY">
+    <source>Repository</source>
+   </segment>
+   <segment id="ACCOUNT_ID">
+    <source>Account ID</source>
+   </segment>
+   <segment id="ENTRY_ID">
+    <source>Entry ID</source>
+   </segment>
+   <segment id="FAILED_TO_OPEN_FOLDER">
+    <source>Failed to open folder</source>
+   </segment>
+   <segment id="ONE_OR_MORE_FIELDS_INVALID">
+    <source>One or more fields are invalid.</source>
+   </segment>
+   <segment id="PARENT_ID">
+    <source>Parent ID</source>
+   </segment>
+   <segment id="DATE_TIME_FIELDS_MUST_BE_IN_FORMAT_0">
+    <source>Date/time fields must be in the format {0}.</source>
+   </segment>
+   <segment id="DEFAULT_FOLDER">
+    <source>&lt;Default Folder&gt;</source>
+   </segment>
+   <segment id="REMOVE_REPOSITORY">
+    <source>Remove Repository?</source>
+   </segment>
+   <segment id="SELECT_REASON">
+    <source>Select a reason</source>
+   </segment>
+   <segment id="SHORT_FIELDS_MUST_BE_INTEGERS_BETWEEN_0_64999">
+    <source>Short fields must be integers between 0 and 64999</source>
+   </segment>
+   <segment id="REPOSITORY_NAME">
+    <source>Repository Name</source>
+   </segment>
+   <segment id="TIME_FIELDS_MUST_BE_IN_FORMAT_0">
+    <source>Time fields must be in the format {0}.</source>
+   </segment>
+   <segment id="PARENT_NAME">
+    <source>Parent Name</source>
+   </segment>
+   <segment id="FILE_EXCEEDS_MAXIMUM_FILE_SIZE_25MB">
+    <source>This file exceeds the maximum file size of 25MB.</source>
+   </segment>
+   <segment id="OR">
+    <source>or</source>
+   </segment>
+   <segment id="REASON_FOR_DOWNLOADING">
+    <source>Reason for Downloading</source>
+   </segment>
+   <segment id="FILENAMES_CANNOT_CONTAIN_BACKSLASH">
+    <source>Filenames cannot contain a backslash</source>
+   </segment>
    <segment id="ENTRY_NOT_FOUND">
     <source>Entry not found.</source>
+   </segment>
+   <segment id="INTEGER">
+    <source>Integer</source>
+   </segment>
+   <segment id="FILE_LOCKED">
+    <source>File is locked.</source>
+   </segment>
+   <segment id="NO_MATCHING_FIELDS_FOUND">
+    <source>No matching fields were found.</source>
+   </segment>
+   <segment id="SAVE_TO_LASERFICHE">
+    <source>Save to Laserfiche</source>
+   </segment>
+   <segment id="SETTINGS">
+    <source>Settings</source>
+   </segment>
+   <segment id="REFRESH">
+    <source>Refresh</source>
+   </segment>
+   <segment id="ERROR_DOWNLOADING_DOCUMENT">
+    <source>Error downloading document.</source>
+   </segment>
+   <segment id="COMMENT">
+    <source>Comment</source>
    </segment>
   </unit>
  </file>

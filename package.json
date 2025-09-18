@@ -12,5 +12,8 @@
     "url": "https://github.com/Laserfiche/lf-resource-library/issues"
   },
   "files": ["resources/*"],
+  "scripts": {
+    "prepublishOnly": "node scripts/prePublishOnly.js"
+  },  
   "homepage": "https://github.com/Laserfiche/lf-resource-library#readme"
 }
