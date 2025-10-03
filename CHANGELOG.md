@@ -1,11 +1,12 @@
 ## 5.0.2
 
 ### Features
-- `[laserfiche-base]`: Add more translated strings.
+- `[resources/laserfiche-base]`: Add more translated strings.
 
 ### Fixes
 
 ### Chore & Maintenance
+- Updated SVG icons.
 
 ## 5.0.1
 
