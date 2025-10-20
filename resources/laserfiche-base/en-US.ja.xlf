@@ -164,7 +164,7 @@
    </segment>
    <segment id="TEMPLATE" state="translated">
     <source>Template</source>
-    <target>Template</target>
+    <target>テンプレート</target>
    </segment>
    <segment id="PARENT_FIELD" state="translated">
     <source>Parent Field</source>
