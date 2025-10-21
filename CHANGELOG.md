@@ -1,3 +1,8 @@
+## 5.0.3
+
+### Fixes
+- `[resources/laserfiche-base]`: Fix translated string TEMPLATE in ja-JP.
+
 ## 5.0.2
 
 ### Features
