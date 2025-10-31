@@ -115,8 +115,8 @@
     <target>保存更改</target>
    </segment>
    <segment id="DEFAULT_FOLDER" state="translated">
-    <source>&lt;Default Folder&gt;</source>
-    <target>&lt;預設資料夾&gt;</target>
+    
+   <source>&lt;默认文件夹&gt;</source> <target>&lt;默认文件夹&gt;</target>
    </segment>
    <segment id="DATE_TIME" state="translated">
     <source>日期/时间</source>
