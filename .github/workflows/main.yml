@@ -6,6 +6,10 @@ on:
 
 env:
   NPM_VERSION: "5.0.3"
+
+permissions:
+  contents: read
+  id-token: write
   
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
